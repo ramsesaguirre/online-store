@@ -19573,10 +19573,7 @@ var staticRenderFns = [
                 _c("a", { attrs: { href: "kitchen.html" } }, [
                   _c("img", {
                     staticClass: "first-slide",
-                    attrs: {
-                      src: "online-store/public/assets/images/ba.jpg",
-                      alt: "First slide"
-                    }
+                    attrs: { src: "assets/images/ba.jpg", alt: "First slide" }
                   })
                 ])
               ]),
@@ -19585,10 +19582,7 @@ var staticRenderFns = [
                 _c("a", { attrs: { href: "care.html" } }, [
                   _c("img", {
                     staticClass: "second-slide ",
-                    attrs: {
-                      src: "online-store/public/assets/images/ba1.jpg",
-                      alt: "Second slide"
-                    }
+                    attrs: { src: "assets/images/ba1.jpg", alt: "Second slide" }
                   })
                 ])
               ]),
@@ -19597,10 +19591,7 @@ var staticRenderFns = [
                 _c("a", { attrs: { href: "hold.html" } }, [
                   _c("img", {
                     staticClass: "third-slide ",
-                    attrs: {
-                      src: "online-store/public/assets/images/ba2.jpg",
-                      alt: "Third slide"
-                    }
+                    attrs: { src: "assets/images/ba2.jpg", alt: "Third slide" }
                   })
                 ])
               ])
@@ -19748,7 +19739,7 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "logo" }, [
       _c("h1", [
-        _c("a", { attrs: { href: "index.html" } }, [
+        _c("a", { attrs: { href: "#" } }, [
           _c("b", [_vm._v("T"), _c("br"), _vm._v("H"), _c("br"), _vm._v("E")]),
           _vm._v("Big Store"),
           _c("span", [_vm._v("The Best Supermarket")])
@@ -20276,10 +20267,7 @@ var staticRenderFns = [
                         [
                           _c("img", {
                             staticClass: "img-responsive",
-                            attrs: {
-                              src: "online-store/public/assets/images/of.png",
-                              alt: ""
-                            }
+                            attrs: { src: "assets/images/of.png", alt: "" }
                           }),
                           _vm._v(" "),
                           _c("div", { staticClass: "offer" }, [
@@ -20350,10 +20338,7 @@ var staticRenderFns = [
                         [
                           _c("img", {
                             staticClass: "img-responsive",
-                            attrs: {
-                              src: "online-store/public/assets/images/of1.png",
-                              alt: ""
-                            }
+                            attrs: { src: "assets/images/of1.png", alt: "" }
                           }),
                           _vm._v(" "),
                           _c("div", { staticClass: "offer" }, [
@@ -20424,10 +20409,7 @@ var staticRenderFns = [
                         [
                           _c("img", {
                             staticClass: "img-responsive",
-                            attrs: {
-                              src: "online-store/public/assets/images/of2.png",
-                              alt: ""
-                            }
+                            attrs: { src: "assets/images/of2.png", alt: "" }
                           }),
                           _vm._v(" "),
                           _c("div", { staticClass: "offer" }, [
@@ -20498,10 +20480,7 @@ var staticRenderFns = [
                         [
                           _c("img", {
                             staticClass: "img-responsive",
-                            attrs: {
-                              src: "online-store/public/assets/images/of3.png",
-                              alt: ""
-                            }
+                            attrs: { src: "assets/images/of3.png", alt: "" }
                           }),
                           _vm._v(" "),
                           _c("div", { staticClass: "offer" }, [
@@ -20582,10 +20561,7 @@ var staticRenderFns = [
                         [
                           _c("img", {
                             staticClass: "img-responsive",
-                            attrs: {
-                              src: "online-store/public/assets/images/of4.png",
-                              alt: ""
-                            }
+                            attrs: { src: "assets/images/of4.png", alt: "" }
                           }),
                           _vm._v(" "),
                           _c("div", { staticClass: "offer" }, [
@@ -20656,10 +20632,7 @@ var staticRenderFns = [
                         [
                           _c("img", {
                             staticClass: "img-responsive",
-                            attrs: {
-                              src: "online-store/public/assets/images/of5.png",
-                              alt: ""
-                            }
+                            attrs: { src: "assets/images/of5.png", alt: "" }
                           }),
                           _vm._v(" "),
                           _c("div", { staticClass: "offer" }, [
@@ -20730,10 +20703,7 @@ var staticRenderFns = [
                         [
                           _c("img", {
                             staticClass: "img-responsive",
-                            attrs: {
-                              src: "online-store/public/assets/images/of6.png",
-                              alt: ""
-                            }
+                            attrs: { src: "assets/images/of6.png", alt: "" }
                           }),
                           _vm._v(" "),
                           _c("div", { staticClass: "offer" }, [
@@ -20804,10 +20774,7 @@ var staticRenderFns = [
                         [
                           _c("img", {
                             staticClass: "img-responsive",
-                            attrs: {
-                              src: "online-store/public/assets/images/of7.png",
-                              alt: ""
-                            }
+                            attrs: { src: "assets/images/of7.png", alt: "" }
                           }),
                           _vm._v(" "),
                           _c("div", { staticClass: "offer" }, [
@@ -20888,10 +20855,7 @@ var staticRenderFns = [
                         [
                           _c("img", {
                             staticClass: "img-responsive",
-                            attrs: {
-                              src: "online-store/public/assets/images/of8.png",
-                              alt: ""
-                            }
+                            attrs: { src: "assets/images/of8.png", alt: "" }
                           }),
                           _vm._v(" "),
                           _c("div", { staticClass: "offer" }, [
@@ -20962,10 +20926,7 @@ var staticRenderFns = [
                         [
                           _c("img", {
                             staticClass: "img-responsive",
-                            attrs: {
-                              src: "online-store/public/assets/images/of9.png",
-                              alt: ""
-                            }
+                            attrs: { src: "assets/images/of9.png", alt: "" }
                           }),
                           _vm._v(" "),
                           _c("div", { staticClass: "offer" }, [
@@ -21036,10 +20997,7 @@ var staticRenderFns = [
                         [
                           _c("img", {
                             staticClass: "img-responsive",
-                            attrs: {
-                              src: "online-store/public/assets/images/of10.png",
-                              alt: ""
-                            }
+                            attrs: { src: "assets/images/of10.png", alt: "" }
                           }),
                           _vm._v(" "),
                           _c("div", { staticClass: "offer" }, [
@@ -21110,10 +21068,7 @@ var staticRenderFns = [
                         [
                           _c("img", {
                             staticClass: "img-responsive",
-                            attrs: {
-                              src: "online-store/public/assets/images/of11.png",
-                              alt: ""
-                            }
+                            attrs: { src: "assets/images/of11.png", alt: "" }
                           }),
                           _vm._v(" "),
                           _c("div", { staticClass: "offer" }, [
@@ -21194,10 +21149,7 @@ var staticRenderFns = [
                         [
                           _c("img", {
                             staticClass: "img-responsive",
-                            attrs: {
-                              src: "online-store/public/assets/images/of12.png",
-                              alt: ""
-                            }
+                            attrs: { src: "assets/images/of12.png", alt: "" }
                           }),
                           _vm._v(" "),
                           _c("div", { staticClass: "offer" }, [
@@ -21268,10 +21220,7 @@ var staticRenderFns = [
                         [
                           _c("img", {
                             staticClass: "img-responsive",
-                            attrs: {
-                              src: "online-store/public/assets/images/of13.png",
-                              alt: ""
-                            }
+                            attrs: { src: "assets/images/of13.png", alt: "" }
                           }),
                           _vm._v(" "),
                           _c("div", { staticClass: "offer" }, [
@@ -21342,10 +21291,7 @@ var staticRenderFns = [
                         [
                           _c("img", {
                             staticClass: "img-responsive",
-                            attrs: {
-                              src: "online-store/public/assets/images/of14.png",
-                              alt: ""
-                            }
+                            attrs: { src: "assets/images/of14.png", alt: "" }
                           }),
                           _vm._v(" "),
                           _c("div", { staticClass: "offer" }, [
@@ -21416,10 +21362,7 @@ var staticRenderFns = [
                         [
                           _c("img", {
                             staticClass: "img-responsive",
-                            attrs: {
-                              src: "online-store/public/assets/images/of15.png",
-                              alt: ""
-                            }
+                            attrs: { src: "assets/images/of15.png", alt: "" }
                           }),
                           _vm._v(" "),
                           _c("div", { staticClass: "offer" }, [
@@ -21520,10 +21463,7 @@ var staticRenderFns = [
             _c("a", { attrs: { href: "kitchen.html" } }, [
               _c("img", {
                 staticClass: "img-responsive img",
-                attrs: {
-                  src: "online-store/public/assets/images/co1.jpg",
-                  alt: ""
-                }
+                attrs: { src: "assets/images/co1.jpg", alt: "" }
               }),
               _vm._v(" "),
               _c("div", { staticClass: "big-sa" }, [
@@ -21546,10 +21486,7 @@ var staticRenderFns = [
             _c("a", { attrs: { href: "hold.html" } }, [
               _c("img", {
                 staticClass: "img-responsive img",
-                attrs: {
-                  src: "online-store/public/assets/images/co.jpg",
-                  alt: ""
-                }
+                attrs: { src: "assets/images/co.jpg", alt: "" }
               }),
               _vm._v(" "),
               _c("div", { staticClass: "big-sale" }, [
@@ -21570,10 +21507,7 @@ var staticRenderFns = [
             _c("a", { attrs: { href: "kitchen.html" } }, [
               _c("img", {
                 staticClass: "img-responsive img1",
-                attrs: {
-                  src: "online-store/public/assets/images/co2.jpg",
-                  alt: ""
-                }
+                attrs: { src: "assets/images/co2.jpg", alt: "" }
               }),
               _vm._v(" "),
               _c("div", { staticClass: "big-sale2" }, [
@@ -21590,10 +21524,7 @@ var staticRenderFns = [
             _c("a", { attrs: { href: "hold.html" } }, [
               _c("img", {
                 staticClass: "img-responsive img1",
-                attrs: {
-                  src: "online-store/public/assets/images/co3.jpg",
-                  alt: ""
-                }
+                attrs: { src: "assets/images/co3.jpg", alt: "" }
               }),
               _vm._v(" "),
               _c("div", { staticClass: "big-sale3" }, [
@@ -21728,7 +21659,7 @@ var staticRenderFns = [
             _c("div", { staticClass: "col-md-5 contact-right" }, [
               _c("img", {
                 staticClass: "img-responsive",
-                attrs: { src: "images/cac.jpg", alt: "" }
+                attrs: { src: "assets/images/cac.jpg", alt: "" }
               }),
               _vm._v(" "),
               _c("iframe", {
@@ -79998,26 +79929,27 @@ module.exports = function(module) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var vue_router__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue-router */ "./node_modules/vue-router/dist/vue-router.esm.js");
-/* harmony import */ var vuex__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! vuex */ "./node_modules/vuex/dist/vuex.esm.js");
-/* harmony import */ var vuetify__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! vuetify */ "./node_modules/vuetify/dist/vuetify.js");
-/* harmony import */ var vuetify__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(vuetify__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _pages_home_vue__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./pages/home.vue */ "./resources/js/pages/home.vue");
-/* harmony import */ var _pages_login_vue__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./pages/login.vue */ "./resources/js/pages/login.vue");
-/* harmony import */ var _pages_register_vue__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./pages/register.vue */ "./resources/js/pages/register.vue");
-/* harmony import */ var _pages_shipping_vue__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./pages/shipping.vue */ "./resources/js/pages/shipping.vue");
-/* harmony import */ var _pages_contact_vue__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./pages/contact.vue */ "./resources/js/pages/contact.vue");
+/* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.common.js");
+/* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(vue__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var vue_router__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! vue-router */ "./node_modules/vue-router/dist/vue-router.esm.js");
+/* harmony import */ var vuex__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! vuex */ "./node_modules/vuex/dist/vuex.esm.js");
+/* harmony import */ var vuetify__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! vuetify */ "./node_modules/vuetify/dist/vuetify.js");
+/* harmony import */ var vuetify__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(vuetify__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _pages_home_vue__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./pages/home.vue */ "./resources/js/pages/home.vue");
+/* harmony import */ var _pages_login_vue__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./pages/login.vue */ "./resources/js/pages/login.vue");
+/* harmony import */ var _pages_register_vue__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./pages/register.vue */ "./resources/js/pages/register.vue");
+/* harmony import */ var _pages_shipping_vue__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./pages/shipping.vue */ "./resources/js/pages/shipping.vue");
+/* harmony import */ var _pages_contact_vue__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./pages/contact.vue */ "./resources/js/pages/contact.vue");
 __webpack_require__(/*! ./bootstrap */ "./resources/js/bootstrap.js");
 
-window.Vue = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.common.js"); //import Vue from 'vue';
+window.Vue = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.common.js");
 
 
 
 
-Vue.use(vuetify__WEBPACK_IMPORTED_MODULE_2___default.a);
-Vue.use(vue_router__WEBPACK_IMPORTED_MODULE_0__["default"]);
-Vue.use(vuex__WEBPACK_IMPORTED_MODULE_1__["default"]);
-Vue.component('navbar', __webpack_require__(/*! ./components/layout/navbar.vue */ "./resources/js/components/layout/navbar.vue")["default"]);
+vue__WEBPACK_IMPORTED_MODULE_0___default.a.use(vuetify__WEBPACK_IMPORTED_MODULE_3___default.a);
+vue__WEBPACK_IMPORTED_MODULE_0___default.a.use(vue_router__WEBPACK_IMPORTED_MODULE_1__["default"]);
+vue__WEBPACK_IMPORTED_MODULE_0___default.a.use(vuex__WEBPACK_IMPORTED_MODULE_2__["default"]);
 
 
 
@@ -80026,36 +79958,36 @@ Vue.component('navbar', __webpack_require__(/*! ./components/layout/navbar.vue *
 var routes = [{
   path: '',
   name: 'home',
-  component: _pages_home_vue__WEBPACK_IMPORTED_MODULE_3__["default"]
+  component: _pages_home_vue__WEBPACK_IMPORTED_MODULE_4__["default"]
 }, {
   path: '/',
   name: 'home',
-  component: _pages_home_vue__WEBPACK_IMPORTED_MODULE_3__["default"]
+  component: _pages_home_vue__WEBPACK_IMPORTED_MODULE_4__["default"]
 }, {
   path: '/login',
   name: 'login',
-  component: _pages_login_vue__WEBPACK_IMPORTED_MODULE_4__["default"]
+  component: _pages_login_vue__WEBPACK_IMPORTED_MODULE_5__["default"]
 }, {
   path: '/register',
   name: 'register',
-  component: _pages_register_vue__WEBPACK_IMPORTED_MODULE_5__["default"]
+  component: _pages_register_vue__WEBPACK_IMPORTED_MODULE_6__["default"]
 }, {
   path: '/shipping',
   name: 'shipping',
-  component: _pages_shipping_vue__WEBPACK_IMPORTED_MODULE_6__["default"]
+  component: _pages_shipping_vue__WEBPACK_IMPORTED_MODULE_7__["default"]
 }, {
   path: '/contact',
   name: 'contact',
-  component: _pages_contact_vue__WEBPACK_IMPORTED_MODULE_7__["default"]
+  component: _pages_contact_vue__WEBPACK_IMPORTED_MODULE_8__["default"]
 }, {
   path: '*',
   redirect: '/'
 }];
-var router = new vue_router__WEBPACK_IMPORTED_MODULE_0__["default"]({
-  mode: 'history',
+var router = new vue_router__WEBPACK_IMPORTED_MODULE_1__["default"]({
   routes: routes
 });
-var app = new Vue({
+vue__WEBPACK_IMPORTED_MODULE_0___default.a.component('navbar', __webpack_require__(/*! ./components/layout/navbar.vue */ "./resources/js/components/layout/navbar.vue")["default"]);
+var app = new vue__WEBPACK_IMPORTED_MODULE_0___default.a({
   el: '#app',
   router: router
 });

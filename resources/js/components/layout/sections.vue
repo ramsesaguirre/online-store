@@ -5,7 +5,7 @@
             <div class="col-md-4 m-w3ls">
                 <div class="col-md1 ">
                     <a href="kitchen.html">
-                        <img src="online-store/public/assets/images/co1.jpg" class="img-responsive img" alt="">
+                        <img src="assets/images/co1.jpg" class="img-responsive img" alt="">
                         <div class="big-sa">
                             <h6>New Collections</h6>
                             <h3>Season<span>ing </span></h3>
@@ -17,7 +17,7 @@
             <div class="col-md-4 m-w3ls1">
                 <div class="col-md ">
                     <a href="hold.html">
-                        <img src="online-store/public/assets/images/co.jpg" class="img-responsive img" alt="">
+                        <img src="assets/images/co.jpg" class="img-responsive img" alt="">
                         <div class="big-sale">
                             <div class="big-sale1">
                                 <h3>Big <span>Sale</span></h3>
@@ -30,7 +30,7 @@
             <div class="col-md-4 m-w3ls">
                 <div class="col-md2 ">
                     <a href="kitchen.html">
-                        <img src="online-store/public/assets/images/co2.jpg" class="img-responsive img1" alt="">
+                        <img src="assets/images/co2.jpg" class="img-responsive img1" alt="">
                         <div class="big-sale2">
                             <h3>Cooking <span>Oil</span></h3>
                             <p>It is a long established fact that a reader </p>		
@@ -39,7 +39,7 @@
                 </div>
                 <div class="col-md3 ">
                     <a href="hold.html">
-                        <img src="online-store/public/assets/images/co3.jpg" class="img-responsive img1" alt="">
+                        <img src="assets/images/co3.jpg" class="img-responsive img1" alt="">
                         <div class="big-sale3">
                             <h3>Vegeta<span>bles</span></h3>
                             <p>It is a long established fact that a reader </p>

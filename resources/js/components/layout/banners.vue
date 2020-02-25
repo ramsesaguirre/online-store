@@ -9,15 +9,15 @@
                 </ol>
                 <div class="carousel-inner" role="listbox">
                     <div class="item active">
-                    <a href="kitchen.html"> <img class="first-slide" src="online-store/public/assets/images/ba.jpg" alt="First slide"></a>
+                    <a href="kitchen.html"> <img class="first-slide" src="assets/images/ba.jpg" alt="First slide"></a>
                 
                     </div>
                     <div class="item">
-                    <a href="care.html"> <img class="second-slide " src="online-store/public/assets/images/ba1.jpg" alt="Second slide"></a>
+                    <a href="care.html"> <img class="second-slide " src="assets/images/ba1.jpg" alt="Second slide"></a>
                     
                     </div>
                     <div class="item">
-                    <a href="hold.html"><img class="third-slide " src="online-store/public/assets/images/ba2.jpg" alt="Third slide"></a>
+                    <a href="hold.html"><img class="third-slide " src="assets/images/ba2.jpg" alt="Third slide"></a>
                     
                     </div>
                 </div>

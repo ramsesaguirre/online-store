@@ -24,7 +24,7 @@
                             <div class="col-md-3 m-wthree">
                                 <div class="col-m">								
                                     <a href="#" data-toggle="modal" data-target="#myModal1" class="offer-img">
-                                        <img src="online-store/public/assets/images/of.png" class="img-responsive" alt="">
+                                        <img src="assets/images/of.png" class="img-responsive" alt="">
                                         <div class="offer"><p><span>Offer</span></p></div>
                                     </a>
                                     <div class="mid-1">
@@ -48,7 +48,7 @@
                             <div class="col-md-3 m-wthree">
                                 <div class="col-m">
                                     <a href="#" data-toggle="modal" data-target="#myModal2" class="offer-img">
-                                        <img src="online-store/public/assets/images/of1.png" class="img-responsive" alt="">
+                                        <img src="assets/images/of1.png" class="img-responsive" alt="">
                                         <div class="offer"><p><span>Offer</span></p></div>
                                     </a>
                                     <div class="mid-1">
@@ -71,7 +71,7 @@
                             <div class="col-md-3 m-wthree">
                                 <div class="col-m">
                                     <a href="#" data-toggle="modal" data-target="#myModal3" class="offer-img">
-                                        <img src="online-store/public/assets/images/of2.png" class="img-responsive" alt="">
+                                        <img src="assets/images/of2.png" class="img-responsive" alt="">
                                         <div class="offer"><p><span>Offer</span></p></div>
                                     </a>
                                     <div class="mid-1">
@@ -94,7 +94,7 @@
                             <div class="col-md-3 m-wthree">
                                 <div class="col-m">
                                     <a href="#" data-toggle="modal" data-target="#myModal4" class="offer-img">
-                                        <img src="online-store/public/assets/images/of3.png" class="img-responsive" alt="">
+                                        <img src="assets/images/of3.png" class="img-responsive" alt="">
                                         <div class="offer"><p><span>Offer</span></p></div>
                                     </a>
                                     <div class="mid-1">
@@ -122,7 +122,7 @@
                             <div class="col-md-3 m-wthree">
                                 <div class="col-m">
                                     <a href="#" data-toggle="modal" data-target="#myModal5" class="offer-img">
-                                        <img src="online-store/public/assets/images/of4.png" class="img-responsive" alt="">
+                                        <img src="assets/images/of4.png" class="img-responsive" alt="">
                                         <div class="offer"><p><span>Offer</span></p></div>
                                     </a>
                                     <div class="mid-1">
@@ -145,7 +145,7 @@
                             <div class="col-md-3 m-wthree">
                                 <div class="col-m">
                                     <a href="#" data-toggle="modal" data-target="#myModal6" class="offer-img">
-                                        <img src="online-store/public/assets/images/of5.png" class="img-responsive" alt="">
+                                        <img src="assets/images/of5.png" class="img-responsive" alt="">
                                         <div class="offer"><p><span>Offer</span></p></div>
                                     </a>
                                     <div class="mid-1">
@@ -168,7 +168,7 @@
                             <div class="col-md-3 m-wthree">
                                 <div class="col-m">
                                     <a href="#" data-toggle="modal" data-target="#myModal7" class="offer-img">
-                                        <img src="online-store/public/assets/images/of6.png" class="img-responsive" alt="">
+                                        <img src="assets/images/of6.png" class="img-responsive" alt="">
                                         <div class="offer"><p><span>Offer</span></p></div>
                                     </a>
                                     <div class="mid-1">
@@ -191,7 +191,7 @@
                             <div class="col-md-3 m-wthree">
                                 <div class="col-m">
                                     <a href="#" data-toggle="modal" data-target="#myModal8" class="offer-img">
-                                        <img src="online-store/public/assets/images/of7.png" class="img-responsive" alt="">
+                                        <img src="assets/images/of7.png" class="img-responsive" alt="">
                                         <div class="offer"><p><span>Offer</span></p></div>
                                     </a>
                                     <div class="mid-1">
@@ -219,7 +219,7 @@
                             <div class="col-md-3 m-wthree">
                                 <div class="col-m">
                                 <a href="#" data-toggle="modal" data-target="#myModal9" class="offer-img">
-                                        <img src="online-store/public/assets/images/of8.png" class="img-responsive" alt="">
+                                        <img src="assets/images/of8.png" class="img-responsive" alt="">
                                         <div class="offer"><p><span>Offer</span></p></div>
                                     </a>
                                     <div class="mid-1">
@@ -242,7 +242,7 @@
                             <div class="col-md-3 m-wthree">
                                 <div class="col-m">
                                     <a href="#" data-toggle="modal" data-target="#myModal10" class="offer-img">
-                                        <img src="online-store/public/assets/images/of9.png" class="img-responsive" alt="">
+                                        <img src="assets/images/of9.png" class="img-responsive" alt="">
                                         <div class="offer"><p><span>Offer</span></p></div>
                                     </a>
                                     <div class="mid-1">
@@ -265,7 +265,7 @@
                             <div class="col-md-3 m-wthree">
                                 <div class="col-m">
                                     <a href="#" data-toggle="modal" data-target="#myModal11" class="offer-img">
-                                        <img src="online-store/public/assets/images/of10.png" class="img-responsive" alt="">
+                                        <img src="assets/images/of10.png" class="img-responsive" alt="">
                                         <div class="offer"><p><span>Offer</span></p></div>
                                     </a>
                                     <div class="mid-1">
@@ -288,7 +288,7 @@
                             <div class="col-md-3 m-wthree">
                                 <div class="col-m">
                                     <a href="#" data-toggle="modal" data-target="#myModal12" class="offer-img">
-                                        <img src="online-store/public/assets/images/of11.png" class="img-responsive" alt="">
+                                        <img src="assets/images/of11.png" class="img-responsive" alt="">
                                         <div class="offer"><p><span>Offer</span></p></div>
                                     </a>
                                     <div class="mid-1">
@@ -316,7 +316,7 @@
                             <div class="col-md-3 m-wthree">
                                 <div class="col-m">
                                 <a href="#" data-toggle="modal" data-target="#myModal13" class="offer-img">
-                                        <img src="online-store/public/assets/images/of12.png" class="img-responsive" alt="">
+                                        <img src="assets/images/of12.png" class="img-responsive" alt="">
                                         <div class="offer"><p><span>Offer</span></p></div>
                                     </a>
                                     <div class="mid-1">
@@ -339,7 +339,7 @@
                             <div class="col-md-3 m-wthree">
                                 <div class="col-m ">
                                     <a href="#" data-toggle="modal" data-target="#myModal14" class="offer-img">
-                                        <img src="online-store/public/assets/images/of13.png" class="img-responsive" alt="">
+                                        <img src="assets/images/of13.png" class="img-responsive" alt="">
                                         <div class="offer"><p><span>Offer</span></p></div>
                                     </a>
                                     <div class="mid-1">
@@ -362,7 +362,7 @@
                             <div class="col-md-3 m-wthree">
                                 <div class="col-m ">
                                     <a href="#" data-toggle="modal" data-target="#myModal15" class="offer-img">
-                                        <img src="online-store/public/assets/images/of14.png" class="img-responsive" alt="">
+                                        <img src="assets/images/of14.png" class="img-responsive" alt="">
                                         <div class="offer"><p><span>Offer</span></p></div>
                                     </a>
                                     <div class="mid-1">
@@ -385,7 +385,7 @@
                             <div class="col-md-3 m-wthree">
                                 <div class="col-m">
                                     <a href="#" data-toggle="modal" data-target="#myModal16" class="offer-img">
-                                        <img src="online-store/public/assets/images/of15.png" class="img-responsive" alt="">
+                                        <img src="assets/images/of15.png" class="img-responsive" alt="">
                                         <div class="offer"><p><span>Offer</span></p></div>
                                     </a>
                                     <div class="mid-1">
