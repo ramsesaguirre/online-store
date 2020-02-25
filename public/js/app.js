@@ -21564,34 +21564,92 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _vm._m(0)
+  return _c(
+    "div",
+    {
+      staticStyle: { position: "relative" },
+      attrs: { "data-vide-bg": "video/video" }
+    },
+    [
+      _c(
+        "div",
+        {
+          staticStyle: {
+            position: "absolute",
+            "z-index": "-1",
+            top: "0px",
+            left: "0px",
+            bottom: "0px",
+            right: "0px",
+            overflow: "hidden",
+            "background-size": "cover",
+            "background-repeat": "no-repeat",
+            "background-position": "50% 50%",
+            "background-image":
+              'url("http://localhost/online-store/public/assets/video/video.gif")'
+          }
+        },
+        [
+          _c(
+            "video",
+            {
+              staticStyle: {
+                margin: "auto",
+                position: "absolute",
+                "z-index": "-1",
+                top: "50%",
+                left: "50%",
+                transform: "translate(-50%, -50%)",
+                visibility: "visible",
+                width: "1032px",
+                height: "auto"
+              },
+              attrs: { autoplay: "", loop: "", muted: "" },
+              domProps: { muted: true }
+            },
+            [
+              _c("source", {
+                attrs: { src: "video/video.mp4", type: "video/mp4" }
+              }),
+              _c("source", {
+                attrs: { src: "video/video.webm", type: "video/webm" }
+              }),
+              _c("source", {
+                attrs: { src: "video/video.ogv", type: "video/ogg" }
+              })
+            ]
+          )
+        ]
+      ),
+      _vm._v(" "),
+      _vm._m(0)
+    ]
+  )
 }
 var staticRenderFns = [
   function() {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { attrs: { "data-vide-bg": "video/video" } }, [
-      _c("div", { staticClass: "container" }, [
-        _c("div", { staticClass: "banner-info" }, [
-          _c("h3", [
-            _vm._v(
-              "It is a long established fact that a reader will be distracted by \n            the readable "
-            )
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "search-form" }, [
-            _c("form", { attrs: { action: "#", method: "post" } }, [
-              _c("input", {
-                attrs: {
-                  type: "text",
-                  placeholder: "Search...",
-                  name: "Search..."
-                }
-              }),
-              _vm._v(" "),
-              _c("input", { attrs: { type: "submit", value: " " } })
-            ])
+    return _c("div", { staticClass: "container" }, [
+      _c("div", { staticClass: "banner-info" }, [
+        _c("h3", [
+          _vm._v(
+            "It is a long established fact that a reader will be distracted by \n            the readable "
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "search-form" }, [
+          _c("form", { attrs: { action: "#", method: "post" } }, [
+            _c("input", {
+              attrs: {
+                type: "text",
+                placeholder: "Search...",
+                name: "Search..."
+              }
+            }),
+            _vm._v(" "),
+            _c("input", { attrs: { type: "submit", value: " " } })
           ])
         ])
       ])
