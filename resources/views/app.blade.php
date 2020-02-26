@@ -16,6 +16,7 @@
 
         <!-- Custom Theme files -->
         <link href="{{ asset('assets/css/style.css') }}" rel='stylesheet' type='text/css' />
+		<link href="{{ asset('assets/css/animate.css') }}" rel="stylesheet"> 
         
         <!-- js -->
         <script src="{{ asset('assets/js/jquery-1.11.1.min.js') }}"></script>

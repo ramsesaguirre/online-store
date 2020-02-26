@@ -1899,6 +1899,855 @@ module.exports = {
 
 /***/ }),
 
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/layout/allProducts.vue?vue&type=script&lang=js&":
+/*!*****************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/layout/allProducts.vue?vue&type=script&lang=js& ***!
+  \*****************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _ui_header_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../ui/header.vue */ "./resources/js/components/ui/header.vue");
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
+/* harmony default export */ __webpack_exports__["default"] = ({
+  components: {
+    headerComponent: _ui_header_vue__WEBPACK_IMPORTED_MODULE_0__["default"]
+  },
+  data: function data() {
+    return {
+      value: ''
+    };
+  },
+  created: function created() {
+    this.value = 'Special Offers';
+  }
+});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/layout/products.vue?vue&type=script&lang=js&":
+/*!**************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/layout/products.vue?vue&type=script&lang=js& ***!
+  \**************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _ui_header_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../ui/header.vue */ "./resources/js/components/ui/header.vue");
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
+/* harmony default export */ __webpack_exports__["default"] = ({
+  components: {
+    headerComponent: _ui_header_vue__WEBPACK_IMPORTED_MODULE_0__["default"]
+  },
+  data: function data() {
+    return {
+      value: ''
+    };
+  },
+  created: function created() {
+    this.value = 'Special Offers';
+  }
+});
+
+/***/ }),
+
 /***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/layout/video.vue?vue&type=script&lang=js&":
 /*!***********************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/layout/video.vue?vue&type=script&lang=js& ***!
@@ -1972,6 +2821,37 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/ui/header.vue?vue&type=script&lang=js&":
+/*!********************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/ui/header.vue?vue&type=script&lang=js& ***!
+  \********************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({
+  props: {
+    name: String
+  },
+  created: function created() {
+    console.log(this.name);
+  }
+});
+
+/***/ }),
+
 /***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/pages/contact.vue?vue&type=script&lang=js&":
 /*!*************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/pages/contact.vue?vue&type=script&lang=js& ***!
@@ -1982,13 +2862,7 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_ui_breadcrumb_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../components/ui/breadcrumb.vue */ "./resources/js/components/ui/breadcrumb.vue");
-//
-//
-//
-//
-//
-//
-//
+/* harmony import */ var _components_ui_header_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/ui/header.vue */ "./resources/js/components/ui/header.vue");
 //
 //
 //
@@ -2046,9 +2920,11 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 
+
 /* harmony default export */ __webpack_exports__["default"] = ({
   components: {
-    breadcrumbData: _components_ui_breadcrumb_vue__WEBPACK_IMPORTED_MODULE_0__["default"]
+    breadcrumbData: _components_ui_breadcrumb_vue__WEBPACK_IMPORTED_MODULE_0__["default"],
+    headerComponent: _components_ui_header_vue__WEBPACK_IMPORTED_MODULE_1__["default"]
   },
   data: function data() {
     return {
@@ -2072,13 +2948,7 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_ui_breadcrumb_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../components/ui/breadcrumb.vue */ "./resources/js/components/ui/breadcrumb.vue");
-//
-//
-//
-//
-//
-//
-//
+/* harmony import */ var _components_ui_header_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/ui/header.vue */ "./resources/js/components/ui/header.vue");
 //
 //
 //
@@ -2243,9 +3113,11 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 
+
 /* harmony default export */ __webpack_exports__["default"] = ({
   components: {
-    breadcrumbData: _components_ui_breadcrumb_vue__WEBPACK_IMPORTED_MODULE_0__["default"]
+    breadcrumbData: _components_ui_breadcrumb_vue__WEBPACK_IMPORTED_MODULE_0__["default"],
+    headerComponent: _components_ui_header_vue__WEBPACK_IMPORTED_MODULE_1__["default"]
   },
   data: function data() {
     return {
@@ -2432,13 +3304,7 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_ui_breadcrumb_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../components/ui/breadcrumb.vue */ "./resources/js/components/ui/breadcrumb.vue");
-//
-//
-//
-//
-//
-//
-//
+/* harmony import */ var _components_ui_header_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/ui/header.vue */ "./resources/js/components/ui/header.vue");
 //
 //
 //
@@ -2562,9 +3428,11 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 
+
 /* harmony default export */ __webpack_exports__["default"] = ({
   components: {
-    breadcrumbData: _components_ui_breadcrumb_vue__WEBPACK_IMPORTED_MODULE_0__["default"]
+    breadcrumbData: _components_ui_breadcrumb_vue__WEBPACK_IMPORTED_MODULE_0__["default"],
+    headerComponent: _components_ui_header_vue__WEBPACK_IMPORTED_MODULE_1__["default"]
   },
   data: function data() {
     return {
@@ -2617,13 +3485,7 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_ui_breadcrumb_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../components/ui/breadcrumb.vue */ "./resources/js/components/ui/breadcrumb.vue");
-//
-//
-//
-//
-//
-//
-//
+/* harmony import */ var _components_ui_header_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/ui/header.vue */ "./resources/js/components/ui/header.vue");
 //
 //
 //
@@ -2679,17 +3541,21 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 
+
 /* harmony default export */ __webpack_exports__["default"] = ({
   components: {
-    breadcrumbData: _components_ui_breadcrumb_vue__WEBPACK_IMPORTED_MODULE_0__["default"]
+    breadcrumbData: _components_ui_breadcrumb_vue__WEBPACK_IMPORTED_MODULE_0__["default"],
+    headerComponent: _components_ui_header_vue__WEBPACK_IMPORTED_MODULE_1__["default"]
   },
   data: function data() {
     return {
-      value: ''
+      value: '',
+      title: ''
     };
   },
   created: function created() {
     this.value = 'Terms';
+    this.title = 'Terms and Conditions';
   }
 });
 
@@ -20294,1121 +21160,1096 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _vm._m(0)
+  return _c("div", [
+    _c("div", { staticClass: "content-top offer-w3agile" }, [
+      _c(
+        "div",
+        { staticClass: "container " },
+        [
+          _c("headerComponent", { attrs: { name: _vm.value } }),
+          _vm._v(" "),
+          _vm._m(0)
+        ],
+        1
+      )
+    ])
+  ])
 }
 var staticRenderFns = [
   function() {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", [
-      _c("div", { staticClass: "content-top offer-w3agile" }, [
-        _c("div", { staticClass: "container " }, [
-          _c("div", { staticClass: "spec " }, [
-            _c("h3", [_vm._v("Special Offers")]),
-            _vm._v(" "),
-            _c("div", { staticClass: "ser-t" }, [
-              _c("b"),
+    return _c("div", { staticClass: " con-w3l wthree-of" }, [
+      _c("div", { staticClass: "col-md-3 pro-1" }, [
+        _c("div", { staticClass: "col-m" }, [
+          _c(
+            "a",
+            {
+              staticClass: "offer-img",
+              attrs: {
+                href: "#",
+                "data-toggle": "modal",
+                "data-target": "#myModal1"
+              }
+            },
+            [
+              _c("img", {
+                staticClass: "img-responsive",
+                attrs: { src: "assets/images/of.png", alt: "" }
+              }),
               _vm._v(" "),
-              _c("span", [_c("i")]),
-              _vm._v(" "),
-              _c("b", { staticClass: "line" })
-            ])
-          ]),
+              _c("div", { staticClass: "offer" }, [
+                _c("p", [_c("span", [_vm._v("Offer")])])
+              ])
+            ]
+          ),
           _vm._v(" "),
-          _c("div", { staticClass: " con-w3l wthree-of" }, [
-            _c("div", { staticClass: "col-md-3 pro-1" }, [
-              _c("div", { staticClass: "col-m" }, [
-                _c(
-                  "a",
-                  {
-                    staticClass: "offer-img",
-                    attrs: {
-                      href: "#",
-                      "data-toggle": "modal",
-                      "data-target": "#myModal1"
-                    }
-                  },
-                  [
-                    _c("img", {
-                      staticClass: "img-responsive",
-                      attrs: { src: "assets/images/of.png", alt: "" }
-                    }),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "offer" }, [
-                      _c("p", [_c("span", [_vm._v("Offer")])])
-                    ])
-                  ]
-                ),
-                _vm._v(" "),
-                _c("div", { staticClass: "mid-1" }, [
-                  _c("div", { staticClass: "women" }, [
-                    _c("h6", [
-                      _c("a", { attrs: { href: "single.html" } }, [
-                        _vm._v("Moong")
-                      ]),
-                      _vm._v("(1 kg)")
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "mid-2" }, [
-                    _c("p", [
-                      _c("label", [_vm._v("$2.00")]),
-                      _c("em", { staticClass: "item_price" }, [_vm._v("$1.50")])
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "block" }, [
-                      _c("div", { staticClass: "starbox small ghosting" })
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "clearfix" })
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "add" }, [
-                    _c(
-                      "button",
-                      {
-                        staticClass: "btn btn-danger my-cart-btn my-cart-b ",
-                        attrs: {
-                          "data-id": "1",
-                          "data-name": "Moong",
-                          "data-summary": "summary 1",
-                          "data-price": "1.50",
-                          "data-quantity": "1",
-                          "data-image": "assets/images/of.png"
-                        }
-                      },
-                      [_vm._v("Add to Cart")]
-                    )
-                  ])
-                ])
+          _c("div", { staticClass: "mid-1" }, [
+            _c("div", { staticClass: "women" }, [
+              _c("h6", [
+                _c("a", { attrs: { href: "single.html" } }, [_vm._v("Moong")]),
+                _vm._v("(1 kg)")
               ])
             ]),
             _vm._v(" "),
-            _c("div", { staticClass: "col-md-3 pro-1" }, [
-              _c("div", { staticClass: "col-m" }, [
-                _c(
-                  "a",
-                  {
-                    staticClass: "offer-img",
-                    attrs: {
-                      href: "#",
-                      "data-toggle": "modal",
-                      "data-target": "#myModal2"
-                    }
-                  },
-                  [
-                    _c("img", {
-                      staticClass: "img-responsive",
-                      attrs: { src: "assets/images/of1.png", alt: "" }
-                    }),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "offer" }, [
-                      _c("p", [_c("span", [_vm._v("Offer")])])
-                    ])
-                  ]
-                ),
-                _vm._v(" "),
-                _c("div", { staticClass: "mid-1" }, [
-                  _c("div", { staticClass: "women" }, [
-                    _c("h6", [
-                      _c("a", { attrs: { href: "single.html" } }, [
-                        _vm._v("Sunflower Oil")
-                      ]),
-                      _vm._v("(5 kg)")
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "mid-2" }, [
-                    _c("p", [
-                      _c("label", [_vm._v("$10.00")]),
-                      _c("em", { staticClass: "item_price" }, [_vm._v("$9.00")])
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "block" }, [
-                      _c("div", { staticClass: "starbox small ghosting" })
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "clearfix" })
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "add" }, [
-                    _c(
-                      "button",
-                      {
-                        staticClass: "btn btn-danger my-cart-btn my-cart-b",
-                        attrs: {
-                          "data-id": "2",
-                          "data-name": "Sunflower Oil",
-                          "data-summary": "summary 2",
-                          "data-price": "9.00",
-                          "data-quantity": "1",
-                          "data-image": "assets/images/of1.png"
-                        }
-                      },
-                      [_vm._v("Add to Cart")]
-                    )
-                  ])
-                ])
-              ])
+            _c("div", { staticClass: "mid-2" }, [
+              _c("p", [
+                _c("label", [_vm._v("$2.00")]),
+                _c("em", { staticClass: "item_price" }, [_vm._v("$1.50")])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "block" }, [
+                _c("div", { staticClass: "starbox small ghosting" })
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "clearfix" })
             ]),
             _vm._v(" "),
-            _c("div", { staticClass: "col-md-3 pro-1" }, [
-              _c("div", { staticClass: "col-m" }, [
-                _c(
-                  "a",
-                  {
-                    staticClass: "offer-img",
-                    attrs: {
-                      href: "#",
-                      "data-toggle": "modal",
-                      "data-target": "#myModal3"
-                    }
-                  },
-                  [
-                    _c("img", {
-                      staticClass: "img-responsive",
-                      attrs: { src: "assets/images/of2.png", alt: "" }
-                    }),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "offer" }, [
-                      _c("p", [_c("span", [_vm._v("Offer")])])
-                    ])
-                  ]
-                ),
-                _vm._v(" "),
-                _c("div", { staticClass: "mid-1" }, [
-                  _c("div", { staticClass: "women" }, [
-                    _c("h6", [
-                      _c("a", { attrs: { href: "single.html" } }, [
-                        _vm._v("Kabuli Chana")
-                      ]),
-                      _vm._v("(1 kg)")
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "mid-2" }, [
-                    _c("p", [
-                      _c("label", [_vm._v("$3.00")]),
-                      _c("em", { staticClass: "item_price" }, [_vm._v("$2.00")])
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "block" }, [
-                      _c("div", { staticClass: "starbox small ghosting" })
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "clearfix" })
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "add" }, [
-                    _c(
-                      "button",
-                      {
-                        staticClass: "btn btn-danger my-cart-btn my-cart-b",
-                        attrs: {
-                          "data-id": "3",
-                          "data-name": "Kabuli Chana",
-                          "data-summary": "summary 3",
-                          "data-price": "2.00",
-                          "data-quantity": "1",
-                          "data-image": "assets/images/of2.png"
-                        }
-                      },
-                      [_vm._v("Add to Cart")]
-                    )
-                  ])
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "col-md-3 pro-1" }, [
-              _c("div", { staticClass: "col-m" }, [
-                _c(
-                  "a",
-                  {
-                    staticClass: "offer-img",
-                    attrs: {
-                      href: "#",
-                      "data-toggle": "modal",
-                      "data-target": "#myModal4"
-                    }
-                  },
-                  [
-                    _c("img", {
-                      staticClass: "img-responsive",
-                      attrs: { src: "assets/images/of3.png", alt: "" }
-                    }),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "offer" }, [
-                      _c("p", [_c("span", [_vm._v("Offer")])])
-                    ])
-                  ]
-                ),
-                _vm._v(" "),
-                _c("div", { staticClass: "mid-1" }, [
-                  _c("div", { staticClass: "women" }, [
-                    _c("h6", [
-                      _c("a", { attrs: { href: "single.html" } }, [
-                        _vm._v("Soya Chunks")
-                      ]),
-                      _vm._v("(1 kg)")
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "mid-2" }, [
-                    _c("p", [
-                      _c("label", [_vm._v("$4.00")]),
-                      _c("em", { staticClass: "item_price" }, [_vm._v("$3.50")])
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "block" }, [
-                      _c("div", { staticClass: "starbox small ghosting" })
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "clearfix" })
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "add" }, [
-                    _c(
-                      "button",
-                      {
-                        staticClass: "btn btn-danger my-cart-btn my-cart-b",
-                        attrs: {
-                          "data-id": "4",
-                          "data-name": "Mini Soya Chunks",
-                          "data-summary": "summary 4",
-                          "data-price": "3.50",
-                          "data-quantity": "1",
-                          "data-image": "assets/images/of3.png"
-                        }
-                      },
-                      [_vm._v("Add to Cart")]
-                    )
-                  ])
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "col-md-3 pro-1" }, [
-              _c("div", { staticClass: "col-m" }, [
-                _c(
-                  "a",
-                  {
-                    staticClass: "offer-img",
-                    attrs: {
-                      href: "#",
-                      "data-toggle": "modal",
-                      "data-target": "#myModal5"
-                    }
-                  },
-                  [
-                    _c("img", {
-                      staticClass: "img-responsive",
-                      attrs: { src: "assets/images/of4.png", alt: "" }
-                    }),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "offer" }, [
-                      _c("p", [_c("span", [_vm._v("Offer")])])
-                    ])
-                  ]
-                ),
-                _vm._v(" "),
-                _c("div", { staticClass: "mid-1" }, [
-                  _c("div", { staticClass: "women" }, [
-                    _c("h6", [
-                      _c("a", { attrs: { href: "single.html" } }, [
-                        _vm._v("Lays")
-                      ]),
-                      _vm._v("(100 g)")
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "mid-2" }, [
-                    _c("p", [
-                      _c("label", [_vm._v("$1.00")]),
-                      _c("em", { staticClass: "item_price" }, [_vm._v("$0.70")])
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "block" }, [
-                      _c("div", { staticClass: "starbox small ghosting" })
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "clearfix" })
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "add" }, [
-                    _c(
-                      "button",
-                      {
-                        staticClass: "btn btn-danger my-cart-btn my-cart-b",
-                        attrs: {
-                          "data-id": "5",
-                          "data-name": "Lays",
-                          "data-summary": "summary 5",
-                          "data-price": "0.70",
-                          "data-quantity": "1",
-                          "data-image": "assets/images/of4.png"
-                        }
-                      },
-                      [_vm._v("Add to Cart")]
-                    )
-                  ])
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "col-md-3 pro-1" }, [
-              _c("div", { staticClass: "col-m" }, [
-                _c(
-                  "a",
-                  {
-                    staticClass: "offer-img",
-                    attrs: {
-                      href: "#",
-                      "data-toggle": "modal",
-                      "data-target": "#myModal6"
-                    }
-                  },
-                  [
-                    _c("img", {
-                      staticClass: "img-responsive",
-                      attrs: { src: "assets/images/of5.png", alt: "" }
-                    }),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "offer" }, [
-                      _c("p", [_c("span", [_vm._v("Offer")])])
-                    ])
-                  ]
-                ),
-                _vm._v(" "),
-                _c("div", { staticClass: "mid-1" }, [
-                  _c("div", { staticClass: "women" }, [
-                    _c("h6", [
-                      _c("a", { attrs: { href: "single.html" } }, [
-                        _vm._v("Kurkure")
-                      ]),
-                      _vm._v("(100 g)")
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "mid-2" }, [
-                    _c("p", [
-                      _c("label", [_vm._v("$1.00")]),
-                      _c("em", { staticClass: "item_price" }, [_vm._v("$0.70")])
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "block" }, [
-                      _c("div", { staticClass: "starbox small ghosting" })
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "clearfix" })
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "add" }, [
-                    _c(
-                      "button",
-                      {
-                        staticClass: "btn btn-danger my-cart-btn my-cart-b",
-                        attrs: {
-                          "data-id": "6",
-                          "data-name": "Kurkure",
-                          "data-summary": "summary 6",
-                          "data-price": "0.70",
-                          "data-quantity": "1",
-                          "data-image": "assets/images/of5.png"
-                        }
-                      },
-                      [_vm._v("Add to Cart")]
-                    )
-                  ])
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "col-md-3 pro-1" }, [
-              _c("div", { staticClass: "col-m" }, [
-                _c(
-                  "a",
-                  {
-                    staticClass: "offer-img",
-                    attrs: {
-                      href: "#",
-                      "data-toggle": "modal",
-                      "data-target": "#myModal7"
-                    }
-                  },
-                  [
-                    _c("img", {
-                      staticClass: "img-responsive",
-                      attrs: { src: "assets/images/of6.png", alt: "" }
-                    }),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "offer" }, [
-                      _c("p", [_c("span", [_vm._v("Offer")])])
-                    ])
-                  ]
-                ),
-                _vm._v(" "),
-                _c("div", { staticClass: "mid-1" }, [
-                  _c("div", { staticClass: "women" }, [
-                    _c("h6", [
-                      _c("a", { attrs: { href: "single.html" } }, [
-                        _vm._v("Popcorn")
-                      ]),
-                      _vm._v("(250 g)")
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "mid-2" }, [
-                    _c("p", [
-                      _c("label", [_vm._v("$2.00")]),
-                      _c("em", { staticClass: "item_price" }, [_vm._v("$1.00")])
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "block" }, [
-                      _c("div", { staticClass: "starbox small ghosting" })
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "clearfix" })
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "add" }, [
-                    _c(
-                      "button",
-                      {
-                        staticClass: "btn btn-danger my-cart-btn my-cart-b",
-                        attrs: {
-                          "data-id": "7",
-                          "data-name": "product 1",
-                          "data-summary": "summary 1",
-                          "data-price": "1.00",
-                          "data-quantity": "1",
-                          "data-image": "assets/images/of6.png"
-                        }
-                      },
-                      [_vm._v("Add to Cart")]
-                    )
-                  ])
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "col-md-3 pro-1" }, [
-              _c("div", { staticClass: "col-m" }, [
-                _c(
-                  "a",
-                  {
-                    staticClass: "offer-img",
-                    attrs: {
-                      href: "#",
-                      "data-toggle": "modal",
-                      "data-target": "#myModal8"
-                    }
-                  },
-                  [
-                    _c("img", {
-                      staticClass: "img-responsive",
-                      attrs: { src: "assets/images/of7.png", alt: "" }
-                    }),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "offer" }, [
-                      _c("p", [_c("span", [_vm._v("Offer")])])
-                    ])
-                  ]
-                ),
-                _vm._v(" "),
-                _c("div", { staticClass: "mid-1" }, [
-                  _c("div", { staticClass: "women" }, [
-                    _c("h6", [
-                      _c("a", { attrs: { href: "single.html" } }, [
-                        _vm._v(" Nuts")
-                      ]),
-                      _vm._v("(250 g)")
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "mid-2" }, [
-                    _c("p", [
-                      _c("label", [_vm._v("$4.00")]),
-                      _c("em", { staticClass: "item_price" }, [_vm._v("$3.50")])
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "block" }, [
-                      _c("div", { staticClass: "starbox small ghosting" })
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "clearfix" })
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "add" }, [
-                    _c(
-                      "button",
-                      {
-                        staticClass: "btn btn-danger my-cart-btn my-cart-b",
-                        attrs: {
-                          "data-id": "8",
-                          "data-name": "Nuts",
-                          "data-summary": "summary 8",
-                          "data-price": "3.50",
-                          "data-quantity": "1",
-                          "data-image": "assets/images/of7.png"
-                        }
-                      },
-                      [_vm._v("Add to Cart")]
-                    )
-                  ])
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "col-md-3 pro-1" }, [
-              _c("div", { staticClass: "col-m" }, [
-                _c(
-                  "a",
-                  {
-                    staticClass: "offer-img",
-                    attrs: {
-                      href: "#",
-                      "data-toggle": "modal",
-                      "data-target": "#myModal9"
-                    }
-                  },
-                  [
-                    _c("img", {
-                      staticClass: "img-responsive",
-                      attrs: { src: "assets/images/of8.png", alt: "" }
-                    }),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "offer" }, [
-                      _c("p", [_c("span", [_vm._v("Offer")])])
-                    ])
-                  ]
-                ),
-                _vm._v(" "),
-                _c("div", { staticClass: "mid-1" }, [
-                  _c("div", { staticClass: "women" }, [
-                    _c("h6", [
-                      _c("a", { attrs: { href: "single.html" } }, [
-                        _vm._v("Banana")
-                      ]),
-                      _vm._v("(6 pcs)")
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "mid-2" }, [
-                    _c("p", [
-                      _c("label", [_vm._v("$2.00")]),
-                      _c("em", { staticClass: "item_price" }, [_vm._v("$1.50")])
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "block" }, [
-                      _c("div", { staticClass: "starbox small ghosting" })
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "clearfix" })
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "add" }, [
-                    _c(
-                      "button",
-                      {
-                        staticClass: "btn btn-danger my-cart-btn my-cart-b",
-                        attrs: {
-                          "data-id": "9",
-                          "data-name": "Banana",
-                          "data-summary": "summary 9",
-                          "data-price": "1.50",
-                          "data-quantity": "1",
-                          "data-image": "assets/images/of8.png"
-                        }
-                      },
-                      [_vm._v("Add to Cart")]
-                    )
-                  ])
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "col-md-3 pro-1" }, [
-              _c("div", { staticClass: "col-m" }, [
-                _c(
-                  "a",
-                  {
-                    staticClass: "offer-img",
-                    attrs: {
-                      href: "#",
-                      "data-toggle": "modal",
-                      "data-target": "#myModal10"
-                    }
-                  },
-                  [
-                    _c("img", {
-                      staticClass: "img-responsive",
-                      attrs: { src: "assets/images/of9.png", alt: "" }
-                    }),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "offer" }, [
-                      _c("p", [_c("span", [_vm._v("Offer")])])
-                    ])
-                  ]
-                ),
-                _vm._v(" "),
-                _c("div", { staticClass: "mid-1" }, [
-                  _c("div", { staticClass: "women" }, [
-                    _c("h6", [
-                      _c("a", { attrs: { href: "single.html" } }, [
-                        _vm._v("Onion")
-                      ]),
-                      _vm._v("(1 kg)")
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "mid-2" }, [
-                    _c("p", [
-                      _c("label", [_vm._v("$1.00")]),
-                      _c("em", { staticClass: "item_price" }, [_vm._v("$0.70")])
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "block" }, [
-                      _c("div", { staticClass: "starbox small ghosting" })
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "clearfix" })
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "add" }, [
-                    _c(
-                      "button",
-                      {
-                        staticClass: "btn btn-danger my-cart-btn my-cart-b",
-                        attrs: {
-                          "data-id": "10",
-                          "data-name": "Onion",
-                          "data-summary": "summary 10",
-                          "data-price": "0.70",
-                          "data-quantity": "1",
-                          "data-image": "assets/images/of9.png"
-                        }
-                      },
-                      [_vm._v("Add to Cart")]
-                    )
-                  ])
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "col-md-3 pro-1" }, [
-              _c("div", { staticClass: "col-m" }, [
-                _c(
-                  "a",
-                  {
-                    staticClass: "offer-img",
-                    attrs: {
-                      href: "#",
-                      "data-toggle": "modal",
-                      "data-target": "#myModal11"
-                    }
-                  },
-                  [
-                    _c("img", {
-                      staticClass: "img-responsive",
-                      attrs: { src: "assets/images/of10.png", alt: "" }
-                    }),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "offer" }, [
-                      _c("p", [_c("span", [_vm._v("Offer")])])
-                    ])
-                  ]
-                ),
-                _vm._v(" "),
-                _c("div", { staticClass: "mid-1" }, [
-                  _c("div", { staticClass: "women" }, [
-                    _c("h6", [
-                      _c("a", { attrs: { href: "single.html" } }, [
-                        _vm._v(" Bitter Gourd")
-                      ]),
-                      _vm._v("(1 kg)")
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "mid-2" }, [
-                    _c("p", [
-                      _c("label", [_vm._v("$2.00")]),
-                      _c("em", { staticClass: "item_price" }, [_vm._v("$1.00")])
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "block" }, [
-                      _c("div", { staticClass: "starbox small ghosting" })
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "clearfix" })
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "add" }, [
-                    _c(
-                      "button",
-                      {
-                        staticClass: "btn btn-danger my-cart-btn my-cart-b",
-                        attrs: {
-                          "data-id": "11",
-                          "data-name": "Bitter Gourd",
-                          "data-summary": "summary 11",
-                          "data-price": "1.00",
-                          "data-quantity": "1",
-                          "data-image": "assets/images/of10.png"
-                        }
-                      },
-                      [_vm._v("Add to Cart")]
-                    )
-                  ])
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "col-md-3 pro-1" }, [
-              _c("div", { staticClass: "col-m" }, [
-                _c(
-                  "a",
-                  {
-                    staticClass: "offer-img",
-                    attrs: {
-                      href: "#",
-                      "data-toggle": "modal",
-                      "data-target": "#myModal12"
-                    }
-                  },
-                  [
-                    _c("img", {
-                      staticClass: "img-responsive",
-                      attrs: { src: "assets/images/of11.png", alt: "" }
-                    }),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "offer" }, [
-                      _c("p", [_c("span", [_vm._v("Offer")])])
-                    ])
-                  ]
-                ),
-                _vm._v(" "),
-                _c("div", { staticClass: "mid-1" }, [
-                  _c("div", { staticClass: "women" }, [
-                    _c("h6", [
-                      _c("a", { attrs: { href: "single.html" } }, [
-                        _vm._v("Apples")
-                      ]),
-                      _vm._v("(1 kg)")
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "mid-2" }, [
-                    _c("p", [
-                      _c("label", [_vm._v("$4.00")]),
-                      _c("em", { staticClass: "item_price" }, [_vm._v("$3.50")])
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "block" }, [
-                      _c("div", { staticClass: "starbox small ghosting" })
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "clearfix" })
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "add" }, [
-                    _c(
-                      "button",
-                      {
-                        staticClass: "btn btn-danger my-cart-btn my-cart-b",
-                        attrs: {
-                          "data-id": "12",
-                          "data-name": "Apples",
-                          "data-summary": "summary 12",
-                          "data-price": "3.50",
-                          "data-quantity": "1",
-                          "data-image": "assets/images/of11.png"
-                        }
-                      },
-                      [_vm._v("Add to Cart")]
-                    )
-                  ])
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "col-md-3 pro-1" }, [
-              _c("div", { staticClass: "col-m" }, [
-                _c(
-                  "a",
-                  {
-                    staticClass: "offer-img",
-                    attrs: {
-                      href: "#",
-                      "data-toggle": "modal",
-                      "data-target": "#myModal13"
-                    }
-                  },
-                  [
-                    _c("img", {
-                      staticClass: "img-responsive",
-                      attrs: { src: "assets/images/of12.png", alt: "" }
-                    }),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "offer" }, [
-                      _c("p", [_c("span", [_vm._v("Offer")])])
-                    ])
-                  ]
-                ),
-                _vm._v(" "),
-                _c("div", { staticClass: "mid-1" }, [
-                  _c("div", { staticClass: "women" }, [
-                    _c("h6", [
-                      _c("a", { attrs: { href: "single.html" } }, [
-                        _vm._v("Honey")
-                      ]),
-                      _vm._v("(500g)")
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "mid-2" }, [
-                    _c("p", [
-                      _c("label", [_vm._v("$7.00")]),
-                      _c("em", { staticClass: "item_price" }, [_vm._v("$6.00")])
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "block" }, [
-                      _c("div", { staticClass: "starbox small ghosting" })
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "clearfix" })
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "add" }, [
-                    _c(
-                      "button",
-                      {
-                        staticClass: "btn btn-danger my-cart-btn my-cart-b",
-                        attrs: {
-                          "data-id": "13",
-                          "data-name": "Honey",
-                          "data-summary": "summary 13",
-                          "data-price": "6.00",
-                          "data-quantity": "1",
-                          "data-image": "assets/images/of12.png"
-                        }
-                      },
-                      [_vm._v("Add to Cart")]
-                    )
-                  ])
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "col-md-3 pro-1" }, [
-              _c("div", { staticClass: "col-m" }, [
-                _c(
-                  "a",
-                  {
-                    staticClass: "offer-img",
-                    attrs: {
-                      href: "#",
-                      "data-toggle": "modal",
-                      "data-target": "#myModal14"
-                    }
-                  },
-                  [
-                    _c("img", {
-                      staticClass: "img-responsive",
-                      attrs: { src: "assets/images/of13.png", alt: "" }
-                    }),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "offer" }, [
-                      _c("p", [_c("span", [_vm._v("Offer")])])
-                    ])
-                  ]
-                ),
-                _vm._v(" "),
-                _c("div", { staticClass: "mid-1" }, [
-                  _c("div", { staticClass: "women" }, [
-                    _c("h6", [
-                      _c("a", { attrs: { href: "single.html" } }, [
-                        _vm._v("Chocos")
-                      ]),
-                      _vm._v("(250g)")
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "mid-2" }, [
-                    _c("p", [
-                      _c("label", [_vm._v("$5.00")]),
-                      _c("em", { staticClass: "item_price" }, [_vm._v("$4.50")])
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "block" }, [
-                      _c("div", { staticClass: "starbox small ghosting" })
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "clearfix" })
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "add" }, [
-                    _c(
-                      "button",
-                      {
-                        staticClass: "btn btn-danger my-cart-btn my-cart-b",
-                        attrs: {
-                          "data-id": "14",
-                          "data-name": "Chocos",
-                          "data-summary": "summary 14",
-                          "data-price": "4.50",
-                          "data-quantity": "1",
-                          "data-image": "assets/images/of13.png"
-                        }
-                      },
-                      [_vm._v("Add to Cart")]
-                    )
-                  ])
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "col-md-3 pro-1" }, [
-              _c("div", { staticClass: "col-m" }, [
-                _c(
-                  "a",
-                  {
-                    staticClass: "offer-img",
-                    attrs: {
-                      href: "#",
-                      "data-toggle": "modal",
-                      "data-target": "#myModal15"
-                    }
-                  },
-                  [
-                    _c("img", {
-                      staticClass: "img-responsive",
-                      attrs: { src: "assets/images/of14.png", alt: "" }
-                    }),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "offer" }, [
-                      _c("p", [_c("span", [_vm._v("Offer")])])
-                    ])
-                  ]
-                ),
-                _vm._v(" "),
-                _c("div", { staticClass: "mid-1" }, [
-                  _c("div", { staticClass: "women" }, [
-                    _c("h6", [
-                      _c("a", { attrs: { href: "single.html" } }, [
-                        _vm._v("Oats")
-                      ]),
-                      _vm._v("(1 kg)")
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "mid-2" }, [
-                    _c("p", [
-                      _c("label", [_vm._v("$4.00")]),
-                      _c("em", { staticClass: "item_price" }, [_vm._v("$3.50")])
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "block" }, [
-                      _c("div", { staticClass: "starbox small ghosting" })
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "clearfix" })
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "add" }, [
-                    _c(
-                      "button",
-                      {
-                        staticClass: "btn btn-danger my-cart-btn my-cart-b",
-                        attrs: {
-                          "data-id": "15",
-                          "data-name": "Oats",
-                          "data-summary": "summary 15",
-                          "data-price": "3.50",
-                          "data-quantity": "1",
-                          "data-image": "assets/images/of14.png"
-                        }
-                      },
-                      [_vm._v("Add to Cart")]
-                    )
-                  ])
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "col-md-3 pro-1" }, [
-              _c("div", { staticClass: "col-m" }, [
-                _c(
-                  "a",
-                  {
-                    staticClass: "offer-img",
-                    attrs: {
-                      href: "#",
-                      "data-toggle": "modal",
-                      "data-target": "#myModal16"
-                    }
-                  },
-                  [
-                    _c("img", {
-                      staticClass: "img-responsive",
-                      attrs: { src: "assets/images/of15.png", alt: "" }
-                    }),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "offer" }, [
-                      _c("p", [_c("span", [_vm._v("Offer")])])
-                    ])
-                  ]
-                ),
-                _vm._v(" "),
-                _c("div", { staticClass: "mid-1" }, [
-                  _c("div", { staticClass: "women" }, [
-                    _c("h6", [
-                      _c("a", { attrs: { href: "single.html" } }, [
-                        _vm._v("Bread")
-                      ]),
-                      _vm._v("(500 g)")
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "mid-2" }, [
-                    _c("p", [
-                      _c("label", [_vm._v("$1.00")]),
-                      _c("em", { staticClass: "item_price" }, [_vm._v("$0.80")])
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "block" }, [
-                      _c("div", { staticClass: "starbox small ghosting" })
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "clearfix" })
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "add" }, [
-                    _c(
-                      "button",
-                      {
-                        staticClass: "btn btn-danger my-cart-btn my-cart-b",
-                        attrs: {
-                          "data-id": "16",
-                          "data-name": "Bread",
-                          "data-summary": "summary 16",
-                          "data-price": "0.80",
-                          "data-quantity": "1",
-                          "data-image": "assets/images/of15.png"
-                        }
-                      },
-                      [_vm._v("Add to Cart")]
-                    )
-                  ])
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "clearfix" })
+            _c("div", { staticClass: "add" }, [
+              _c(
+                "button",
+                {
+                  staticClass: "btn btn-danger my-cart-btn my-cart-b ",
+                  attrs: {
+                    "data-id": "1",
+                    "data-name": "Moong",
+                    "data-summary": "summary 1",
+                    "data-price": "1.50",
+                    "data-quantity": "1",
+                    "data-image": "assets/images/of.png"
+                  }
+                },
+                [_vm._v("Add to Cart")]
+              )
+            ])
           ])
         ])
-      ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-3 pro-1" }, [
+        _c("div", { staticClass: "col-m" }, [
+          _c(
+            "a",
+            {
+              staticClass: "offer-img",
+              attrs: {
+                href: "#",
+                "data-toggle": "modal",
+                "data-target": "#myModal2"
+              }
+            },
+            [
+              _c("img", {
+                staticClass: "img-responsive",
+                attrs: { src: "assets/images/of1.png", alt: "" }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "offer" }, [
+                _c("p", [_c("span", [_vm._v("Offer")])])
+              ])
+            ]
+          ),
+          _vm._v(" "),
+          _c("div", { staticClass: "mid-1" }, [
+            _c("div", { staticClass: "women" }, [
+              _c("h6", [
+                _c("a", { attrs: { href: "single.html" } }, [
+                  _vm._v("Sunflower Oil")
+                ]),
+                _vm._v("(5 kg)")
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "mid-2" }, [
+              _c("p", [
+                _c("label", [_vm._v("$10.00")]),
+                _c("em", { staticClass: "item_price" }, [_vm._v("$9.00")])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "block" }, [
+                _c("div", { staticClass: "starbox small ghosting" })
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "clearfix" })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "add" }, [
+              _c(
+                "button",
+                {
+                  staticClass: "btn btn-danger my-cart-btn my-cart-b",
+                  attrs: {
+                    "data-id": "2",
+                    "data-name": "Sunflower Oil",
+                    "data-summary": "summary 2",
+                    "data-price": "9.00",
+                    "data-quantity": "1",
+                    "data-image": "assets/images/of1.png"
+                  }
+                },
+                [_vm._v("Add to Cart")]
+              )
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-3 pro-1" }, [
+        _c("div", { staticClass: "col-m" }, [
+          _c(
+            "a",
+            {
+              staticClass: "offer-img",
+              attrs: {
+                href: "#",
+                "data-toggle": "modal",
+                "data-target": "#myModal3"
+              }
+            },
+            [
+              _c("img", {
+                staticClass: "img-responsive",
+                attrs: { src: "assets/images/of2.png", alt: "" }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "offer" }, [
+                _c("p", [_c("span", [_vm._v("Offer")])])
+              ])
+            ]
+          ),
+          _vm._v(" "),
+          _c("div", { staticClass: "mid-1" }, [
+            _c("div", { staticClass: "women" }, [
+              _c("h6", [
+                _c("a", { attrs: { href: "single.html" } }, [
+                  _vm._v("Kabuli Chana")
+                ]),
+                _vm._v("(1 kg)")
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "mid-2" }, [
+              _c("p", [
+                _c("label", [_vm._v("$3.00")]),
+                _c("em", { staticClass: "item_price" }, [_vm._v("$2.00")])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "block" }, [
+                _c("div", { staticClass: "starbox small ghosting" })
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "clearfix" })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "add" }, [
+              _c(
+                "button",
+                {
+                  staticClass: "btn btn-danger my-cart-btn my-cart-b",
+                  attrs: {
+                    "data-id": "3",
+                    "data-name": "Kabuli Chana",
+                    "data-summary": "summary 3",
+                    "data-price": "2.00",
+                    "data-quantity": "1",
+                    "data-image": "assets/images/of2.png"
+                  }
+                },
+                [_vm._v("Add to Cart")]
+              )
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-3 pro-1" }, [
+        _c("div", { staticClass: "col-m" }, [
+          _c(
+            "a",
+            {
+              staticClass: "offer-img",
+              attrs: {
+                href: "#",
+                "data-toggle": "modal",
+                "data-target": "#myModal4"
+              }
+            },
+            [
+              _c("img", {
+                staticClass: "img-responsive",
+                attrs: { src: "assets/images/of3.png", alt: "" }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "offer" }, [
+                _c("p", [_c("span", [_vm._v("Offer")])])
+              ])
+            ]
+          ),
+          _vm._v(" "),
+          _c("div", { staticClass: "mid-1" }, [
+            _c("div", { staticClass: "women" }, [
+              _c("h6", [
+                _c("a", { attrs: { href: "single.html" } }, [
+                  _vm._v("Soya Chunks")
+                ]),
+                _vm._v("(1 kg)")
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "mid-2" }, [
+              _c("p", [
+                _c("label", [_vm._v("$4.00")]),
+                _c("em", { staticClass: "item_price" }, [_vm._v("$3.50")])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "block" }, [
+                _c("div", { staticClass: "starbox small ghosting" })
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "clearfix" })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "add" }, [
+              _c(
+                "button",
+                {
+                  staticClass: "btn btn-danger my-cart-btn my-cart-b",
+                  attrs: {
+                    "data-id": "4",
+                    "data-name": "Mini Soya Chunks",
+                    "data-summary": "summary 4",
+                    "data-price": "3.50",
+                    "data-quantity": "1",
+                    "data-image": "assets/images/of3.png"
+                  }
+                },
+                [_vm._v("Add to Cart")]
+              )
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-3 pro-1" }, [
+        _c("div", { staticClass: "col-m" }, [
+          _c(
+            "a",
+            {
+              staticClass: "offer-img",
+              attrs: {
+                href: "#",
+                "data-toggle": "modal",
+                "data-target": "#myModal5"
+              }
+            },
+            [
+              _c("img", {
+                staticClass: "img-responsive",
+                attrs: { src: "assets/images/of4.png", alt: "" }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "offer" }, [
+                _c("p", [_c("span", [_vm._v("Offer")])])
+              ])
+            ]
+          ),
+          _vm._v(" "),
+          _c("div", { staticClass: "mid-1" }, [
+            _c("div", { staticClass: "women" }, [
+              _c("h6", [
+                _c("a", { attrs: { href: "single.html" } }, [_vm._v("Lays")]),
+                _vm._v("(100 g)")
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "mid-2" }, [
+              _c("p", [
+                _c("label", [_vm._v("$1.00")]),
+                _c("em", { staticClass: "item_price" }, [_vm._v("$0.70")])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "block" }, [
+                _c("div", { staticClass: "starbox small ghosting" })
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "clearfix" })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "add" }, [
+              _c(
+                "button",
+                {
+                  staticClass: "btn btn-danger my-cart-btn my-cart-b",
+                  attrs: {
+                    "data-id": "5",
+                    "data-name": "Lays",
+                    "data-summary": "summary 5",
+                    "data-price": "0.70",
+                    "data-quantity": "1",
+                    "data-image": "assets/images/of4.png"
+                  }
+                },
+                [_vm._v("Add to Cart")]
+              )
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-3 pro-1" }, [
+        _c("div", { staticClass: "col-m" }, [
+          _c(
+            "a",
+            {
+              staticClass: "offer-img",
+              attrs: {
+                href: "#",
+                "data-toggle": "modal",
+                "data-target": "#myModal6"
+              }
+            },
+            [
+              _c("img", {
+                staticClass: "img-responsive",
+                attrs: { src: "assets/images/of5.png", alt: "" }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "offer" }, [
+                _c("p", [_c("span", [_vm._v("Offer")])])
+              ])
+            ]
+          ),
+          _vm._v(" "),
+          _c("div", { staticClass: "mid-1" }, [
+            _c("div", { staticClass: "women" }, [
+              _c("h6", [
+                _c("a", { attrs: { href: "single.html" } }, [
+                  _vm._v("Kurkure")
+                ]),
+                _vm._v("(100 g)")
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "mid-2" }, [
+              _c("p", [
+                _c("label", [_vm._v("$1.00")]),
+                _c("em", { staticClass: "item_price" }, [_vm._v("$0.70")])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "block" }, [
+                _c("div", { staticClass: "starbox small ghosting" })
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "clearfix" })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "add" }, [
+              _c(
+                "button",
+                {
+                  staticClass: "btn btn-danger my-cart-btn my-cart-b",
+                  attrs: {
+                    "data-id": "6",
+                    "data-name": "Kurkure",
+                    "data-summary": "summary 6",
+                    "data-price": "0.70",
+                    "data-quantity": "1",
+                    "data-image": "assets/images/of5.png"
+                  }
+                },
+                [_vm._v("Add to Cart")]
+              )
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-3 pro-1" }, [
+        _c("div", { staticClass: "col-m" }, [
+          _c(
+            "a",
+            {
+              staticClass: "offer-img",
+              attrs: {
+                href: "#",
+                "data-toggle": "modal",
+                "data-target": "#myModal7"
+              }
+            },
+            [
+              _c("img", {
+                staticClass: "img-responsive",
+                attrs: { src: "assets/images/of6.png", alt: "" }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "offer" }, [
+                _c("p", [_c("span", [_vm._v("Offer")])])
+              ])
+            ]
+          ),
+          _vm._v(" "),
+          _c("div", { staticClass: "mid-1" }, [
+            _c("div", { staticClass: "women" }, [
+              _c("h6", [
+                _c("a", { attrs: { href: "single.html" } }, [
+                  _vm._v("Popcorn")
+                ]),
+                _vm._v("(250 g)")
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "mid-2" }, [
+              _c("p", [
+                _c("label", [_vm._v("$2.00")]),
+                _c("em", { staticClass: "item_price" }, [_vm._v("$1.00")])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "block" }, [
+                _c("div", { staticClass: "starbox small ghosting" })
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "clearfix" })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "add" }, [
+              _c(
+                "button",
+                {
+                  staticClass: "btn btn-danger my-cart-btn my-cart-b",
+                  attrs: {
+                    "data-id": "7",
+                    "data-name": "product 1",
+                    "data-summary": "summary 1",
+                    "data-price": "1.00",
+                    "data-quantity": "1",
+                    "data-image": "assets/images/of6.png"
+                  }
+                },
+                [_vm._v("Add to Cart")]
+              )
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-3 pro-1" }, [
+        _c("div", { staticClass: "col-m" }, [
+          _c(
+            "a",
+            {
+              staticClass: "offer-img",
+              attrs: {
+                href: "#",
+                "data-toggle": "modal",
+                "data-target": "#myModal8"
+              }
+            },
+            [
+              _c("img", {
+                staticClass: "img-responsive",
+                attrs: { src: "assets/images/of7.png", alt: "" }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "offer" }, [
+                _c("p", [_c("span", [_vm._v("Offer")])])
+              ])
+            ]
+          ),
+          _vm._v(" "),
+          _c("div", { staticClass: "mid-1" }, [
+            _c("div", { staticClass: "women" }, [
+              _c("h6", [
+                _c("a", { attrs: { href: "single.html" } }, [_vm._v(" Nuts")]),
+                _vm._v("(250 g)")
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "mid-2" }, [
+              _c("p", [
+                _c("label", [_vm._v("$4.00")]),
+                _c("em", { staticClass: "item_price" }, [_vm._v("$3.50")])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "block" }, [
+                _c("div", { staticClass: "starbox small ghosting" })
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "clearfix" })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "add" }, [
+              _c(
+                "button",
+                {
+                  staticClass: "btn btn-danger my-cart-btn my-cart-b",
+                  attrs: {
+                    "data-id": "8",
+                    "data-name": "Nuts",
+                    "data-summary": "summary 8",
+                    "data-price": "3.50",
+                    "data-quantity": "1",
+                    "data-image": "assets/images/of7.png"
+                  }
+                },
+                [_vm._v("Add to Cart")]
+              )
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-3 pro-1" }, [
+        _c("div", { staticClass: "col-m" }, [
+          _c(
+            "a",
+            {
+              staticClass: "offer-img",
+              attrs: {
+                href: "#",
+                "data-toggle": "modal",
+                "data-target": "#myModal9"
+              }
+            },
+            [
+              _c("img", {
+                staticClass: "img-responsive",
+                attrs: { src: "assets/images/of8.png", alt: "" }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "offer" }, [
+                _c("p", [_c("span", [_vm._v("Offer")])])
+              ])
+            ]
+          ),
+          _vm._v(" "),
+          _c("div", { staticClass: "mid-1" }, [
+            _c("div", { staticClass: "women" }, [
+              _c("h6", [
+                _c("a", { attrs: { href: "single.html" } }, [_vm._v("Banana")]),
+                _vm._v("(6 pcs)")
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "mid-2" }, [
+              _c("p", [
+                _c("label", [_vm._v("$2.00")]),
+                _c("em", { staticClass: "item_price" }, [_vm._v("$1.50")])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "block" }, [
+                _c("div", { staticClass: "starbox small ghosting" })
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "clearfix" })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "add" }, [
+              _c(
+                "button",
+                {
+                  staticClass: "btn btn-danger my-cart-btn my-cart-b",
+                  attrs: {
+                    "data-id": "9",
+                    "data-name": "Banana",
+                    "data-summary": "summary 9",
+                    "data-price": "1.50",
+                    "data-quantity": "1",
+                    "data-image": "assets/images/of8.png"
+                  }
+                },
+                [_vm._v("Add to Cart")]
+              )
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-3 pro-1" }, [
+        _c("div", { staticClass: "col-m" }, [
+          _c(
+            "a",
+            {
+              staticClass: "offer-img",
+              attrs: {
+                href: "#",
+                "data-toggle": "modal",
+                "data-target": "#myModal10"
+              }
+            },
+            [
+              _c("img", {
+                staticClass: "img-responsive",
+                attrs: { src: "assets/images/of9.png", alt: "" }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "offer" }, [
+                _c("p", [_c("span", [_vm._v("Offer")])])
+              ])
+            ]
+          ),
+          _vm._v(" "),
+          _c("div", { staticClass: "mid-1" }, [
+            _c("div", { staticClass: "women" }, [
+              _c("h6", [
+                _c("a", { attrs: { href: "single.html" } }, [_vm._v("Onion")]),
+                _vm._v("(1 kg)")
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "mid-2" }, [
+              _c("p", [
+                _c("label", [_vm._v("$1.00")]),
+                _c("em", { staticClass: "item_price" }, [_vm._v("$0.70")])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "block" }, [
+                _c("div", { staticClass: "starbox small ghosting" })
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "clearfix" })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "add" }, [
+              _c(
+                "button",
+                {
+                  staticClass: "btn btn-danger my-cart-btn my-cart-b",
+                  attrs: {
+                    "data-id": "10",
+                    "data-name": "Onion",
+                    "data-summary": "summary 10",
+                    "data-price": "0.70",
+                    "data-quantity": "1",
+                    "data-image": "assets/images/of9.png"
+                  }
+                },
+                [_vm._v("Add to Cart")]
+              )
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-3 pro-1" }, [
+        _c("div", { staticClass: "col-m" }, [
+          _c(
+            "a",
+            {
+              staticClass: "offer-img",
+              attrs: {
+                href: "#",
+                "data-toggle": "modal",
+                "data-target": "#myModal11"
+              }
+            },
+            [
+              _c("img", {
+                staticClass: "img-responsive",
+                attrs: { src: "assets/images/of10.png", alt: "" }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "offer" }, [
+                _c("p", [_c("span", [_vm._v("Offer")])])
+              ])
+            ]
+          ),
+          _vm._v(" "),
+          _c("div", { staticClass: "mid-1" }, [
+            _c("div", { staticClass: "women" }, [
+              _c("h6", [
+                _c("a", { attrs: { href: "single.html" } }, [
+                  _vm._v(" Bitter Gourd")
+                ]),
+                _vm._v("(1 kg)")
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "mid-2" }, [
+              _c("p", [
+                _c("label", [_vm._v("$2.00")]),
+                _c("em", { staticClass: "item_price" }, [_vm._v("$1.00")])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "block" }, [
+                _c("div", { staticClass: "starbox small ghosting" })
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "clearfix" })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "add" }, [
+              _c(
+                "button",
+                {
+                  staticClass: "btn btn-danger my-cart-btn my-cart-b",
+                  attrs: {
+                    "data-id": "11",
+                    "data-name": "Bitter Gourd",
+                    "data-summary": "summary 11",
+                    "data-price": "1.00",
+                    "data-quantity": "1",
+                    "data-image": "assets/images/of10.png"
+                  }
+                },
+                [_vm._v("Add to Cart")]
+              )
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-3 pro-1" }, [
+        _c("div", { staticClass: "col-m" }, [
+          _c(
+            "a",
+            {
+              staticClass: "offer-img",
+              attrs: {
+                href: "#",
+                "data-toggle": "modal",
+                "data-target": "#myModal12"
+              }
+            },
+            [
+              _c("img", {
+                staticClass: "img-responsive",
+                attrs: { src: "assets/images/of11.png", alt: "" }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "offer" }, [
+                _c("p", [_c("span", [_vm._v("Offer")])])
+              ])
+            ]
+          ),
+          _vm._v(" "),
+          _c("div", { staticClass: "mid-1" }, [
+            _c("div", { staticClass: "women" }, [
+              _c("h6", [
+                _c("a", { attrs: { href: "single.html" } }, [_vm._v("Apples")]),
+                _vm._v("(1 kg)")
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "mid-2" }, [
+              _c("p", [
+                _c("label", [_vm._v("$4.00")]),
+                _c("em", { staticClass: "item_price" }, [_vm._v("$3.50")])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "block" }, [
+                _c("div", { staticClass: "starbox small ghosting" })
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "clearfix" })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "add" }, [
+              _c(
+                "button",
+                {
+                  staticClass: "btn btn-danger my-cart-btn my-cart-b",
+                  attrs: {
+                    "data-id": "12",
+                    "data-name": "Apples",
+                    "data-summary": "summary 12",
+                    "data-price": "3.50",
+                    "data-quantity": "1",
+                    "data-image": "assets/images/of11.png"
+                  }
+                },
+                [_vm._v("Add to Cart")]
+              )
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-3 pro-1" }, [
+        _c("div", { staticClass: "col-m" }, [
+          _c(
+            "a",
+            {
+              staticClass: "offer-img",
+              attrs: {
+                href: "#",
+                "data-toggle": "modal",
+                "data-target": "#myModal13"
+              }
+            },
+            [
+              _c("img", {
+                staticClass: "img-responsive",
+                attrs: { src: "assets/images/of12.png", alt: "" }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "offer" }, [
+                _c("p", [_c("span", [_vm._v("Offer")])])
+              ])
+            ]
+          ),
+          _vm._v(" "),
+          _c("div", { staticClass: "mid-1" }, [
+            _c("div", { staticClass: "women" }, [
+              _c("h6", [
+                _c("a", { attrs: { href: "single.html" } }, [_vm._v("Honey")]),
+                _vm._v("(500g)")
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "mid-2" }, [
+              _c("p", [
+                _c("label", [_vm._v("$7.00")]),
+                _c("em", { staticClass: "item_price" }, [_vm._v("$6.00")])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "block" }, [
+                _c("div", { staticClass: "starbox small ghosting" })
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "clearfix" })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "add" }, [
+              _c(
+                "button",
+                {
+                  staticClass: "btn btn-danger my-cart-btn my-cart-b",
+                  attrs: {
+                    "data-id": "13",
+                    "data-name": "Honey",
+                    "data-summary": "summary 13",
+                    "data-price": "6.00",
+                    "data-quantity": "1",
+                    "data-image": "assets/images/of12.png"
+                  }
+                },
+                [_vm._v("Add to Cart")]
+              )
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-3 pro-1" }, [
+        _c("div", { staticClass: "col-m" }, [
+          _c(
+            "a",
+            {
+              staticClass: "offer-img",
+              attrs: {
+                href: "#",
+                "data-toggle": "modal",
+                "data-target": "#myModal14"
+              }
+            },
+            [
+              _c("img", {
+                staticClass: "img-responsive",
+                attrs: { src: "assets/images/of13.png", alt: "" }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "offer" }, [
+                _c("p", [_c("span", [_vm._v("Offer")])])
+              ])
+            ]
+          ),
+          _vm._v(" "),
+          _c("div", { staticClass: "mid-1" }, [
+            _c("div", { staticClass: "women" }, [
+              _c("h6", [
+                _c("a", { attrs: { href: "single.html" } }, [_vm._v("Chocos")]),
+                _vm._v("(250g)")
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "mid-2" }, [
+              _c("p", [
+                _c("label", [_vm._v("$5.00")]),
+                _c("em", { staticClass: "item_price" }, [_vm._v("$4.50")])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "block" }, [
+                _c("div", { staticClass: "starbox small ghosting" })
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "clearfix" })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "add" }, [
+              _c(
+                "button",
+                {
+                  staticClass: "btn btn-danger my-cart-btn my-cart-b",
+                  attrs: {
+                    "data-id": "14",
+                    "data-name": "Chocos",
+                    "data-summary": "summary 14",
+                    "data-price": "4.50",
+                    "data-quantity": "1",
+                    "data-image": "assets/images/of13.png"
+                  }
+                },
+                [_vm._v("Add to Cart")]
+              )
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-3 pro-1" }, [
+        _c("div", { staticClass: "col-m" }, [
+          _c(
+            "a",
+            {
+              staticClass: "offer-img",
+              attrs: {
+                href: "#",
+                "data-toggle": "modal",
+                "data-target": "#myModal15"
+              }
+            },
+            [
+              _c("img", {
+                staticClass: "img-responsive",
+                attrs: { src: "assets/images/of14.png", alt: "" }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "offer" }, [
+                _c("p", [_c("span", [_vm._v("Offer")])])
+              ])
+            ]
+          ),
+          _vm._v(" "),
+          _c("div", { staticClass: "mid-1" }, [
+            _c("div", { staticClass: "women" }, [
+              _c("h6", [
+                _c("a", { attrs: { href: "single.html" } }, [_vm._v("Oats")]),
+                _vm._v("(1 kg)")
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "mid-2" }, [
+              _c("p", [
+                _c("label", [_vm._v("$4.00")]),
+                _c("em", { staticClass: "item_price" }, [_vm._v("$3.50")])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "block" }, [
+                _c("div", { staticClass: "starbox small ghosting" })
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "clearfix" })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "add" }, [
+              _c(
+                "button",
+                {
+                  staticClass: "btn btn-danger my-cart-btn my-cart-b",
+                  attrs: {
+                    "data-id": "15",
+                    "data-name": "Oats",
+                    "data-summary": "summary 15",
+                    "data-price": "3.50",
+                    "data-quantity": "1",
+                    "data-image": "assets/images/of14.png"
+                  }
+                },
+                [_vm._v("Add to Cart")]
+              )
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-3 pro-1" }, [
+        _c("div", { staticClass: "col-m" }, [
+          _c(
+            "a",
+            {
+              staticClass: "offer-img",
+              attrs: {
+                href: "#",
+                "data-toggle": "modal",
+                "data-target": "#myModal16"
+              }
+            },
+            [
+              _c("img", {
+                staticClass: "img-responsive",
+                attrs: { src: "assets/images/of15.png", alt: "" }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "offer" }, [
+                _c("p", [_c("span", [_vm._v("Offer")])])
+              ])
+            ]
+          ),
+          _vm._v(" "),
+          _c("div", { staticClass: "mid-1" }, [
+            _c("div", { staticClass: "women" }, [
+              _c("h6", [
+                _c("a", { attrs: { href: "single.html" } }, [_vm._v("Bread")]),
+                _vm._v("(500 g)")
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "mid-2" }, [
+              _c("p", [
+                _c("label", [_vm._v("$1.00")]),
+                _c("em", { staticClass: "item_price" }, [_vm._v("$0.80")])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "block" }, [
+                _c("div", { staticClass: "starbox small ghosting" })
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "clearfix" })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "add" }, [
+              _c(
+                "button",
+                {
+                  staticClass: "btn btn-danger my-cart-btn my-cart-b",
+                  attrs: {
+                    "data-id": "16",
+                    "data-name": "Bread",
+                    "data-summary": "summary 16",
+                    "data-price": "0.80",
+                    "data-quantity": "1",
+                    "data-image": "assets/images/of15.png"
+                  }
+                },
+                [_vm._v("Add to Cart")]
+              )
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "clearfix" })
     ])
   }
 ]
@@ -21921,7 +22762,7 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "logo bounce animated" }, [
+    return _c("div", { staticClass: "logo rubberBand animated" }, [
       _c("h1", [
         _c("a", { attrs: { href: "#" } }, [
           _c("b", [_vm._v("T"), _c("br"), _vm._v("H"), _c("br"), _vm._v("E")]),
@@ -22377,1237 +23218,1213 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _vm._m(0)
+  return _c("div", { staticClass: "content-top " }, [
+    _c(
+      "div",
+      { staticClass: "container " },
+      [
+        _c("headerComponent", { attrs: { name: _vm.value } }),
+        _vm._v(" "),
+        _vm._m(0)
+      ],
+      1
+    )
+  ])
 }
 var staticRenderFns = [
   function() {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "content-top " }, [
-      _c("div", { staticClass: "container " }, [
-        _c("div", { staticClass: "spec " }, [
-          _c("h3", [_vm._v("Special Offers")]),
-          _vm._v(" "),
-          _c("div", { staticClass: "ser-t" }, [
-            _c("b"),
-            _vm._v(" "),
-            _c("span", [_c("i")]),
-            _vm._v(" "),
-            _c("b", { staticClass: "line" })
-          ])
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "tab-head " }, [
-          _c("nav", { staticClass: "nav-sidebar" }, [
-            _c("ul", { staticClass: "nav tabs " }, [
-              _c("li", { staticClass: "active" }, [
-                _c("a", { attrs: { href: "#tab1", "data-toggle": "tab" } }, [
-                  _vm._v("Staples")
-                ])
-              ]),
-              _vm._v(" "),
-              _c("li", {}, [
-                _c("a", { attrs: { href: "#tab2", "data-toggle": "tab" } }, [
-                  _vm._v("Snacks")
-                ])
-              ]),
-              _vm._v(" "),
-              _c("li", {}, [
-                _c("a", { attrs: { href: "#tab3", "data-toggle": "tab" } }, [
-                  _vm._v("Fruits & Vegetables")
-                ])
-              ]),
-              _vm._v(" "),
-              _c("li", {}, [
-                _c("a", { attrs: { href: "#tab4", "data-toggle": "tab" } }, [
-                  _vm._v("Breakfast & Cereal")
-                ])
-              ])
+    return _c("div", { staticClass: "tab-head " }, [
+      _c("nav", { staticClass: "nav-sidebar" }, [
+        _c("ul", { staticClass: "nav tabs " }, [
+          _c("li", { staticClass: "active" }, [
+            _c("a", { attrs: { href: "#tab1", "data-toggle": "tab" } }, [
+              _vm._v("Staples")
             ])
           ]),
           _vm._v(" "),
-          _c("div", { staticClass: " tab-content tab-content-t " }, [
-            _c(
-              "div",
-              {
-                staticClass: "tab-pane active text-style",
-                attrs: { id: "tab1" }
-              },
-              [
-                _c("div", { staticClass: " con-w3l" }, [
-                  _c("div", { staticClass: "col-md-3 m-wthree" }, [
-                    _c("div", { staticClass: "col-m" }, [
-                      _c(
-                        "a",
-                        {
-                          staticClass: "offer-img",
-                          attrs: {
-                            href: "#",
-                            "data-toggle": "modal",
-                            "data-target": "#myModal1"
-                          }
-                        },
-                        [
-                          _c("img", {
-                            staticClass: "img-responsive",
-                            attrs: { src: "assets/images/of.png", alt: "" }
-                          }),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "offer" }, [
-                            _c("p", [_c("span", [_vm._v("Offer")])])
-                          ])
-                        ]
-                      ),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "mid-1" }, [
-                        _c("div", { staticClass: "women" }, [
-                          _c("h6", [
-                            _c("a", { attrs: { href: "single.html" } }, [
-                              _vm._v("Moong")
-                            ]),
-                            _vm._v("(1 kg)")
-                          ])
-                        ]),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "mid-2" }, [
-                          _c("p", [
-                            _c("label", [_vm._v("$2.00")]),
-                            _c("em", { staticClass: "item_price" }, [
-                              _vm._v("$1.50")
-                            ])
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "block" }, [
-                            _c("div", { staticClass: "starbox small ghosting" })
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "clearfix" })
-                        ]),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "add" }, [
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn btn-danger my-cart-btn my-cart-b ",
-                              attrs: {
-                                "data-id": "1",
-                                "data-name": "Moong",
-                                "data-summary": "summary 1",
-                                "data-price": "1.50",
-                                "data-quantity": "1",
-                                "data-image": "images/of.png"
-                              }
-                            },
-                            [_vm._v("Add to Cart")]
-                          )
-                        ])
-                      ])
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "col-md-3 m-wthree" }, [
-                    _c("div", { staticClass: "col-m" }, [
-                      _c(
-                        "a",
-                        {
-                          staticClass: "offer-img",
-                          attrs: {
-                            href: "#",
-                            "data-toggle": "modal",
-                            "data-target": "#myModal2"
-                          }
-                        },
-                        [
-                          _c("img", {
-                            staticClass: "img-responsive",
-                            attrs: { src: "assets/images/of1.png", alt: "" }
-                          }),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "offer" }, [
-                            _c("p", [_c("span", [_vm._v("Offer")])])
-                          ])
-                        ]
-                      ),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "mid-1" }, [
-                        _c("div", { staticClass: "women" }, [
-                          _c("h6", [
-                            _c("a", { attrs: { href: "single.html" } }, [
-                              _vm._v("Sunflower Oil")
-                            ]),
-                            _vm._v("(5 kg)")
-                          ])
-                        ]),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "mid-2" }, [
-                          _c("p", [
-                            _c("label", [_vm._v("$10.00")]),
-                            _c("em", { staticClass: "item_price" }, [
-                              _vm._v("$9.00")
-                            ])
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "block" }, [
-                            _c("div", { staticClass: "starbox small ghosting" })
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "clearfix" })
-                        ]),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "add" }, [
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn btn-danger my-cart-btn my-cart-b",
-                              attrs: {
-                                "data-id": "2",
-                                "data-name": "Sunflower Oil",
-                                "data-summary": "summary 2",
-                                "data-price": "9.00",
-                                "data-quantity": "1",
-                                "data-image": "images/of1.png"
-                              }
-                            },
-                            [_vm._v("Add to Cart")]
-                          )
-                        ])
-                      ])
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "col-md-3 m-wthree" }, [
-                    _c("div", { staticClass: "col-m" }, [
-                      _c(
-                        "a",
-                        {
-                          staticClass: "offer-img",
-                          attrs: {
-                            href: "#",
-                            "data-toggle": "modal",
-                            "data-target": "#myModal3"
-                          }
-                        },
-                        [
-                          _c("img", {
-                            staticClass: "img-responsive",
-                            attrs: { src: "assets/images/of2.png", alt: "" }
-                          }),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "offer" }, [
-                            _c("p", [_c("span", [_vm._v("Offer")])])
-                          ])
-                        ]
-                      ),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "mid-1" }, [
-                        _c("div", { staticClass: "women" }, [
-                          _c("h6", [
-                            _c("a", { attrs: { href: "single.html" } }, [
-                              _vm._v("Kabuli Chana")
-                            ]),
-                            _vm._v("(1 kg)")
-                          ])
-                        ]),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "mid-2" }, [
-                          _c("p", [
-                            _c("label", [_vm._v("$3.00")]),
-                            _c("em", { staticClass: "item_price" }, [
-                              _vm._v("$2.00")
-                            ])
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "block" }, [
-                            _c("div", { staticClass: "starbox small ghosting" })
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "clearfix" })
-                        ]),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "add" }, [
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn btn-danger my-cart-btn my-cart-b",
-                              attrs: {
-                                "data-id": "3",
-                                "data-name": "Kabuli Chana",
-                                "data-summary": "summary 3",
-                                "data-price": "2.00",
-                                "data-quantity": "1",
-                                "data-image": "images/of2.png"
-                              }
-                            },
-                            [_vm._v("Add to Cart")]
-                          )
-                        ])
-                      ])
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "col-md-3 m-wthree" }, [
-                    _c("div", { staticClass: "col-m" }, [
-                      _c(
-                        "a",
-                        {
-                          staticClass: "offer-img",
-                          attrs: {
-                            href: "#",
-                            "data-toggle": "modal",
-                            "data-target": "#myModal4"
-                          }
-                        },
-                        [
-                          _c("img", {
-                            staticClass: "img-responsive",
-                            attrs: { src: "assets/images/of3.png", alt: "" }
-                          }),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "offer" }, [
-                            _c("p", [_c("span", [_vm._v("Offer")])])
-                          ])
-                        ]
-                      ),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "mid-1" }, [
-                        _c("div", { staticClass: "women" }, [
-                          _c("h6", [
-                            _c("a", { attrs: { href: "single.html" } }, [
-                              _vm._v("Soya Chunks")
-                            ]),
-                            _vm._v("(1 kg)")
-                          ])
-                        ]),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "mid-2" }, [
-                          _c("p", [
-                            _c("label", [_vm._v("$4.00")]),
-                            _c("em", { staticClass: "item_price" }, [
-                              _vm._v("$3.50")
-                            ])
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "block" }, [
-                            _c("div", { staticClass: "starbox small ghosting" })
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "clearfix" })
-                        ]),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "add" }, [
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn btn-danger my-cart-btn my-cart-b",
-                              attrs: {
-                                "data-id": "4",
-                                "data-name": "Soya Chunks",
-                                "data-summary": "summary 4",
-                                "data-price": "3.50",
-                                "data-quantity": "1",
-                                "data-image": "images/of3.png"
-                              }
-                            },
-                            [_vm._v("Add to Cart")]
-                          )
-                        ])
-                      ])
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "clearfix" })
-                ])
-              ]
-            ),
-            _vm._v(" "),
-            _c(
-              "div",
-              { staticClass: "tab-pane  text-style", attrs: { id: "tab2" } },
-              [
-                _c("div", { staticClass: " con-w3l" }, [
-                  _c("div", { staticClass: "col-md-3 m-wthree" }, [
-                    _c("div", { staticClass: "col-m" }, [
-                      _c(
-                        "a",
-                        {
-                          staticClass: "offer-img",
-                          attrs: {
-                            href: "#",
-                            "data-toggle": "modal",
-                            "data-target": "#myModal5"
-                          }
-                        },
-                        [
-                          _c("img", {
-                            staticClass: "img-responsive",
-                            attrs: { src: "assets/images/of4.png", alt: "" }
-                          }),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "offer" }, [
-                            _c("p", [_c("span", [_vm._v("Offer")])])
-                          ])
-                        ]
-                      ),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "mid-1" }, [
-                        _c("div", { staticClass: "women" }, [
-                          _c("h6", [
-                            _c("a", { attrs: { href: "single.html" } }, [
-                              _vm._v("Lays")
-                            ]),
-                            _vm._v("(100 g)")
-                          ])
-                        ]),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "mid-2" }, [
-                          _c("p", [
-                            _c("label", [_vm._v("$1.00")]),
-                            _c("em", { staticClass: "item_price" }, [
-                              _vm._v("$0.70")
-                            ])
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "block" }, [
-                            _c("div", { staticClass: "starbox small ghosting" })
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "clearfix" })
-                        ]),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "add" }, [
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn btn-danger my-cart-btn my-cart-b",
-                              attrs: {
-                                "data-id": "5",
-                                "data-name": "Lays",
-                                "data-summary": "summary 5",
-                                "data-price": "0.70",
-                                "data-quantity": "1",
-                                "data-image": "images/of4.png"
-                              }
-                            },
-                            [_vm._v("Add to Cart")]
-                          )
-                        ])
-                      ])
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "col-md-3 m-wthree" }, [
-                    _c("div", { staticClass: "col-m" }, [
-                      _c(
-                        "a",
-                        {
-                          staticClass: "offer-img",
-                          attrs: {
-                            href: "#",
-                            "data-toggle": "modal",
-                            "data-target": "#myModal6"
-                          }
-                        },
-                        [
-                          _c("img", {
-                            staticClass: "img-responsive",
-                            attrs: { src: "assets/images/of5.png", alt: "" }
-                          }),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "offer" }, [
-                            _c("p", [_c("span", [_vm._v("Offer")])])
-                          ])
-                        ]
-                      ),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "mid-1" }, [
-                        _c("div", { staticClass: "women" }, [
-                          _c("h6", [
-                            _c("a", { attrs: { href: "single.html" } }, [
-                              _vm._v("Kurkure")
-                            ]),
-                            _vm._v("(100 g)")
-                          ])
-                        ]),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "mid-2" }, [
-                          _c("p", [
-                            _c("label", [_vm._v("$1.00")]),
-                            _c("em", { staticClass: "item_price" }, [
-                              _vm._v("$0.70")
-                            ])
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "block" }, [
-                            _c("div", { staticClass: "starbox small ghosting" })
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "clearfix" })
-                        ]),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "add" }, [
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn btn-danger my-cart-btn my-cart-b",
-                              attrs: {
-                                "data-id": "6",
-                                "data-name": "Kurkure",
-                                "data-summary": "summary 6",
-                                "data-price": "0.70",
-                                "data-quantity": "1",
-                                "data-image": "images/of5.png"
-                              }
-                            },
-                            [_vm._v("Add to Cart")]
-                          )
-                        ])
-                      ])
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "col-md-3 m-wthree" }, [
-                    _c("div", { staticClass: "col-m" }, [
-                      _c(
-                        "a",
-                        {
-                          staticClass: "offer-img",
-                          attrs: {
-                            href: "#",
-                            "data-toggle": "modal",
-                            "data-target": "#myModal7"
-                          }
-                        },
-                        [
-                          _c("img", {
-                            staticClass: "img-responsive",
-                            attrs: { src: "assets/images/of6.png", alt: "" }
-                          }),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "offer" }, [
-                            _c("p", [_c("span", [_vm._v("Offer")])])
-                          ])
-                        ]
-                      ),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "mid-1" }, [
-                        _c("div", { staticClass: "women" }, [
-                          _c("h6", [
-                            _c("a", { attrs: { href: "single.html" } }, [
-                              _vm._v("Popcorn")
-                            ]),
-                            _vm._v("(250 g)")
-                          ])
-                        ]),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "mid-2" }, [
-                          _c("p", [
-                            _c("label", [_vm._v("$2.00")]),
-                            _c("em", { staticClass: "item_price" }, [
-                              _vm._v("$1.00")
-                            ])
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "block" }, [
-                            _c("div", { staticClass: "starbox small ghosting" })
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "clearfix" })
-                        ]),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "add" }, [
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn btn-danger my-cart-btn my-cart-b",
-                              attrs: {
-                                "data-id": "7",
-                                "data-name": "Popcorn",
-                                "data-summary": "summary 7",
-                                "data-price": "1.00",
-                                "data-quantity": "1",
-                                "data-image": "images/of6.png"
-                              }
-                            },
-                            [_vm._v("Add to Cart")]
-                          )
-                        ])
-                      ])
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "col-md-3 m-wthree" }, [
-                    _c("div", { staticClass: "col-m" }, [
-                      _c(
-                        "a",
-                        {
-                          staticClass: "offer-img",
-                          attrs: {
-                            href: "#",
-                            "data-toggle": "modal",
-                            "data-target": "#myModal8"
-                          }
-                        },
-                        [
-                          _c("img", {
-                            staticClass: "img-responsive",
-                            attrs: { src: "assets/images/of7.png", alt: "" }
-                          }),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "offer" }, [
-                            _c("p", [_c("span", [_vm._v("Offer")])])
-                          ])
-                        ]
-                      ),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "mid-1" }, [
-                        _c("div", { staticClass: "women" }, [
-                          _c("h6", [
-                            _c("a", { attrs: { href: "single.html" } }, [
-                              _vm._v("Nuts")
-                            ]),
-                            _vm._v("(250 g)")
-                          ])
-                        ]),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "mid-2" }, [
-                          _c("p", [
-                            _c("label", [_vm._v("$4.00")]),
-                            _c("em", { staticClass: "item_price" }, [
-                              _vm._v("$3.50")
-                            ])
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "block" }, [
-                            _c("div", { staticClass: "starbox small ghosting" })
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "clearfix" })
-                        ]),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "add" }, [
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn btn-danger my-cart-btn my-cart-b",
-                              attrs: {
-                                "data-id": "8",
-                                "data-name": "Nuts",
-                                "data-summary": "summary 8",
-                                "data-price": "3.50",
-                                "data-quantity": "1",
-                                "data-image": "images/of7.png"
-                              }
-                            },
-                            [_vm._v("Add to Cart")]
-                          )
-                        ])
-                      ])
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "clearfix" })
-                ])
-              ]
-            ),
-            _vm._v(" "),
-            _c(
-              "div",
-              { staticClass: "tab-pane  text-style", attrs: { id: "tab3" } },
-              [
-                _c("div", { staticClass: " con-w3l" }, [
-                  _c("div", { staticClass: "col-md-3 m-wthree" }, [
-                    _c("div", { staticClass: "col-m" }, [
-                      _c(
-                        "a",
-                        {
-                          staticClass: "offer-img",
-                          attrs: {
-                            href: "#",
-                            "data-toggle": "modal",
-                            "data-target": "#myModal9"
-                          }
-                        },
-                        [
-                          _c("img", {
-                            staticClass: "img-responsive",
-                            attrs: { src: "assets/images/of8.png", alt: "" }
-                          }),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "offer" }, [
-                            _c("p", [_c("span", [_vm._v("Offer")])])
-                          ])
-                        ]
-                      ),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "mid-1" }, [
-                        _c("div", { staticClass: "women" }, [
-                          _c("h6", [
-                            _c("a", { attrs: { href: "single.html" } }, [
-                              _vm._v("Banana")
-                            ]),
-                            _vm._v("(6 pcs)")
-                          ])
-                        ]),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "mid-2" }, [
-                          _c("p", [
-                            _c("label", [_vm._v("$2.00")]),
-                            _c("em", { staticClass: "item_price" }, [
-                              _vm._v("$1.50")
-                            ])
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "block" }, [
-                            _c("div", { staticClass: "starbox small ghosting" })
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "clearfix" })
-                        ]),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "add" }, [
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn btn-danger my-cart-btn my-cart-b",
-                              attrs: {
-                                "data-id": "9",
-                                "data-name": "Banana",
-                                "data-summary": "summary 9",
-                                "data-price": "1.50",
-                                "data-quantity": "1",
-                                "data-image": "images/of8.png"
-                              }
-                            },
-                            [_vm._v("Add to Cart")]
-                          )
-                        ])
-                      ])
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "col-md-3 m-wthree" }, [
-                    _c("div", { staticClass: "col-m" }, [
-                      _c(
-                        "a",
-                        {
-                          staticClass: "offer-img",
-                          attrs: {
-                            href: "#",
-                            "data-toggle": "modal",
-                            "data-target": "#myModal10"
-                          }
-                        },
-                        [
-                          _c("img", {
-                            staticClass: "img-responsive",
-                            attrs: { src: "assets/images/of9.png", alt: "" }
-                          }),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "offer" }, [
-                            _c("p", [_c("span", [_vm._v("Offer")])])
-                          ])
-                        ]
-                      ),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "mid-1" }, [
-                        _c("div", { staticClass: "women" }, [
-                          _c("h6", [
-                            _c("a", { attrs: { href: "single.html" } }, [
-                              _vm._v("Onion")
-                            ]),
-                            _vm._v("(1 kg)")
-                          ])
-                        ]),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "mid-2" }, [
-                          _c("p", [
-                            _c("label", [_vm._v("$1.00")]),
-                            _c("em", { staticClass: "item_price" }, [
-                              _vm._v("$0.70")
-                            ])
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "block" }, [
-                            _c("div", { staticClass: "starbox small ghosting" })
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "clearfix" })
-                        ]),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "add" }, [
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn btn-danger my-cart-btn my-cart-b",
-                              attrs: {
-                                "data-id": "10",
-                                "data-name": "Onion",
-                                "data-summary": "summary 10",
-                                "data-price": "0.70",
-                                "data-quantity": "1",
-                                "data-image": "images/of9.png"
-                              }
-                            },
-                            [_vm._v("Add to Cart")]
-                          )
-                        ])
-                      ])
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "col-md-3 m-wthree" }, [
-                    _c("div", { staticClass: "col-m" }, [
-                      _c(
-                        "a",
-                        {
-                          staticClass: "offer-img",
-                          attrs: {
-                            href: "#",
-                            "data-toggle": "modal",
-                            "data-target": "#myModal11"
-                          }
-                        },
-                        [
-                          _c("img", {
-                            staticClass: "img-responsive",
-                            attrs: { src: "assets/images/of10.png", alt: "" }
-                          }),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "offer" }, [
-                            _c("p", [_c("span", [_vm._v("Offer")])])
-                          ])
-                        ]
-                      ),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "mid-1" }, [
-                        _c("div", { staticClass: "women" }, [
-                          _c("h6", [
-                            _c("a", { attrs: { href: "single.html" } }, [
-                              _vm._v(" Bitter Gourd")
-                            ]),
-                            _vm._v("(1 kg)")
-                          ])
-                        ]),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "mid-2" }, [
-                          _c("p", [
-                            _c("label", [_vm._v("$2.00")]),
-                            _c("em", { staticClass: "item_price" }, [
-                              _vm._v("$1.00")
-                            ])
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "block" }, [
-                            _c("div", { staticClass: "starbox small ghosting" })
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "clearfix" })
-                        ]),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "add" }, [
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn btn-danger my-cart-btn my-cart-b",
-                              attrs: {
-                                "data-id": "11",
-                                "data-name": "Bitter Gourd",
-                                "data-summary": "summary 11",
-                                "data-price": "1.00",
-                                "data-quantity": "1",
-                                "data-image": "images/of10.png"
-                              }
-                            },
-                            [_vm._v("Add to Cart")]
-                          )
-                        ])
-                      ])
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "col-md-3 m-wthree" }, [
-                    _c("div", { staticClass: "col-m" }, [
-                      _c(
-                        "a",
-                        {
-                          staticClass: "offer-img",
-                          attrs: {
-                            href: "#",
-                            "data-toggle": "modal",
-                            "data-target": "#myModal12"
-                          }
-                        },
-                        [
-                          _c("img", {
-                            staticClass: "img-responsive",
-                            attrs: { src: "assets/images/of11.png", alt: "" }
-                          }),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "offer" }, [
-                            _c("p", [_c("span", [_vm._v("Offer")])])
-                          ])
-                        ]
-                      ),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "mid-1" }, [
-                        _c("div", { staticClass: "women" }, [
-                          _c("h6", [
-                            _c("a", { attrs: { href: "single.html" } }, [
-                              _vm._v("Apples")
-                            ]),
-                            _vm._v("(1 kg)")
-                          ])
-                        ]),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "mid-2" }, [
-                          _c("p", [
-                            _c("label", [_vm._v("$4.00")]),
-                            _c("em", { staticClass: "item_price" }, [
-                              _vm._v("$3.50")
-                            ])
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "block" }, [
-                            _c("div", { staticClass: "starbox small ghosting" })
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "clearfix" })
-                        ]),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "add" }, [
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn btn-danger my-cart-btn my-cart-b",
-                              attrs: {
-                                "data-id": "12",
-                                "data-name": "Apples",
-                                "data-summary": "summary 12",
-                                "data-price": "3.50",
-                                "data-quantity": "1",
-                                "data-image": "images/of11.png"
-                              }
-                            },
-                            [_vm._v("Add to Cart")]
-                          )
-                        ])
-                      ])
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "clearfix" })
-                ])
-              ]
-            ),
-            _vm._v(" "),
-            _c(
-              "div",
-              { staticClass: "tab-pane text-style", attrs: { id: "tab4" } },
-              [
-                _c("div", { staticClass: " con-w3l" }, [
-                  _c("div", { staticClass: "col-md-3 m-wthree" }, [
-                    _c("div", { staticClass: "col-m" }, [
-                      _c(
-                        "a",
-                        {
-                          staticClass: "offer-img",
-                          attrs: {
-                            href: "#",
-                            "data-toggle": "modal",
-                            "data-target": "#myModal13"
-                          }
-                        },
-                        [
-                          _c("img", {
-                            staticClass: "img-responsive",
-                            attrs: { src: "assets/images/of12.png", alt: "" }
-                          }),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "offer" }, [
-                            _c("p", [_c("span", [_vm._v("Offer")])])
-                          ])
-                        ]
-                      ),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "mid-1" }, [
-                        _c("div", { staticClass: "women" }, [
-                          _c("h6", [
-                            _c("a", { attrs: { href: "single.html" } }, [
-                              _vm._v("Honey")
-                            ]),
-                            _vm._v("(500 g)")
-                          ])
-                        ]),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "mid-2" }, [
-                          _c("p", [
-                            _c("label", [_vm._v("$7.00")]),
-                            _c("em", { staticClass: "item_price" }, [
-                              _vm._v("$6.00")
-                            ])
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "block" }, [
-                            _c("div", { staticClass: "starbox small ghosting" })
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "clearfix" })
-                        ]),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "add" }, [
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn btn-danger my-cart-btn my-cart-b",
-                              attrs: {
-                                "data-id": "13",
-                                "data-name": "Honey",
-                                "data-summary": "summary 13",
-                                "data-price": "6.00",
-                                "data-quantity": "1",
-                                "data-image": "images/of12.png"
-                              }
-                            },
-                            [_vm._v("Add to Cart")]
-                          )
-                        ])
-                      ])
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "col-md-3 m-wthree" }, [
-                    _c("div", { staticClass: "col-m " }, [
-                      _c(
-                        "a",
-                        {
-                          staticClass: "offer-img",
-                          attrs: {
-                            href: "#",
-                            "data-toggle": "modal",
-                            "data-target": "#myModal14"
-                          }
-                        },
-                        [
-                          _c("img", {
-                            staticClass: "img-responsive",
-                            attrs: { src: "assets/images/of13.png", alt: "" }
-                          }),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "offer" }, [
-                            _c("p", [_c("span", [_vm._v("Offer")])])
-                          ])
-                        ]
-                      ),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "mid-1" }, [
-                        _c("div", { staticClass: "women" }, [
-                          _c("h6", [
-                            _c("a", { attrs: { href: "single.html" } }, [
-                              _vm._v("Chocos")
-                            ]),
-                            _vm._v("(250 g)")
-                          ])
-                        ]),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "mid-2" }, [
-                          _c("p", [
-                            _c("label", [_vm._v("$5.00")]),
-                            _c("em", { staticClass: "item_price" }, [
-                              _vm._v("$4.50")
-                            ])
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "block" }, [
-                            _c("div", { staticClass: "starbox small ghosting" })
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "clearfix" })
-                        ]),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "add" }, [
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn btn-danger my-cart-btn my-cart-b",
-                              attrs: {
-                                "data-id": "14",
-                                "data-name": "Chocos",
-                                "data-summary": "summary 14",
-                                "data-price": "4.50",
-                                "data-quantity": "1",
-                                "data-image": "images/of13.png"
-                              }
-                            },
-                            [_vm._v("Add to Cart")]
-                          )
-                        ])
-                      ])
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "col-md-3 m-wthree" }, [
-                    _c("div", { staticClass: "col-m " }, [
-                      _c(
-                        "a",
-                        {
-                          staticClass: "offer-img",
-                          attrs: {
-                            href: "#",
-                            "data-toggle": "modal",
-                            "data-target": "#myModal15"
-                          }
-                        },
-                        [
-                          _c("img", {
-                            staticClass: "img-responsive",
-                            attrs: { src: "assets/images/of14.png", alt: "" }
-                          }),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "offer" }, [
-                            _c("p", [_c("span", [_vm._v("Offer")])])
-                          ])
-                        ]
-                      ),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "mid-1" }, [
-                        _c("div", { staticClass: "women" }, [
-                          _c("h6", [
-                            _c("a", { attrs: { href: "single.html" } }, [
-                              _vm._v("Oats")
-                            ]),
-                            _vm._v("(1 kg)")
-                          ])
-                        ]),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "mid-2" }, [
-                          _c("p", [
-                            _c("label", [_vm._v("$4.00")]),
-                            _c("em", { staticClass: "item_price" }, [
-                              _vm._v("$3.50")
-                            ])
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "block" }, [
-                            _c("div", { staticClass: "starbox small ghosting" })
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "clearfix" })
-                        ]),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "add" }, [
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn btn-danger my-cart-btn my-cart-b",
-                              attrs: {
-                                "data-id": "15",
-                                "data-name": "Oats",
-                                "data-summary": "summary 15",
-                                "data-price": "3.50",
-                                "data-quantity": "1",
-                                "data-image": "images/of14.png"
-                              }
-                            },
-                            [_vm._v("Add to Cart")]
-                          )
-                        ])
-                      ])
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "col-md-3 m-wthree" }, [
-                    _c("div", { staticClass: "col-m" }, [
-                      _c(
-                        "a",
-                        {
-                          staticClass: "offer-img",
-                          attrs: {
-                            href: "#",
-                            "data-toggle": "modal",
-                            "data-target": "#myModal16"
-                          }
-                        },
-                        [
-                          _c("img", {
-                            staticClass: "img-responsive",
-                            attrs: { src: "assets/images/of15.png", alt: "" }
-                          }),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "offer" }, [
-                            _c("p", [_c("span", [_vm._v("Offer")])])
-                          ])
-                        ]
-                      ),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "mid-1" }, [
-                        _c("div", { staticClass: "women" }, [
-                          _c("h6", [
-                            _c("a", { attrs: { href: "single.html" } }, [
-                              _vm._v("Bread")
-                            ]),
-                            _vm._v("(500 g)")
-                          ])
-                        ]),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "mid-2" }, [
-                          _c("p", [
-                            _c("label", [_vm._v("$1.00")]),
-                            _c("em", { staticClass: "item_price" }, [
-                              _vm._v("$0.80")
-                            ])
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "block" }, [
-                            _c("div", { staticClass: "starbox small ghosting" })
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "clearfix" })
-                        ]),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "add" }, [
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn btn-danger my-cart-btn my-cart-b",
-                              attrs: {
-                                "data-id": "16",
-                                "data-name": "Bread",
-                                "data-summary": "summary 16",
-                                "data-price": "0.80",
-                                "data-quantity": "1",
-                                "data-image": "images/of15.png"
-                              }
-                            },
-                            [_vm._v("Add to Cart")]
-                          )
-                        ])
-                      ])
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "clearfix" })
-                ])
-              ]
-            )
+          _c("li", {}, [
+            _c("a", { attrs: { href: "#tab2", "data-toggle": "tab" } }, [
+              _vm._v("Snacks")
+            ])
+          ]),
+          _vm._v(" "),
+          _c("li", {}, [
+            _c("a", { attrs: { href: "#tab3", "data-toggle": "tab" } }, [
+              _vm._v("Fruits & Vegetables")
+            ])
+          ]),
+          _vm._v(" "),
+          _c("li", {}, [
+            _c("a", { attrs: { href: "#tab4", "data-toggle": "tab" } }, [
+              _vm._v("Breakfast & Cereal")
+            ])
           ])
         ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: " tab-content tab-content-t " }, [
+        _c(
+          "div",
+          { staticClass: "tab-pane active text-style", attrs: { id: "tab1" } },
+          [
+            _c("div", { staticClass: " con-w3l" }, [
+              _c("div", { staticClass: "col-md-3 m-wthree" }, [
+                _c("div", { staticClass: "col-m" }, [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "offer-img",
+                      attrs: {
+                        href: "#",
+                        "data-toggle": "modal",
+                        "data-target": "#myModal1"
+                      }
+                    },
+                    [
+                      _c("img", {
+                        staticClass: "img-responsive",
+                        attrs: { src: "assets/images/of.png", alt: "" }
+                      }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "offer" }, [
+                        _c("p", [_c("span", [_vm._v("Offer")])])
+                      ])
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "mid-1" }, [
+                    _c("div", { staticClass: "women" }, [
+                      _c("h6", [
+                        _c("a", { attrs: { href: "single.html" } }, [
+                          _vm._v("Moong")
+                        ]),
+                        _vm._v("(1 kg)")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "mid-2" }, [
+                      _c("p", [
+                        _c("label", [_vm._v("$2.00")]),
+                        _c("em", { staticClass: "item_price" }, [
+                          _vm._v("$1.50")
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "block" }, [
+                        _c("div", { staticClass: "starbox small ghosting" })
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "clearfix" })
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "add" }, [
+                      _c(
+                        "button",
+                        {
+                          staticClass: "btn btn-danger my-cart-btn my-cart-b ",
+                          attrs: {
+                            "data-id": "1",
+                            "data-name": "Moong",
+                            "data-summary": "summary 1",
+                            "data-price": "1.50",
+                            "data-quantity": "1",
+                            "data-image": "images/of.png"
+                          }
+                        },
+                        [_vm._v("Add to Cart")]
+                      )
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "col-md-3 m-wthree" }, [
+                _c("div", { staticClass: "col-m" }, [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "offer-img",
+                      attrs: {
+                        href: "#",
+                        "data-toggle": "modal",
+                        "data-target": "#myModal2"
+                      }
+                    },
+                    [
+                      _c("img", {
+                        staticClass: "img-responsive",
+                        attrs: { src: "assets/images/of1.png", alt: "" }
+                      }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "offer" }, [
+                        _c("p", [_c("span", [_vm._v("Offer")])])
+                      ])
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "mid-1" }, [
+                    _c("div", { staticClass: "women" }, [
+                      _c("h6", [
+                        _c("a", { attrs: { href: "single.html" } }, [
+                          _vm._v("Sunflower Oil")
+                        ]),
+                        _vm._v("(5 kg)")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "mid-2" }, [
+                      _c("p", [
+                        _c("label", [_vm._v("$10.00")]),
+                        _c("em", { staticClass: "item_price" }, [
+                          _vm._v("$9.00")
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "block" }, [
+                        _c("div", { staticClass: "starbox small ghosting" })
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "clearfix" })
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "add" }, [
+                      _c(
+                        "button",
+                        {
+                          staticClass: "btn btn-danger my-cart-btn my-cart-b",
+                          attrs: {
+                            "data-id": "2",
+                            "data-name": "Sunflower Oil",
+                            "data-summary": "summary 2",
+                            "data-price": "9.00",
+                            "data-quantity": "1",
+                            "data-image": "images/of1.png"
+                          }
+                        },
+                        [_vm._v("Add to Cart")]
+                      )
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "col-md-3 m-wthree" }, [
+                _c("div", { staticClass: "col-m" }, [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "offer-img",
+                      attrs: {
+                        href: "#",
+                        "data-toggle": "modal",
+                        "data-target": "#myModal3"
+                      }
+                    },
+                    [
+                      _c("img", {
+                        staticClass: "img-responsive",
+                        attrs: { src: "assets/images/of2.png", alt: "" }
+                      }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "offer" }, [
+                        _c("p", [_c("span", [_vm._v("Offer")])])
+                      ])
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "mid-1" }, [
+                    _c("div", { staticClass: "women" }, [
+                      _c("h6", [
+                        _c("a", { attrs: { href: "single.html" } }, [
+                          _vm._v("Kabuli Chana")
+                        ]),
+                        _vm._v("(1 kg)")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "mid-2" }, [
+                      _c("p", [
+                        _c("label", [_vm._v("$3.00")]),
+                        _c("em", { staticClass: "item_price" }, [
+                          _vm._v("$2.00")
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "block" }, [
+                        _c("div", { staticClass: "starbox small ghosting" })
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "clearfix" })
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "add" }, [
+                      _c(
+                        "button",
+                        {
+                          staticClass: "btn btn-danger my-cart-btn my-cart-b",
+                          attrs: {
+                            "data-id": "3",
+                            "data-name": "Kabuli Chana",
+                            "data-summary": "summary 3",
+                            "data-price": "2.00",
+                            "data-quantity": "1",
+                            "data-image": "images/of2.png"
+                          }
+                        },
+                        [_vm._v("Add to Cart")]
+                      )
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "col-md-3 m-wthree" }, [
+                _c("div", { staticClass: "col-m" }, [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "offer-img",
+                      attrs: {
+                        href: "#",
+                        "data-toggle": "modal",
+                        "data-target": "#myModal4"
+                      }
+                    },
+                    [
+                      _c("img", {
+                        staticClass: "img-responsive",
+                        attrs: { src: "assets/images/of3.png", alt: "" }
+                      }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "offer" }, [
+                        _c("p", [_c("span", [_vm._v("Offer")])])
+                      ])
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "mid-1" }, [
+                    _c("div", { staticClass: "women" }, [
+                      _c("h6", [
+                        _c("a", { attrs: { href: "single.html" } }, [
+                          _vm._v("Soya Chunks")
+                        ]),
+                        _vm._v("(1 kg)")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "mid-2" }, [
+                      _c("p", [
+                        _c("label", [_vm._v("$4.00")]),
+                        _c("em", { staticClass: "item_price" }, [
+                          _vm._v("$3.50")
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "block" }, [
+                        _c("div", { staticClass: "starbox small ghosting" })
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "clearfix" })
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "add" }, [
+                      _c(
+                        "button",
+                        {
+                          staticClass: "btn btn-danger my-cart-btn my-cart-b",
+                          attrs: {
+                            "data-id": "4",
+                            "data-name": "Soya Chunks",
+                            "data-summary": "summary 4",
+                            "data-price": "3.50",
+                            "data-quantity": "1",
+                            "data-image": "images/of3.png"
+                          }
+                        },
+                        [_vm._v("Add to Cart")]
+                      )
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "clearfix" })
+            ])
+          ]
+        ),
+        _vm._v(" "),
+        _c(
+          "div",
+          { staticClass: "tab-pane  text-style", attrs: { id: "tab2" } },
+          [
+            _c("div", { staticClass: " con-w3l" }, [
+              _c("div", { staticClass: "col-md-3 m-wthree" }, [
+                _c("div", { staticClass: "col-m" }, [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "offer-img",
+                      attrs: {
+                        href: "#",
+                        "data-toggle": "modal",
+                        "data-target": "#myModal5"
+                      }
+                    },
+                    [
+                      _c("img", {
+                        staticClass: "img-responsive",
+                        attrs: { src: "assets/images/of4.png", alt: "" }
+                      }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "offer" }, [
+                        _c("p", [_c("span", [_vm._v("Offer")])])
+                      ])
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "mid-1" }, [
+                    _c("div", { staticClass: "women" }, [
+                      _c("h6", [
+                        _c("a", { attrs: { href: "single.html" } }, [
+                          _vm._v("Lays")
+                        ]),
+                        _vm._v("(100 g)")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "mid-2" }, [
+                      _c("p", [
+                        _c("label", [_vm._v("$1.00")]),
+                        _c("em", { staticClass: "item_price" }, [
+                          _vm._v("$0.70")
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "block" }, [
+                        _c("div", { staticClass: "starbox small ghosting" })
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "clearfix" })
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "add" }, [
+                      _c(
+                        "button",
+                        {
+                          staticClass: "btn btn-danger my-cart-btn my-cart-b",
+                          attrs: {
+                            "data-id": "5",
+                            "data-name": "Lays",
+                            "data-summary": "summary 5",
+                            "data-price": "0.70",
+                            "data-quantity": "1",
+                            "data-image": "images/of4.png"
+                          }
+                        },
+                        [_vm._v("Add to Cart")]
+                      )
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "col-md-3 m-wthree" }, [
+                _c("div", { staticClass: "col-m" }, [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "offer-img",
+                      attrs: {
+                        href: "#",
+                        "data-toggle": "modal",
+                        "data-target": "#myModal6"
+                      }
+                    },
+                    [
+                      _c("img", {
+                        staticClass: "img-responsive",
+                        attrs: { src: "assets/images/of5.png", alt: "" }
+                      }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "offer" }, [
+                        _c("p", [_c("span", [_vm._v("Offer")])])
+                      ])
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "mid-1" }, [
+                    _c("div", { staticClass: "women" }, [
+                      _c("h6", [
+                        _c("a", { attrs: { href: "single.html" } }, [
+                          _vm._v("Kurkure")
+                        ]),
+                        _vm._v("(100 g)")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "mid-2" }, [
+                      _c("p", [
+                        _c("label", [_vm._v("$1.00")]),
+                        _c("em", { staticClass: "item_price" }, [
+                          _vm._v("$0.70")
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "block" }, [
+                        _c("div", { staticClass: "starbox small ghosting" })
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "clearfix" })
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "add" }, [
+                      _c(
+                        "button",
+                        {
+                          staticClass: "btn btn-danger my-cart-btn my-cart-b",
+                          attrs: {
+                            "data-id": "6",
+                            "data-name": "Kurkure",
+                            "data-summary": "summary 6",
+                            "data-price": "0.70",
+                            "data-quantity": "1",
+                            "data-image": "images/of5.png"
+                          }
+                        },
+                        [_vm._v("Add to Cart")]
+                      )
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "col-md-3 m-wthree" }, [
+                _c("div", { staticClass: "col-m" }, [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "offer-img",
+                      attrs: {
+                        href: "#",
+                        "data-toggle": "modal",
+                        "data-target": "#myModal7"
+                      }
+                    },
+                    [
+                      _c("img", {
+                        staticClass: "img-responsive",
+                        attrs: { src: "assets/images/of6.png", alt: "" }
+                      }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "offer" }, [
+                        _c("p", [_c("span", [_vm._v("Offer")])])
+                      ])
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "mid-1" }, [
+                    _c("div", { staticClass: "women" }, [
+                      _c("h6", [
+                        _c("a", { attrs: { href: "single.html" } }, [
+                          _vm._v("Popcorn")
+                        ]),
+                        _vm._v("(250 g)")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "mid-2" }, [
+                      _c("p", [
+                        _c("label", [_vm._v("$2.00")]),
+                        _c("em", { staticClass: "item_price" }, [
+                          _vm._v("$1.00")
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "block" }, [
+                        _c("div", { staticClass: "starbox small ghosting" })
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "clearfix" })
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "add" }, [
+                      _c(
+                        "button",
+                        {
+                          staticClass: "btn btn-danger my-cart-btn my-cart-b",
+                          attrs: {
+                            "data-id": "7",
+                            "data-name": "Popcorn",
+                            "data-summary": "summary 7",
+                            "data-price": "1.00",
+                            "data-quantity": "1",
+                            "data-image": "images/of6.png"
+                          }
+                        },
+                        [_vm._v("Add to Cart")]
+                      )
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "col-md-3 m-wthree" }, [
+                _c("div", { staticClass: "col-m" }, [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "offer-img",
+                      attrs: {
+                        href: "#",
+                        "data-toggle": "modal",
+                        "data-target": "#myModal8"
+                      }
+                    },
+                    [
+                      _c("img", {
+                        staticClass: "img-responsive",
+                        attrs: { src: "assets/images/of7.png", alt: "" }
+                      }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "offer" }, [
+                        _c("p", [_c("span", [_vm._v("Offer")])])
+                      ])
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "mid-1" }, [
+                    _c("div", { staticClass: "women" }, [
+                      _c("h6", [
+                        _c("a", { attrs: { href: "single.html" } }, [
+                          _vm._v("Nuts")
+                        ]),
+                        _vm._v("(250 g)")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "mid-2" }, [
+                      _c("p", [
+                        _c("label", [_vm._v("$4.00")]),
+                        _c("em", { staticClass: "item_price" }, [
+                          _vm._v("$3.50")
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "block" }, [
+                        _c("div", { staticClass: "starbox small ghosting" })
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "clearfix" })
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "add" }, [
+                      _c(
+                        "button",
+                        {
+                          staticClass: "btn btn-danger my-cart-btn my-cart-b",
+                          attrs: {
+                            "data-id": "8",
+                            "data-name": "Nuts",
+                            "data-summary": "summary 8",
+                            "data-price": "3.50",
+                            "data-quantity": "1",
+                            "data-image": "images/of7.png"
+                          }
+                        },
+                        [_vm._v("Add to Cart")]
+                      )
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "clearfix" })
+            ])
+          ]
+        ),
+        _vm._v(" "),
+        _c(
+          "div",
+          { staticClass: "tab-pane  text-style", attrs: { id: "tab3" } },
+          [
+            _c("div", { staticClass: " con-w3l" }, [
+              _c("div", { staticClass: "col-md-3 m-wthree" }, [
+                _c("div", { staticClass: "col-m" }, [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "offer-img",
+                      attrs: {
+                        href: "#",
+                        "data-toggle": "modal",
+                        "data-target": "#myModal9"
+                      }
+                    },
+                    [
+                      _c("img", {
+                        staticClass: "img-responsive",
+                        attrs: { src: "assets/images/of8.png", alt: "" }
+                      }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "offer" }, [
+                        _c("p", [_c("span", [_vm._v("Offer")])])
+                      ])
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "mid-1" }, [
+                    _c("div", { staticClass: "women" }, [
+                      _c("h6", [
+                        _c("a", { attrs: { href: "single.html" } }, [
+                          _vm._v("Banana")
+                        ]),
+                        _vm._v("(6 pcs)")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "mid-2" }, [
+                      _c("p", [
+                        _c("label", [_vm._v("$2.00")]),
+                        _c("em", { staticClass: "item_price" }, [
+                          _vm._v("$1.50")
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "block" }, [
+                        _c("div", { staticClass: "starbox small ghosting" })
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "clearfix" })
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "add" }, [
+                      _c(
+                        "button",
+                        {
+                          staticClass: "btn btn-danger my-cart-btn my-cart-b",
+                          attrs: {
+                            "data-id": "9",
+                            "data-name": "Banana",
+                            "data-summary": "summary 9",
+                            "data-price": "1.50",
+                            "data-quantity": "1",
+                            "data-image": "images/of8.png"
+                          }
+                        },
+                        [_vm._v("Add to Cart")]
+                      )
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "col-md-3 m-wthree" }, [
+                _c("div", { staticClass: "col-m" }, [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "offer-img",
+                      attrs: {
+                        href: "#",
+                        "data-toggle": "modal",
+                        "data-target": "#myModal10"
+                      }
+                    },
+                    [
+                      _c("img", {
+                        staticClass: "img-responsive",
+                        attrs: { src: "assets/images/of9.png", alt: "" }
+                      }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "offer" }, [
+                        _c("p", [_c("span", [_vm._v("Offer")])])
+                      ])
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "mid-1" }, [
+                    _c("div", { staticClass: "women" }, [
+                      _c("h6", [
+                        _c("a", { attrs: { href: "single.html" } }, [
+                          _vm._v("Onion")
+                        ]),
+                        _vm._v("(1 kg)")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "mid-2" }, [
+                      _c("p", [
+                        _c("label", [_vm._v("$1.00")]),
+                        _c("em", { staticClass: "item_price" }, [
+                          _vm._v("$0.70")
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "block" }, [
+                        _c("div", { staticClass: "starbox small ghosting" })
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "clearfix" })
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "add" }, [
+                      _c(
+                        "button",
+                        {
+                          staticClass: "btn btn-danger my-cart-btn my-cart-b",
+                          attrs: {
+                            "data-id": "10",
+                            "data-name": "Onion",
+                            "data-summary": "summary 10",
+                            "data-price": "0.70",
+                            "data-quantity": "1",
+                            "data-image": "images/of9.png"
+                          }
+                        },
+                        [_vm._v("Add to Cart")]
+                      )
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "col-md-3 m-wthree" }, [
+                _c("div", { staticClass: "col-m" }, [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "offer-img",
+                      attrs: {
+                        href: "#",
+                        "data-toggle": "modal",
+                        "data-target": "#myModal11"
+                      }
+                    },
+                    [
+                      _c("img", {
+                        staticClass: "img-responsive",
+                        attrs: { src: "assets/images/of10.png", alt: "" }
+                      }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "offer" }, [
+                        _c("p", [_c("span", [_vm._v("Offer")])])
+                      ])
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "mid-1" }, [
+                    _c("div", { staticClass: "women" }, [
+                      _c("h6", [
+                        _c("a", { attrs: { href: "single.html" } }, [
+                          _vm._v(" Bitter Gourd")
+                        ]),
+                        _vm._v("(1 kg)")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "mid-2" }, [
+                      _c("p", [
+                        _c("label", [_vm._v("$2.00")]),
+                        _c("em", { staticClass: "item_price" }, [
+                          _vm._v("$1.00")
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "block" }, [
+                        _c("div", { staticClass: "starbox small ghosting" })
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "clearfix" })
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "add" }, [
+                      _c(
+                        "button",
+                        {
+                          staticClass: "btn btn-danger my-cart-btn my-cart-b",
+                          attrs: {
+                            "data-id": "11",
+                            "data-name": "Bitter Gourd",
+                            "data-summary": "summary 11",
+                            "data-price": "1.00",
+                            "data-quantity": "1",
+                            "data-image": "images/of10.png"
+                          }
+                        },
+                        [_vm._v("Add to Cart")]
+                      )
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "col-md-3 m-wthree" }, [
+                _c("div", { staticClass: "col-m" }, [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "offer-img",
+                      attrs: {
+                        href: "#",
+                        "data-toggle": "modal",
+                        "data-target": "#myModal12"
+                      }
+                    },
+                    [
+                      _c("img", {
+                        staticClass: "img-responsive",
+                        attrs: { src: "assets/images/of11.png", alt: "" }
+                      }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "offer" }, [
+                        _c("p", [_c("span", [_vm._v("Offer")])])
+                      ])
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "mid-1" }, [
+                    _c("div", { staticClass: "women" }, [
+                      _c("h6", [
+                        _c("a", { attrs: { href: "single.html" } }, [
+                          _vm._v("Apples")
+                        ]),
+                        _vm._v("(1 kg)")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "mid-2" }, [
+                      _c("p", [
+                        _c("label", [_vm._v("$4.00")]),
+                        _c("em", { staticClass: "item_price" }, [
+                          _vm._v("$3.50")
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "block" }, [
+                        _c("div", { staticClass: "starbox small ghosting" })
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "clearfix" })
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "add" }, [
+                      _c(
+                        "button",
+                        {
+                          staticClass: "btn btn-danger my-cart-btn my-cart-b",
+                          attrs: {
+                            "data-id": "12",
+                            "data-name": "Apples",
+                            "data-summary": "summary 12",
+                            "data-price": "3.50",
+                            "data-quantity": "1",
+                            "data-image": "images/of11.png"
+                          }
+                        },
+                        [_vm._v("Add to Cart")]
+                      )
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "clearfix" })
+            ])
+          ]
+        ),
+        _vm._v(" "),
+        _c(
+          "div",
+          { staticClass: "tab-pane text-style", attrs: { id: "tab4" } },
+          [
+            _c("div", { staticClass: " con-w3l" }, [
+              _c("div", { staticClass: "col-md-3 m-wthree" }, [
+                _c("div", { staticClass: "col-m" }, [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "offer-img",
+                      attrs: {
+                        href: "#",
+                        "data-toggle": "modal",
+                        "data-target": "#myModal13"
+                      }
+                    },
+                    [
+                      _c("img", {
+                        staticClass: "img-responsive",
+                        attrs: { src: "assets/images/of12.png", alt: "" }
+                      }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "offer" }, [
+                        _c("p", [_c("span", [_vm._v("Offer")])])
+                      ])
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "mid-1" }, [
+                    _c("div", { staticClass: "women" }, [
+                      _c("h6", [
+                        _c("a", { attrs: { href: "single.html" } }, [
+                          _vm._v("Honey")
+                        ]),
+                        _vm._v("(500 g)")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "mid-2" }, [
+                      _c("p", [
+                        _c("label", [_vm._v("$7.00")]),
+                        _c("em", { staticClass: "item_price" }, [
+                          _vm._v("$6.00")
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "block" }, [
+                        _c("div", { staticClass: "starbox small ghosting" })
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "clearfix" })
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "add" }, [
+                      _c(
+                        "button",
+                        {
+                          staticClass: "btn btn-danger my-cart-btn my-cart-b",
+                          attrs: {
+                            "data-id": "13",
+                            "data-name": "Honey",
+                            "data-summary": "summary 13",
+                            "data-price": "6.00",
+                            "data-quantity": "1",
+                            "data-image": "images/of12.png"
+                          }
+                        },
+                        [_vm._v("Add to Cart")]
+                      )
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "col-md-3 m-wthree" }, [
+                _c("div", { staticClass: "col-m " }, [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "offer-img",
+                      attrs: {
+                        href: "#",
+                        "data-toggle": "modal",
+                        "data-target": "#myModal14"
+                      }
+                    },
+                    [
+                      _c("img", {
+                        staticClass: "img-responsive",
+                        attrs: { src: "assets/images/of13.png", alt: "" }
+                      }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "offer" }, [
+                        _c("p", [_c("span", [_vm._v("Offer")])])
+                      ])
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "mid-1" }, [
+                    _c("div", { staticClass: "women" }, [
+                      _c("h6", [
+                        _c("a", { attrs: { href: "single.html" } }, [
+                          _vm._v("Chocos")
+                        ]),
+                        _vm._v("(250 g)")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "mid-2" }, [
+                      _c("p", [
+                        _c("label", [_vm._v("$5.00")]),
+                        _c("em", { staticClass: "item_price" }, [
+                          _vm._v("$4.50")
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "block" }, [
+                        _c("div", { staticClass: "starbox small ghosting" })
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "clearfix" })
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "add" }, [
+                      _c(
+                        "button",
+                        {
+                          staticClass: "btn btn-danger my-cart-btn my-cart-b",
+                          attrs: {
+                            "data-id": "14",
+                            "data-name": "Chocos",
+                            "data-summary": "summary 14",
+                            "data-price": "4.50",
+                            "data-quantity": "1",
+                            "data-image": "images/of13.png"
+                          }
+                        },
+                        [_vm._v("Add to Cart")]
+                      )
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "col-md-3 m-wthree" }, [
+                _c("div", { staticClass: "col-m " }, [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "offer-img",
+                      attrs: {
+                        href: "#",
+                        "data-toggle": "modal",
+                        "data-target": "#myModal15"
+                      }
+                    },
+                    [
+                      _c("img", {
+                        staticClass: "img-responsive",
+                        attrs: { src: "assets/images/of14.png", alt: "" }
+                      }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "offer" }, [
+                        _c("p", [_c("span", [_vm._v("Offer")])])
+                      ])
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "mid-1" }, [
+                    _c("div", { staticClass: "women" }, [
+                      _c("h6", [
+                        _c("a", { attrs: { href: "single.html" } }, [
+                          _vm._v("Oats")
+                        ]),
+                        _vm._v("(1 kg)")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "mid-2" }, [
+                      _c("p", [
+                        _c("label", [_vm._v("$4.00")]),
+                        _c("em", { staticClass: "item_price" }, [
+                          _vm._v("$3.50")
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "block" }, [
+                        _c("div", { staticClass: "starbox small ghosting" })
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "clearfix" })
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "add" }, [
+                      _c(
+                        "button",
+                        {
+                          staticClass: "btn btn-danger my-cart-btn my-cart-b",
+                          attrs: {
+                            "data-id": "15",
+                            "data-name": "Oats",
+                            "data-summary": "summary 15",
+                            "data-price": "3.50",
+                            "data-quantity": "1",
+                            "data-image": "images/of14.png"
+                          }
+                        },
+                        [_vm._v("Add to Cart")]
+                      )
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "col-md-3 m-wthree" }, [
+                _c("div", { staticClass: "col-m" }, [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "offer-img",
+                      attrs: {
+                        href: "#",
+                        "data-toggle": "modal",
+                        "data-target": "#myModal16"
+                      }
+                    },
+                    [
+                      _c("img", {
+                        staticClass: "img-responsive",
+                        attrs: { src: "assets/images/of15.png", alt: "" }
+                      }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "offer" }, [
+                        _c("p", [_c("span", [_vm._v("Offer")])])
+                      ])
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "mid-1" }, [
+                    _c("div", { staticClass: "women" }, [
+                      _c("h6", [
+                        _c("a", { attrs: { href: "single.html" } }, [
+                          _vm._v("Bread")
+                        ]),
+                        _vm._v("(500 g)")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "mid-2" }, [
+                      _c("p", [
+                        _c("label", [_vm._v("$1.00")]),
+                        _c("em", { staticClass: "item_price" }, [
+                          _vm._v("$0.80")
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "block" }, [
+                        _c("div", { staticClass: "starbox small ghosting" })
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "clearfix" })
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "add" }, [
+                      _c(
+                        "button",
+                        {
+                          staticClass: "btn btn-danger my-cart-btn my-cart-b",
+                          attrs: {
+                            "data-id": "16",
+                            "data-name": "Bread",
+                            "data-summary": "summary 16",
+                            "data-price": "0.80",
+                            "data-quantity": "1",
+                            "data-image": "images/of15.png"
+                          }
+                        },
+                        [_vm._v("Add to Cart")]
+                      )
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "clearfix" })
+            ])
+          ]
+        )
       ])
     ])
   }
@@ -23860,7 +24677,7 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", { staticClass: "banner-top" }, [
+  return _c("div", { staticClass: "banner-top bounceInRight animated" }, [
     _c("div", { staticClass: "container" }, [
       _c("h3", [_vm._v(_vm._s(_vm.name))]),
       _vm._v(" "),
@@ -23887,6 +24704,47 @@ render._withStripped = true
 
 /***/ }),
 
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/ui/header.vue?vue&type=template&id=189426a6&":
+/*!************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/ui/header.vue?vue&type=template&id=189426a6& ***!
+  \************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", { staticClass: "spec bounceIn animated" }, [
+    _c("h3", [_vm._v(_vm._s(_vm.name))]),
+    _vm._v(" "),
+    _vm._m(0)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "ser-t" }, [
+      _c("b"),
+      _vm._v(" "),
+      _c("span", [_c("i")]),
+      _vm._v(" "),
+      _c("b", { staticClass: "line" })
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
 /***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/pages/contact.vue?vue&type=template&id=c886f672&":
 /*!*****************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/pages/contact.vue?vue&type=template&id=c886f672& ***!
@@ -23907,7 +24765,18 @@ var render = function() {
     [
       _c("breadcrumb-data", { attrs: { name: _vm.value } }),
       _vm._v(" "),
-      _vm._m(0)
+      _c("div", { staticClass: "contact" }, [
+        _c(
+          "div",
+          { staticClass: "container" },
+          [
+            _c("headerComponent", { attrs: { name: _vm.value } }),
+            _vm._v(" "),
+            _vm._m(0)
+          ],
+          1
+        )
+      ])
     ],
     1
   )
@@ -23917,138 +24786,118 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "contact" }, [
-      _c("div", { staticClass: "container" }, [
-        _c("div", { staticClass: "spec " }, [
-          _c("h3", [_vm._v("Contact")]),
+    return _c("div", { staticClass: " contact-w3" }, [
+      _c("div", { staticClass: "col-md-5 contact-right" }, [
+        _c("img", {
+          staticClass: "img-responsive",
+          attrs: { src: "assets/images/cac.jpg", alt: "" }
+        }),
+        _vm._v(" "),
+        _c("iframe", {
+          staticStyle: { border: "0" },
+          attrs: {
+            src:
+              "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d2482.432383990807!2d0.028213999961443994!3d51.52362882484525!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1423469959819"
+          }
+        })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-7 contact-left" }, [
+        _c("h4", [_vm._v("Contact Information")]),
+        _vm._v(" "),
+        _c("p", [
+          _vm._v(
+            " Nemo enim ipsam voluptatem quia voluptas sit aspernatur \n\t\t\t\t\t\taut odit aut fugit, sed quia consequuntur magni dolores eos\n\t\t\t\t\t\tqui ratione voluptatem sequi nesciunt. Neque porro quisquam \n\t\t\t\t\t\test, qui dolorem ipsum quia dolor sit amet, consectetur"
+          )
+        ]),
+        _vm._v(" "),
+        _c("ul", { staticClass: "contact-list" }, [
+          _c("li", [
+            _c("i", {
+              staticClass: "fa fa-map-marker",
+              attrs: { "aria-hidden": "true" }
+            }),
+            _vm._v(" 756 Global Place, New York.")
+          ]),
           _vm._v(" "),
-          _c("div", { staticClass: "ser-t" }, [
-            _c("b"),
-            _vm._v(" "),
-            _c("span", [_c("i")]),
-            _vm._v(" "),
-            _c("b", { staticClass: "line" })
+          _c("li", [
+            _c("i", {
+              staticClass: "fa fa-envelope",
+              attrs: { "aria-hidden": "true" }
+            }),
+            _c("a", { attrs: { href: "mailto:example@mail.com" } }, [
+              _vm._v("mail@example.com")
+            ])
+          ]),
+          _vm._v(" "),
+          _c("li", [
+            _c("i", {
+              staticClass: "fa fa-phone",
+              attrs: { "aria-hidden": "true" }
+            }),
+            _vm._v("+123 2222 222")
           ])
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: " contact-w3" }, [
-          _c("div", { staticClass: "col-md-5 contact-right" }, [
-            _c("img", {
-              staticClass: "img-responsive",
-              attrs: { src: "assets/images/cac.jpg", alt: "" }
-            }),
-            _vm._v(" "),
-            _c("iframe", {
-              staticStyle: { border: "0" },
-              attrs: {
-                src:
-                  "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d2482.432383990807!2d0.028213999961443994!3d51.52362882484525!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1423469959819"
-              }
-            })
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "col-md-7 contact-left" }, [
-            _c("h4", [_vm._v("Contact Information")]),
-            _vm._v(" "),
-            _c("p", [
-              _vm._v(
-                " Nemo enim ipsam voluptatem quia voluptas sit aspernatur \n\t\t\t\t\t\taut odit aut fugit, sed quia consequuntur magni dolores eos\n\t\t\t\t\t\tqui ratione voluptatem sequi nesciunt. Neque porro quisquam \n\t\t\t\t\t\test, qui dolorem ipsum quia dolor sit amet, consectetur"
-              )
-            ]),
-            _vm._v(" "),
-            _c("ul", { staticClass: "contact-list" }, [
-              _c("li", [
-                _c("i", {
-                  staticClass: "fa fa-map-marker",
-                  attrs: { "aria-hidden": "true" }
-                }),
-                _vm._v(" 756 Global Place, New York.")
-              ]),
-              _vm._v(" "),
+        _c("div", { attrs: { id: "container" } }, [
+          _c("div", { attrs: { id: "parentHorizontalTab" } }, [
+            _c("ul", { staticClass: "resp-tabs-list hor_1" }, [
               _c("li", [
                 _c("i", {
                   staticClass: "fa fa-envelope",
                   attrs: { "aria-hidden": "true" }
-                }),
-                _c("a", { attrs: { href: "mailto:example@mail.com" } }, [
-                  _vm._v("mail@example.com")
-                ])
-              ]),
-              _vm._v(" "),
-              _c("li", [
-                _c("i", {
-                  staticClass: "fa fa-phone",
-                  attrs: { "aria-hidden": "true" }
-                }),
-                _vm._v("+123 2222 222")
+                })
               ])
             ]),
             _vm._v(" "),
-            _c("div", { attrs: { id: "container" } }, [
-              _c("div", { attrs: { id: "parentHorizontalTab" } }, [
-                _c("ul", { staticClass: "resp-tabs-list hor_1" }, [
-                  _c("li", [
-                    _c("i", {
-                      staticClass: "fa fa-envelope",
-                      attrs: { "aria-hidden": "true" }
-                    })
-                  ])
-                ]),
-                _vm._v(" "),
-                _c("div", { staticClass: "resp-tabs-container hor_1" }, [
-                  _c("div", [
-                    _c("form", { attrs: { action: "#", method: "post" } }, [
-                      _c("input", {
-                        attrs: {
-                          type: "text",
-                          value: "Name",
-                          name: "Name",
-                          onfocus: "this.value = '';",
-                          onblur:
-                            "if (this.value == '') {this.value = 'Name';}",
-                          required: ""
-                        }
-                      }),
-                      _vm._v(" "),
-                      _c("input", {
-                        attrs: {
-                          type: "email",
-                          value: "Email",
-                          name: "Email",
-                          onfocus: "this.value = '';",
-                          onblur:
-                            "if (this.value == '') {this.value = 'Email';}",
-                          required: ""
-                        }
-                      }),
-                      _vm._v(" "),
-                      _c(
-                        "textarea",
-                        {
-                          attrs: {
-                            name: "Message...",
-                            onfocus: "this.value = '';",
-                            onblur:
-                              "if (this.value == '') {this.value = 'Message...';}",
-                            required: ""
-                          }
-                        },
-                        [_vm._v("Message...")]
-                      ),
-                      _vm._v(" "),
-                      _c("input", {
-                        attrs: { type: "submit", value: "Submit" }
-                      })
-                    ])
-                  ])
+            _c("div", { staticClass: "resp-tabs-container hor_1" }, [
+              _c("div", [
+                _c("form", { attrs: { action: "#", method: "post" } }, [
+                  _c("input", {
+                    attrs: {
+                      type: "text",
+                      value: "Name",
+                      name: "Name",
+                      onfocus: "this.value = '';",
+                      onblur: "if (this.value == '') {this.value = 'Name';}",
+                      required: ""
+                    }
+                  }),
+                  _vm._v(" "),
+                  _c("input", {
+                    attrs: {
+                      type: "email",
+                      value: "Email",
+                      name: "Email",
+                      onfocus: "this.value = '';",
+                      onblur: "if (this.value == '') {this.value = 'Email';}",
+                      required: ""
+                    }
+                  }),
+                  _vm._v(" "),
+                  _c(
+                    "textarea",
+                    {
+                      attrs: {
+                        name: "Message...",
+                        onfocus: "this.value = '';",
+                        onblur:
+                          "if (this.value == '') {this.value = 'Message...';}",
+                        required: ""
+                      }
+                    },
+                    [_vm._v("Message...")]
+                  ),
+                  _vm._v(" "),
+                  _c("input", { attrs: { type: "submit", value: "Submit" } })
                 ])
               ])
             ])
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "clearfix" })
+          ])
         ])
-      ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "clearfix" })
     ])
   }
 ]
@@ -24078,7 +24927,18 @@ var render = function() {
     [
       _c("breadcrumb-data", { attrs: { name: _vm.value } }),
       _vm._v(" "),
-      _vm._m(0)
+      _c("div", { staticClass: "faq-w3 main-grid-border" }, [
+        _c(
+          "div",
+          { staticClass: "container" },
+          [
+            _c("headerComponent", { attrs: { name: _vm.value } }),
+            _vm._v(" "),
+            _vm._m(0)
+          ],
+          1
+        )
+      ])
     ],
     1
   )
@@ -24088,463 +24948,451 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "faq-w3 main-grid-border" }, [
-      _c("div", { staticClass: "container" }, [
-        _c("div", { staticClass: "spec " }, [
-          _c("h3", [_vm._v("Faqs")]),
+    return _c(
+      "div",
+      { staticClass: "panel-group", attrs: { id: "accordion" } },
+      [
+        _c("div", { staticClass: "panel panel-default" }, [
+          _c("div", { staticClass: "panel-heading" }, [
+            _c(
+              "h4",
+              {
+                staticClass: "panel-title",
+                attrs: {
+                  "data-toggle": "collapse",
+                  "data-target": "#collapseOne"
+                }
+              },
+              [
+                _c("span", [_vm._v("1.")]),
+                _vm._v(
+                  " It is a long established fact that a reader will be distracted ?\n                            "
+                )
+              ]
+            )
+          ]),
           _vm._v(" "),
-          _c("div", { staticClass: "ser-t" }, [
-            _c("b"),
-            _vm._v(" "),
-            _c("span", [_c("i")]),
-            _vm._v(" "),
-            _c("b", { staticClass: "line" })
-          ])
+          _c(
+            "div",
+            {
+              staticClass: "panel-collapse collapse",
+              attrs: { id: "collapseOne" }
+            },
+            [
+              _c("div", { staticClass: "panel-body" }, [
+                _c("p", [
+                  _vm._v(
+                    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. ."
+                  )
+                ]),
+                _vm._v(" "),
+                _c("p", [
+                  _vm._v(
+                    "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage."
+                  )
+                ])
+              ])
+            ]
+          )
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "panel-group", attrs: { id: "accordion" } }, [
-          _c("div", { staticClass: "panel panel-default" }, [
-            _c("div", { staticClass: "panel-heading" }, [
-              _c(
-                "h4",
-                {
-                  staticClass: "panel-title",
-                  attrs: {
-                    "data-toggle": "collapse",
-                    "data-target": "#collapseOne"
-                  }
-                },
-                [
-                  _c("span", [_vm._v("1.")]),
-                  _vm._v(
-                    " It is a long established fact that a reader will be distracted ?\n                            "
-                  )
-                ]
-              )
-            ]),
-            _vm._v(" "),
+        _c("div", { staticClass: "panel panel-default" }, [
+          _c("div", { staticClass: "panel-heading" }, [
             _c(
-              "div",
+              "h4",
               {
-                staticClass: "panel-collapse collapse",
-                attrs: { id: "collapseOne" }
+                staticClass: "panel-title",
+                attrs: {
+                  "data-toggle": "collapse",
+                  "data-target": "#collapseTwo"
+                }
               },
               [
-                _c("div", { staticClass: "panel-body" }, [
-                  _c("p", [
-                    _vm._v(
-                      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. ."
-                    )
-                  ]),
-                  _vm._v(" "),
-                  _c("p", [
-                    _vm._v(
-                      "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage."
-                    )
-                  ])
-                ])
+                _c("span", [_vm._v("2.")]),
+                _vm._v(
+                  " Lorem Ipsum is simply dummy text of the printing ?\n                            "
+                )
               ]
             )
           ]),
           _vm._v(" "),
-          _c("div", { staticClass: "panel panel-default" }, [
-            _c("div", { staticClass: "panel-heading" }, [
-              _c(
-                "h4",
-                {
-                  staticClass: "panel-title",
-                  attrs: {
-                    "data-toggle": "collapse",
-                    "data-target": "#collapseTwo"
-                  }
-                },
-                [
-                  _c("span", [_vm._v("2.")]),
+          _c(
+            "div",
+            {
+              staticClass: "panel-collapse collapse",
+              attrs: { id: "collapseTwo" }
+            },
+            [
+              _c("div", { staticClass: "panel-body" }, [
+                _c("p", [
                   _vm._v(
-                    " Lorem Ipsum is simply dummy text of the printing ?\n                            "
+                    "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage."
                   )
-                ]
-              )
-            ]),
-            _vm._v(" "),
+                ]),
+                _vm._v(" "),
+                _c("p", [
+                  _vm._v(
+                    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+                  )
+                ]),
+                _vm._v(" "),
+                _c("p", [
+                  _vm._v(
+                    "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing. "
+                  )
+                ])
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "panel panel-default" }, [
+          _c("div", { staticClass: "panel-heading" }, [
             _c(
-              "div",
+              "h4",
               {
-                staticClass: "panel-collapse collapse",
-                attrs: { id: "collapseTwo" }
+                staticClass: "panel-title",
+                attrs: {
+                  "data-toggle": "collapse",
+                  "data-target": "#collapseThree"
+                }
               },
               [
-                _c("div", { staticClass: "panel-body" }, [
-                  _c("p", [
-                    _vm._v(
-                      "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage."
-                    )
-                  ]),
-                  _vm._v(" "),
-                  _c("p", [
-                    _vm._v(
-                      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
-                    )
-                  ]),
-                  _vm._v(" "),
-                  _c("p", [
-                    _vm._v(
-                      "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing. "
-                    )
-                  ])
-                ])
+                _c("span", [_vm._v("3.")]),
+                _vm._v(
+                  " Sed ut perspiciatis unde omnis iste natus error sit ?\n                            "
+                )
               ]
             )
           ]),
           _vm._v(" "),
-          _c("div", { staticClass: "panel panel-default" }, [
-            _c("div", { staticClass: "panel-heading" }, [
-              _c(
-                "h4",
-                {
-                  staticClass: "panel-title",
-                  attrs: {
-                    "data-toggle": "collapse",
-                    "data-target": "#collapseThree"
-                  }
-                },
-                [
-                  _c("span", [_vm._v("3.")]),
+          _c(
+            "div",
+            {
+              staticClass: "panel-collapse collapse",
+              attrs: { id: "collapseThree" }
+            },
+            [
+              _c("div", { staticClass: "panel-body" }, [
+                _c("p", [
                   _vm._v(
-                    " Sed ut perspiciatis unde omnis iste natus error sit ?\n                            "
+                    'Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.'
                   )
-                ]
-              )
-            ]),
-            _vm._v(" "),
+                ])
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "panel panel-default" }, [
+          _c("div", { staticClass: "panel-heading" }, [
             _c(
-              "div",
+              "h4",
               {
-                staticClass: "panel-collapse collapse",
-                attrs: { id: "collapseThree" }
+                staticClass: "panel-title",
+                attrs: {
+                  "data-toggle": "collapse",
+                  "data-target": "#collapseFour"
+                }
               },
               [
-                _c("div", { staticClass: "panel-body" }, [
-                  _c("p", [
-                    _vm._v(
-                      'Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.'
-                    )
-                  ])
-                ])
+                _c("span", [_vm._v("4.")]),
+                _vm._v(
+                  " At vero eos et accusamus et iusto odio dignissimos ?\n                            "
+                )
               ]
             )
           ]),
           _vm._v(" "),
-          _c("div", { staticClass: "panel panel-default" }, [
-            _c("div", { staticClass: "panel-heading" }, [
-              _c(
-                "h4",
-                {
-                  staticClass: "panel-title",
-                  attrs: {
-                    "data-toggle": "collapse",
-                    "data-target": "#collapseFour"
-                  }
-                },
-                [
-                  _c("span", [_vm._v("4.")]),
+          _c(
+            "div",
+            {
+              staticClass: "panel-collapse collapse",
+              attrs: { id: "collapseFour" }
+            },
+            [
+              _c("div", { staticClass: "panel-body" }, [
+                _c("p", [
                   _vm._v(
-                    " At vero eos et accusamus et iusto odio dignissimos ?\n                            "
+                    "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. "
                   )
-                ]
-              )
-            ]),
-            _vm._v(" "),
+                ]),
+                _vm._v(" "),
+                _c("p", [
+                  _vm._v(
+                    "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. "
+                  )
+                ]),
+                _vm._v(" "),
+                _c("p", [
+                  _vm._v(
+                    "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur."
+                  )
+                ])
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "panel panel-default" }, [
+          _c("div", { staticClass: "panel-heading" }, [
             _c(
-              "div",
+              "h4",
               {
-                staticClass: "panel-collapse collapse",
-                attrs: { id: "collapseFour" }
+                staticClass: "panel-title",
+                attrs: {
+                  "data-toggle": "collapse",
+                  "data-target": "#collapseFive"
+                }
               },
               [
-                _c("div", { staticClass: "panel-body" }, [
-                  _c("p", [
-                    _vm._v(
-                      "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. "
-                    )
-                  ]),
-                  _vm._v(" "),
-                  _c("p", [
-                    _vm._v(
-                      "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. "
-                    )
-                  ]),
-                  _vm._v(" "),
-                  _c("p", [
-                    _vm._v(
-                      "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur."
-                    )
-                  ])
-                ])
+                _c("span", [_vm._v("5.")]),
+                _vm._v(
+                  " On the other hand, we denounce with ?\n                            "
+                )
               ]
             )
           ]),
           _vm._v(" "),
-          _c("div", { staticClass: "panel panel-default" }, [
-            _c("div", { staticClass: "panel-heading" }, [
-              _c(
-                "h4",
-                {
-                  staticClass: "panel-title",
-                  attrs: {
-                    "data-toggle": "collapse",
-                    "data-target": "#collapseFive"
-                  }
-                },
-                [
-                  _c("span", [_vm._v("5.")]),
+          _c(
+            "div",
+            {
+              staticClass: "panel-collapse collapse",
+              attrs: { id: "collapseFive" }
+            },
+            [
+              _c("div", { staticClass: "panel-body" }, [
+                _c("p", [
                   _vm._v(
-                    " On the other hand, we denounce with ?\n                            "
+                    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
                   )
-                ]
-              )
-            ]),
-            _vm._v(" "),
+                ]),
+                _vm._v(" "),
+                _c("p", [
+                  _vm._v(
+                    "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage."
+                  )
+                ])
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "panel panel-default" }, [
+          _c("div", { staticClass: "panel-heading" }, [
             _c(
-              "div",
+              "h4",
               {
-                staticClass: "panel-collapse collapse",
-                attrs: { id: "collapseFive" }
+                staticClass: "panel-title",
+                attrs: {
+                  "data-toggle": "collapse",
+                  "data-target": "#collapseSix"
+                }
               },
               [
-                _c("div", { staticClass: "panel-body" }, [
-                  _c("p", [
-                    _vm._v(
-                      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-                    )
-                  ]),
-                  _vm._v(" "),
-                  _c("p", [
-                    _vm._v(
-                      "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage."
-                    )
-                  ])
-                ])
+                _c("span", [_vm._v("6.")]),
+                _vm._v(
+                  "Lorem ipsum dolor sit amet, consectetur ?\n                            "
+                )
               ]
             )
           ]),
           _vm._v(" "),
-          _c("div", { staticClass: "panel panel-default" }, [
-            _c("div", { staticClass: "panel-heading" }, [
-              _c(
-                "h4",
-                {
-                  staticClass: "panel-title",
-                  attrs: {
-                    "data-toggle": "collapse",
-                    "data-target": "#collapseSix"
-                  }
-                },
-                [
-                  _c("span", [_vm._v("6.")]),
+          _c(
+            "div",
+            {
+              staticClass: "panel-collapse collapse",
+              attrs: { id: "collapseSix" }
+            },
+            [
+              _c("div", { staticClass: "panel-body" }, [
+                _c("p", [
                   _vm._v(
-                    "Lorem ipsum dolor sit amet, consectetur ?\n                            "
+                    "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage."
                   )
-                ]
-              )
-            ]),
-            _vm._v(" "),
+                ]),
+                _vm._v(" "),
+                _c("p", [
+                  _vm._v(
+                    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+                  )
+                ]),
+                _vm._v(" "),
+                _c("p", [
+                  _vm._v(
+                    "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing. "
+                  )
+                ])
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "panel panel-default" }, [
+          _c("div", { staticClass: "panel-heading" }, [
             _c(
-              "div",
+              "h4",
               {
-                staticClass: "panel-collapse collapse",
-                attrs: { id: "collapseSix" }
+                staticClass: "panel-title",
+                attrs: {
+                  "data-toggle": "collapse",
+                  "data-target": "#collapseSeven"
+                }
               },
               [
-                _c("div", { staticClass: "panel-body" }, [
-                  _c("p", [
-                    _vm._v(
-                      "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage."
-                    )
-                  ]),
-                  _vm._v(" "),
-                  _c("p", [
-                    _vm._v(
-                      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
-                    )
-                  ]),
-                  _vm._v(" "),
-                  _c("p", [
-                    _vm._v(
-                      "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing. "
-                    )
-                  ])
-                ])
+                _c("span", [_vm._v("7.")]),
+                _vm._v(
+                  " There are many variations of passages ?\n                            "
+                )
               ]
             )
           ]),
           _vm._v(" "),
-          _c("div", { staticClass: "panel panel-default" }, [
-            _c("div", { staticClass: "panel-heading" }, [
-              _c(
-                "h4",
-                {
-                  staticClass: "panel-title",
-                  attrs: {
-                    "data-toggle": "collapse",
-                    "data-target": "#collapseSeven"
-                  }
-                },
-                [
-                  _c("span", [_vm._v("7.")]),
+          _c(
+            "div",
+            {
+              staticClass: "panel-collapse collapse",
+              attrs: { id: "collapseSeven" }
+            },
+            [
+              _c("div", { staticClass: "panel-body" }, [
+                _c("p", [
                   _vm._v(
-                    " There are many variations of passages ?\n                            "
+                    'Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC.'
                   )
-                ]
-              )
-            ]),
-            _vm._v(" "),
+                ])
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "panel panel-default" }, [
+          _c("div", { staticClass: "panel-heading" }, [
             _c(
-              "div",
+              "h4",
               {
-                staticClass: "panel-collapse collapse",
-                attrs: { id: "collapseSeven" }
+                staticClass: "panel-title",
+                attrs: {
+                  "data-toggle": "collapse",
+                  "data-target": "#collapseEight"
+                }
               },
               [
-                _c("div", { staticClass: "panel-body" }, [
-                  _c("p", [
-                    _vm._v(
-                      'Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC.'
-                    )
-                  ])
-                ])
+                _c("span", [_vm._v("8.")]),
+                _vm._v(
+                  " It is a long established fact that a reader ?\n                            "
+                )
               ]
             )
           ]),
           _vm._v(" "),
-          _c("div", { staticClass: "panel panel-default" }, [
-            _c("div", { staticClass: "panel-heading" }, [
-              _c(
-                "h4",
-                {
-                  staticClass: "panel-title",
-                  attrs: {
-                    "data-toggle": "collapse",
-                    "data-target": "#collapseEight"
-                  }
-                },
-                [
-                  _c("span", [_vm._v("8.")]),
+          _c(
+            "div",
+            {
+              staticClass: "panel-collapse collapse",
+              attrs: { id: "collapseEight" }
+            },
+            [
+              _c("div", { staticClass: "panel-body" }, [
+                _c("p", [
                   _vm._v(
-                    " It is a long established fact that a reader ?\n                            "
+                    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
                   )
-                ]
-              )
-            ]),
-            _vm._v(" "),
+                ]),
+                _vm._v(" "),
+                _c("p", [
+                  _vm._v(
+                    "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage."
+                  )
+                ])
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "panel panel-default" }, [
+          _c("div", { staticClass: "panel-heading" }, [
             _c(
-              "div",
+              "h4",
               {
-                staticClass: "panel-collapse collapse",
-                attrs: { id: "collapseEight" }
+                staticClass: "panel-title",
+                attrs: {
+                  "data-toggle": "collapse",
+                  "data-target": "#collapseNine"
+                }
               },
               [
-                _c("div", { staticClass: "panel-body" }, [
-                  _c("p", [
-                    _vm._v(
-                      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-                    )
-                  ]),
-                  _vm._v(" "),
-                  _c("p", [
-                    _vm._v(
-                      "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage."
-                    )
-                  ])
-                ])
+                _c("span", [_vm._v("9.")]),
+                _vm._v(
+                  "The standard chunk of Lorem Ipsum ?\n                            "
+                )
               ]
             )
           ]),
           _vm._v(" "),
-          _c("div", { staticClass: "panel panel-default" }, [
-            _c("div", { staticClass: "panel-heading" }, [
-              _c(
-                "h4",
-                {
-                  staticClass: "panel-title",
-                  attrs: {
-                    "data-toggle": "collapse",
-                    "data-target": "#collapseNine"
-                  }
-                },
-                [
-                  _c("span", [_vm._v("9.")]),
+          _c(
+            "div",
+            {
+              staticClass: "panel-collapse collapse",
+              attrs: { id: "collapseNine" }
+            },
+            [
+              _c("div", { staticClass: "panel-body" }, [
+                _c("p", [
                   _vm._v(
-                    "The standard chunk of Lorem Ipsum ?\n                            "
+                    'Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC.'
                   )
-                ]
-              )
-            ]),
-            _vm._v(" "),
+                ])
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "panel panel-default" }, [
+          _c("div", { staticClass: "panel-heading" }, [
             _c(
-              "div",
+              "h4",
               {
-                staticClass: "panel-collapse collapse",
-                attrs: { id: "collapseNine" }
+                staticClass: "panel-title",
+                attrs: {
+                  "data-toggle": "collapse",
+                  "data-target": "#collapseTen"
+                }
               },
               [
-                _c("div", { staticClass: "panel-body" }, [
-                  _c("p", [
-                    _vm._v(
-                      'Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC.'
-                    )
-                  ])
-                ])
+                _c("span", [_vm._v("10.")]),
+                _vm._v(
+                  " Nor again is there anyone who loves or pursues ? \n                            "
+                )
               ]
             )
           ]),
           _vm._v(" "),
-          _c("div", { staticClass: "panel panel-default" }, [
-            _c("div", { staticClass: "panel-heading" }, [
-              _c(
-                "h4",
-                {
-                  staticClass: "panel-title",
-                  attrs: {
-                    "data-toggle": "collapse",
-                    "data-target": "#collapseTen"
-                  }
-                },
-                [
-                  _c("span", [_vm._v("10.")]),
+          _c(
+            "div",
+            {
+              staticClass: "panel-collapse collapse",
+              attrs: { id: "collapseTen" }
+            },
+            [
+              _c("div", { staticClass: "panel-body" }, [
+                _c("p", [
                   _vm._v(
-                    " Nor again is there anyone who loves or pursues ? \n                            "
+                    "Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid.\n                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid.\n                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid."
                   )
-                ]
-              )
-            ]),
-            _vm._v(" "),
-            _c(
-              "div",
-              {
-                staticClass: "panel-collapse collapse",
-                attrs: { id: "collapseTen" }
-              },
-              [
-                _c("div", { staticClass: "panel-body" }, [
-                  _c("p", [
-                    _vm._v(
-                      "Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid.\n                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid.\n                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid."
-                    )
-                  ]),
-                  _vm._v(" "),
-                  _c("p", [
-                    _vm._v(
-                      "Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid.\n                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid."
-                    )
-                  ])
+                ]),
+                _vm._v(" "),
+                _c("p", [
+                  _vm._v(
+                    "Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid.\n                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid."
+                  )
                 ])
-              ]
-            )
-          ])
+              ])
+            ]
+          )
         ])
-      ])
-    ])
+      ]
+    )
   }
 ]
 render._withStripped = true
@@ -24840,7 +25688,18 @@ var render = function() {
     [
       _c("breadcrumb-data", { attrs: { name: _vm.value } }),
       _vm._v(" "),
-      _vm._m(0)
+      _c("div", { staticClass: "faq-w3 " }, [
+        _c(
+          "div",
+          { staticClass: "container" },
+          [
+            _c("headerComponent", { attrs: { name: _vm.value } }),
+            _vm._v(" "),
+            _vm._m(0)
+          ],
+          1
+        )
+      ])
     ],
     1
   )
@@ -24850,333 +25709,319 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "faq-w3 " }, [
-      _c("div", { staticClass: "container" }, [
-        _c("div", { staticClass: "spec " }, [
-          _c("h3", [_vm._v("Shipping")]),
+    return _c(
+      "div",
+      { staticClass: "panel-group", attrs: { id: "accordion" } },
+      [
+        _c("div", { staticClass: "panel panel-default" }, [
+          _c("div", { staticClass: "panel-heading" }, [
+            _c(
+              "h4",
+              {
+                staticClass: "panel-title",
+                attrs: {
+                  "data-toggle": "collapse",
+                  "data-target": "#collapseOne"
+                }
+              },
+              [
+                _c("span", [_vm._v("1.")]),
+                _vm._v(" What are the delivery charges?\n\t\t\t\t\t\t\t ")
+              ]
+            )
+          ]),
           _vm._v(" "),
-          _c("div", { staticClass: "ser-t" }, [
-            _c("b"),
-            _vm._v(" "),
-            _c("span", [_c("i")]),
-            _vm._v(" "),
-            _c("b", { staticClass: "line" })
-          ])
+          _c(
+            "div",
+            {
+              staticClass: "panel-collapse collapse",
+              attrs: { id: "collapseOne" }
+            },
+            [
+              _c("div", { staticClass: "panel-body" }, [
+                _c("p", [
+                  _vm._v(
+                    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. ."
+                  )
+                ]),
+                _vm._v(" "),
+                _c("p", [
+                  _vm._v(
+                    "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage."
+                  )
+                ])
+              ])
+            ]
+          )
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "panel-group", attrs: { id: "accordion" } }, [
-          _c("div", { staticClass: "panel panel-default" }, [
-            _c("div", { staticClass: "panel-heading" }, [
-              _c(
-                "h4",
-                {
-                  staticClass: "panel-title",
-                  attrs: {
-                    "data-toggle": "collapse",
-                    "data-target": "#collapseOne"
-                  }
-                },
-                [
-                  _c("span", [_vm._v("1.")]),
-                  _vm._v(" What are the delivery charges?\n\t\t\t\t\t\t\t ")
-                ]
-              )
-            ]),
-            _vm._v(" "),
+        _c("div", { staticClass: "panel panel-default" }, [
+          _c("div", { staticClass: "panel-heading" }, [
             _c(
-              "div",
+              "h4",
               {
-                staticClass: "panel-collapse collapse",
-                attrs: { id: "collapseOne" }
+                staticClass: "panel-title",
+                attrs: {
+                  "data-toggle": "collapse",
+                  "data-target": "#collapseTwo"
+                }
               },
               [
-                _c("div", { staticClass: "panel-body" }, [
-                  _c("p", [
-                    _vm._v(
-                      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. ."
-                    )
-                  ]),
-                  _vm._v(" "),
-                  _c("p", [
-                    _vm._v(
-                      "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage."
-                    )
-                  ])
-                ])
+                _c("span", [_vm._v("2.")]),
+                _vm._v(
+                  " How long will my order take to arrive?\n\t\t\t\t\t\t\t "
+                )
               ]
             )
           ]),
           _vm._v(" "),
-          _c("div", { staticClass: "panel panel-default" }, [
-            _c("div", { staticClass: "panel-heading" }, [
-              _c(
-                "h4",
-                {
-                  staticClass: "panel-title",
-                  attrs: {
-                    "data-toggle": "collapse",
-                    "data-target": "#collapseTwo"
-                  }
-                },
-                [
-                  _c("span", [_vm._v("2.")]),
+          _c(
+            "div",
+            {
+              staticClass: "panel-collapse collapse",
+              attrs: { id: "collapseTwo" }
+            },
+            [
+              _c("div", { staticClass: "panel-body" }, [
+                _c("p", [
                   _vm._v(
-                    " How long will my order take to arrive?\n\t\t\t\t\t\t\t "
+                    "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage."
                   )
-                ]
-              )
-            ]),
-            _vm._v(" "),
-            _c(
-              "div",
-              {
-                staticClass: "panel-collapse collapse",
-                attrs: { id: "collapseTwo" }
-              },
-              [
-                _c("div", { staticClass: "panel-body" }, [
-                  _c("p", [
-                    _vm._v(
-                      "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage."
-                    )
-                  ]),
-                  _vm._v(" "),
-                  _c("p", [
-                    _vm._v(
-                      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
-                    )
-                  ]),
-                  _vm._v(" "),
-                  _c("p", [
-                    _vm._v(
-                      "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing. "
-                    )
-                  ])
-                ])
-              ]
-            )
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "panel panel-default" }, [
-            _c("div", { staticClass: "panel-heading" }, [
-              _c(
-                "h4",
-                {
-                  staticClass: "panel-title",
-                  attrs: {
-                    "data-toggle": "collapse",
-                    "data-target": "#collapseThree"
-                  }
-                },
-                [
-                  _c("span", [_vm._v("3.")]),
+                ]),
+                _vm._v(" "),
+                _c("p", [
                   _vm._v(
-                    " What is the estimated delivery time?\n\t\t\t\t\t\t\t "
+                    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
                   )
-                ]
-              )
-            ]),
-            _vm._v(" "),
-            _c(
-              "div",
-              {
-                staticClass: "panel-collapse collapse",
-                attrs: { id: "collapseThree" }
-              },
-              [
-                _c("div", { staticClass: "panel-body" }, [
-                  _c("p", [
-                    _vm._v(
-                      'Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.'
-                    )
-                  ])
-                ])
-              ]
-            )
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "panel panel-default" }, [
-            _c("div", { staticClass: "panel-heading" }, [
-              _c(
-                "h4",
-                {
-                  staticClass: "panel-title",
-                  attrs: {
-                    "data-toggle": "collapse",
-                    "data-target": "#collapseFour"
-                  }
-                },
-                [
-                  _c("span", [_vm._v("4.")]),
-                  _vm._v("Do you ship internationally?\n\t\t\t\t\t\t\t ")
-                ]
-              )
-            ]),
-            _vm._v(" "),
-            _c(
-              "div",
-              {
-                staticClass: "panel-collapse collapse",
-                attrs: { id: "collapseFour" }
-              },
-              [
-                _c("div", { staticClass: "panel-body" }, [
-                  _c("p", [
-                    _vm._v(
-                      "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. "
-                    )
-                  ]),
-                  _vm._v(" "),
-                  _c("p", [
-                    _vm._v(
-                      "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. "
-                    )
-                  ]),
-                  _vm._v(" "),
-                  _c("p", [
-                    _vm._v(
-                      "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur."
-                    )
-                  ])
-                ])
-              ]
-            )
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "panel panel-default" }, [
-            _c("div", { staticClass: "panel-heading" }, [
-              _c(
-                "h4",
-                {
-                  staticClass: "panel-title",
-                  attrs: {
-                    "data-toggle": "collapse",
-                    "data-target": "#collapseFive"
-                  }
-                },
-                [
-                  _c("span", [_vm._v("5.")]),
+                ]),
+                _vm._v(" "),
+                _c("p", [
                   _vm._v(
-                    "How do I take advantage of FREE shipping?\n\t\t\t\t\t\t\t "
+                    "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing. "
                   )
-                ]
-              )
-            ]),
-            _vm._v(" "),
+                ])
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "panel panel-default" }, [
+          _c("div", { staticClass: "panel-heading" }, [
             _c(
-              "div",
+              "h4",
               {
-                staticClass: "panel-collapse collapse",
-                attrs: { id: "collapseFive" }
+                staticClass: "panel-title",
+                attrs: {
+                  "data-toggle": "collapse",
+                  "data-target": "#collapseThree"
+                }
               },
               [
-                _c("div", { staticClass: "panel-body" }, [
-                  _c("p", [
-                    _vm._v(
-                      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-                    )
-                  ]),
-                  _vm._v(" "),
-                  _c("p", [
-                    _vm._v(
-                      "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage."
-                    )
-                  ])
-                ])
+                _c("span", [_vm._v("3.")]),
+                _vm._v(" What is the estimated delivery time?\n\t\t\t\t\t\t\t ")
               ]
             )
           ]),
           _vm._v(" "),
-          _c("div", { staticClass: "panel panel-default" }, [
-            _c("div", { staticClass: "panel-heading" }, [
-              _c(
-                "h4",
-                {
-                  staticClass: "panel-title",
-                  attrs: {
-                    "data-toggle": "collapse",
-                    "data-target": "#collapseSix"
-                  }
-                },
-                [
-                  _c("span", [_vm._v("6.")]),
+          _c(
+            "div",
+            {
+              staticClass: "panel-collapse collapse",
+              attrs: { id: "collapseThree" }
+            },
+            [
+              _c("div", { staticClass: "panel-body" }, [
+                _c("p", [
                   _vm._v(
-                    "Why have I not received my product yet?\n\t\t\t\t\t\t\t "
+                    'Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.'
                   )
-                ]
-              )
-            ]),
-            _vm._v(" "),
+                ])
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "panel panel-default" }, [
+          _c("div", { staticClass: "panel-heading" }, [
             _c(
-              "div",
+              "h4",
               {
-                staticClass: "panel-collapse collapse",
-                attrs: { id: "collapseSix" }
+                staticClass: "panel-title",
+                attrs: {
+                  "data-toggle": "collapse",
+                  "data-target": "#collapseFour"
+                }
               },
               [
-                _c("div", { staticClass: "panel-body" }, [
-                  _c("p", [
-                    _vm._v(
-                      "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage."
-                    )
-                  ]),
-                  _vm._v(" "),
-                  _c("p", [
-                    _vm._v(
-                      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
-                    )
-                  ]),
-                  _vm._v(" "),
-                  _c("p", [
-                    _vm._v(
-                      "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing. "
-                    )
-                  ])
-                ])
+                _c("span", [_vm._v("4.")]),
+                _vm._v("Do you ship internationally?\n\t\t\t\t\t\t\t ")
               ]
             )
           ]),
           _vm._v(" "),
-          _c("div", { staticClass: "panel panel-default" }, [
-            _c("div", { staticClass: "panel-heading" }, [
-              _c(
-                "h4",
-                {
-                  staticClass: "panel-title",
-                  attrs: {
-                    "data-toggle": "collapse",
-                    "data-target": "#collapseSeven"
-                  }
-                },
-                [
-                  _c("span", [_vm._v("7.")]),
+          _c(
+            "div",
+            {
+              staticClass: "panel-collapse collapse",
+              attrs: { id: "collapseFour" }
+            },
+            [
+              _c("div", { staticClass: "panel-body" }, [
+                _c("p", [
                   _vm._v(
-                    " There are many variations of passages ?\n\t\t\t\t\t\t\t "
+                    "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. "
                   )
-                ]
-              )
-            ]),
-            _vm._v(" "),
+                ]),
+                _vm._v(" "),
+                _c("p", [
+                  _vm._v(
+                    "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. "
+                  )
+                ]),
+                _vm._v(" "),
+                _c("p", [
+                  _vm._v(
+                    "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur."
+                  )
+                ])
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "panel panel-default" }, [
+          _c("div", { staticClass: "panel-heading" }, [
             _c(
-              "div",
+              "h4",
               {
-                staticClass: "panel-collapse collapse",
-                attrs: { id: "collapseSeven" }
+                staticClass: "panel-title",
+                attrs: {
+                  "data-toggle": "collapse",
+                  "data-target": "#collapseFive"
+                }
               },
               [
-                _c("div", { staticClass: "panel-body" }, [
-                  _c("p", [
-                    _vm._v(
-                      'Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC.'
-                    )
-                  ])
-                ])
+                _c("span", [_vm._v("5.")]),
+                _vm._v(
+                  "How do I take advantage of FREE shipping?\n\t\t\t\t\t\t\t "
+                )
               ]
             )
-          ])
+          ]),
+          _vm._v(" "),
+          _c(
+            "div",
+            {
+              staticClass: "panel-collapse collapse",
+              attrs: { id: "collapseFive" }
+            },
+            [
+              _c("div", { staticClass: "panel-body" }, [
+                _c("p", [
+                  _vm._v(
+                    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                  )
+                ]),
+                _vm._v(" "),
+                _c("p", [
+                  _vm._v(
+                    "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage."
+                  )
+                ])
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "panel panel-default" }, [
+          _c("div", { staticClass: "panel-heading" }, [
+            _c(
+              "h4",
+              {
+                staticClass: "panel-title",
+                attrs: {
+                  "data-toggle": "collapse",
+                  "data-target": "#collapseSix"
+                }
+              },
+              [
+                _c("span", [_vm._v("6.")]),
+                _vm._v(
+                  "Why have I not received my product yet?\n\t\t\t\t\t\t\t "
+                )
+              ]
+            )
+          ]),
+          _vm._v(" "),
+          _c(
+            "div",
+            {
+              staticClass: "panel-collapse collapse",
+              attrs: { id: "collapseSix" }
+            },
+            [
+              _c("div", { staticClass: "panel-body" }, [
+                _c("p", [
+                  _vm._v(
+                    "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage."
+                  )
+                ]),
+                _vm._v(" "),
+                _c("p", [
+                  _vm._v(
+                    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+                  )
+                ]),
+                _vm._v(" "),
+                _c("p", [
+                  _vm._v(
+                    "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing. "
+                  )
+                ])
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "panel panel-default" }, [
+          _c("div", { staticClass: "panel-heading" }, [
+            _c(
+              "h4",
+              {
+                staticClass: "panel-title",
+                attrs: {
+                  "data-toggle": "collapse",
+                  "data-target": "#collapseSeven"
+                }
+              },
+              [
+                _c("span", [_vm._v("7.")]),
+                _vm._v(
+                  " There are many variations of passages ?\n\t\t\t\t\t\t\t "
+                )
+              ]
+            )
+          ]),
+          _vm._v(" "),
+          _c(
+            "div",
+            {
+              staticClass: "panel-collapse collapse",
+              attrs: { id: "collapseSeven" }
+            },
+            [
+              _c("div", { staticClass: "panel-body" }, [
+                _c("p", [
+                  _vm._v(
+                    'Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC.'
+                  )
+                ])
+              ])
+            ]
+          )
         ])
-      ])
-    ])
+      ]
+    )
   }
 ]
 render._withStripped = true
@@ -25233,7 +26078,30 @@ var render = function() {
     [
       _c("breadcrumb-data", { attrs: { name: _vm.value } }),
       _vm._v(" "),
-      _vm._m(0)
+      _c("div", { staticClass: "terms" }, [
+        _c(
+          "div",
+          { staticClass: "container" },
+          [
+            _c("headerComponent", { attrs: { name: _vm.title } }),
+            _vm._v(" "),
+            _vm._m(0),
+            _vm._v(" "),
+            _vm._m(1),
+            _vm._v(" "),
+            _vm._m(2),
+            _vm._v(" "),
+            _vm._m(3),
+            _vm._v(" "),
+            _vm._m(4),
+            _vm._v(" "),
+            _vm._m(5),
+            _vm._v(" "),
+            _vm._m(6)
+          ],
+          1
+        )
+      ])
     ],
     1
   )
@@ -25243,145 +26111,150 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "terms" }, [
-      _c("div", { staticClass: "container" }, [
-        _c("div", { staticClass: "spec " }, [
-          _c("h3", [_vm._v("Terms and Conditions")]),
-          _vm._v(" "),
-          _c("div", { staticClass: "ser-t" }, [
-            _c("b"),
-            _vm._v(" "),
-            _c("span", [_c("i")]),
-            _vm._v(" "),
-            _c("b", { staticClass: "line" })
-          ])
+    return _c("div", { staticClass: "ter-wthree" }, [
+      _c("h6", [_c("span", [_vm._v("1.")]), _vm._v("Important Points")]),
+      _vm._v(" "),
+      _c("ol", { attrs: { start: "1" } }, [
+        _c("li", [
+          _vm._v(
+            "Lorem Ipsum is simply dummy text of the printing and typesetting industry.it has a more-or-less normal distribution of letters, as opposed  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+          )
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "ter-wthree" }, [
-          _c("h6", [_c("span", [_vm._v("1.")]), _vm._v("Important Points")]),
-          _vm._v(" "),
-          _c("ol", { attrs: { start: "1" } }, [
-            _c("li", [
-              _vm._v(
-                "Lorem Ipsum is simply dummy text of the printing and typesetting industry.it has a more-or-less normal distribution of letters, as opposed  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
-              )
-            ]),
-            _vm._v(" "),
-            _c("li", [
-              _vm._v(
-                "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores"
-              )
-            ]),
-            _vm._v(" "),
-            _c("li", [
-              _vm._v(
-                "Lorem Ipsum is simply dummy text of the printing and typesetting industry.it has a more-or-less normal distribution of letters, as opposed  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
-              )
-            ])
-          ])
+        _c("li", [
+          _vm._v(
+            "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores"
+          )
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "ter-wthree" }, [
-          _c("h6", [
-            _c("span", [_vm._v("2.")]),
-            _vm._v("Exclusions and Limitations")
-          ]),
-          _vm._v(" "),
-          _c("p", [
-            _vm._v(
-              "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-            )
-          ]),
-          _vm._v(" "),
-          _c("p", [
-            _vm._v(
-              'Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. '
-            )
-          ]),
-          _vm._v(" "),
-          _c("p", [
-            _vm._v(
-              ' Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance'
-            )
-          ])
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "ter-wthree" }, [
-          _c("h6", [_c("span", [_vm._v("3.")]), _vm._v("Payment")]),
-          _vm._v(" "),
-          _c("p", [
-            _vm._v(
-              "If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary"
-            )
-          ]),
-          _vm._v(" "),
-          _c("p", [
-            _vm._v(
-              "first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour"
-            )
-          ])
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "ter-wthree" }, [
-          _c("h6", [_c("span", [_vm._v("4.")]), _vm._v("Cancellation Policy")]),
-          _vm._v(" "),
-          _c("p", [
-            _vm._v(
-              'Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.'
-            )
-          ]),
-          _vm._v(" "),
-          _c("p", [
-            _vm._v(
-              'Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum"'
-            )
-          ]),
-          _vm._v(" "),
-          _c("p", [
-            _vm._v(
-              'This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.'
-            )
-          ])
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "ter-wthree" }, [
-          _c("h6", [
-            _c("span", [_vm._v("5.")]),
-            _vm._v("Modifications & Refunds")
-          ]),
-          _vm._v(" "),
-          _c("p", [
-            _vm._v(
-              " Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
-            )
-          ]),
-          _vm._v(" "),
-          _c("p", [
-            _vm._v(
-              " Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
-            )
-          ])
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "ter-wthree" }, [
-          _c("h6", [_c("span", [_vm._v("6.")]), _vm._v("Availability")]),
-          _vm._v(" "),
-          _c("p", [
-            _vm._v(
-              "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
-            )
-          ])
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "ter-wthree" }, [
-          _c("h6", [_c("span", [_vm._v("7.")]), _vm._v("Copyright Notice")]),
-          _vm._v(" "),
-          _c("p", [
-            _vm._v(
-              " you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures"
-            )
-          ])
+        _c("li", [
+          _vm._v(
+            "Lorem Ipsum is simply dummy text of the printing and typesetting industry.it has a more-or-less normal distribution of letters, as opposed  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+          )
         ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "ter-wthree" }, [
+      _c("h6", [
+        _c("span", [_vm._v("2.")]),
+        _vm._v("Exclusions and Limitations")
+      ]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        )
+      ]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          'Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. '
+        )
+      ]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          ' Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance'
+        )
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "ter-wthree" }, [
+      _c("h6", [_c("span", [_vm._v("3.")]), _vm._v("Payment")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary"
+        )
+      ]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour"
+        )
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "ter-wthree" }, [
+      _c("h6", [_c("span", [_vm._v("4.")]), _vm._v("Cancellation Policy")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          'Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.'
+        )
+      ]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          'Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum"'
+        )
+      ]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          'This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.'
+        )
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "ter-wthree" }, [
+      _c("h6", [_c("span", [_vm._v("5.")]), _vm._v("Modifications & Refunds")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          " Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+        )
+      ]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          " Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
+        )
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "ter-wthree" }, [
+      _c("h6", [_c("span", [_vm._v("6.")]), _vm._v("Availability")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
+        )
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "ter-wthree" }, [
+      _c("h6", [_c("span", [_vm._v("7.")]), _vm._v("Copyright Notice")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          " you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures"
+        )
       ])
     ])
   }
@@ -82881,15 +83754,17 @@ window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _allProducts_vue_vue_type_template_id_cf6d776a___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./allProducts.vue?vue&type=template&id=cf6d776a& */ "./resources/js/components/layout/allProducts.vue?vue&type=template&id=cf6d776a&");
-/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+/* harmony import */ var _allProducts_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./allProducts.vue?vue&type=script&lang=js& */ "./resources/js/components/layout/allProducts.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
 
-var script = {}
+
+
 
 
 /* normalize component */
 
-var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__["default"])(
-  script,
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _allProducts_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
   _allProducts_vue_vue_type_template_id_cf6d776a___WEBPACK_IMPORTED_MODULE_0__["render"],
   _allProducts_vue_vue_type_template_id_cf6d776a___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
   false,
@@ -82903,6 +83778,20 @@ var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_
 if (false) { var api; }
 component.options.__file = "resources/js/components/layout/allProducts.vue"
 /* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/layout/allProducts.vue?vue&type=script&lang=js&":
+/*!*********************************************************************************!*\
+  !*** ./resources/js/components/layout/allProducts.vue?vue&type=script&lang=js& ***!
+  \*********************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_allProducts_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/babel-loader/lib??ref--4-0!../../../../node_modules/vue-loader/lib??vue-loader-options!./allProducts.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/layout/allProducts.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_allProducts_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
 
 /***/ }),
 
@@ -83093,15 +83982,17 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _products_vue_vue_type_template_id_03caeeae___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./products.vue?vue&type=template&id=03caeeae& */ "./resources/js/components/layout/products.vue?vue&type=template&id=03caeeae&");
-/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+/* harmony import */ var _products_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./products.vue?vue&type=script&lang=js& */ "./resources/js/components/layout/products.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
 
-var script = {}
+
+
 
 
 /* normalize component */
 
-var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__["default"])(
-  script,
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _products_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
   _products_vue_vue_type_template_id_03caeeae___WEBPACK_IMPORTED_MODULE_0__["render"],
   _products_vue_vue_type_template_id_03caeeae___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
   false,
@@ -83115,6 +84006,20 @@ var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_
 if (false) { var api; }
 component.options.__file = "resources/js/components/layout/products.vue"
 /* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/layout/products.vue?vue&type=script&lang=js&":
+/*!******************************************************************************!*\
+  !*** ./resources/js/components/layout/products.vue?vue&type=script&lang=js& ***!
+  \******************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_products_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/babel-loader/lib??ref--4-0!../../../../node_modules/vue-loader/lib??vue-loader-options!./products.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/layout/products.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_products_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
 
 /***/ }),
 
@@ -83322,6 +84227,75 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_breadcrumb_vue_vue_type_template_id_0a5369ba___WEBPACK_IMPORTED_MODULE_0__["render"]; });
 
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_breadcrumb_vue_vue_type_template_id_0a5369ba___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/ui/header.vue":
+/*!***********************************************!*\
+  !*** ./resources/js/components/ui/header.vue ***!
+  \***********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _header_vue_vue_type_template_id_189426a6___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./header.vue?vue&type=template&id=189426a6& */ "./resources/js/components/ui/header.vue?vue&type=template&id=189426a6&");
+/* harmony import */ var _header_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./header.vue?vue&type=script&lang=js& */ "./resources/js/components/ui/header.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _header_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _header_vue_vue_type_template_id_189426a6___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _header_vue_vue_type_template_id_189426a6___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/ui/header.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/ui/header.vue?vue&type=script&lang=js&":
+/*!************************************************************************!*\
+  !*** ./resources/js/components/ui/header.vue?vue&type=script&lang=js& ***!
+  \************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_header_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/babel-loader/lib??ref--4-0!../../../../node_modules/vue-loader/lib??vue-loader-options!./header.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/ui/header.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_header_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/ui/header.vue?vue&type=template&id=189426a6&":
+/*!******************************************************************************!*\
+  !*** ./resources/js/components/ui/header.vue?vue&type=template&id=189426a6& ***!
+  \******************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_header_vue_vue_type_template_id_189426a6___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../node_modules/vue-loader/lib??vue-loader-options!./header.vue?vue&type=template&id=189426a6& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/ui/header.vue?vue&type=template&id=189426a6&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_header_vue_vue_type_template_id_189426a6___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_header_vue_vue_type_template_id_189426a6___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
 
 
 

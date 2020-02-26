@@ -1,5 +1,5 @@
 <template>
-    <div class="banner-top">
+    <div class="banner-top bounceInRight animated">
         <div class="container">
             <h3 >{{ name }}</h3>
             <h4><router-link :to="{ name: 'home' }">Home</router-link><label>/</label>{{ name }}</h4>

@@ -1,14 +1,7 @@
 <template>
     <div class="content-top ">
         <div class="container ">
-            <div class="spec ">
-                <h3>Special Offers</h3>
-                <div class="ser-t">
-                    <b></b>
-                    <span><i></i></span>
-                    <b class="line"></b>
-                </div>
-            </div>
+            <headerComponent :name="value" />
             <div class="tab-head ">
                 <nav class="nav-sidebar">
                     <ul class="nav tabs ">
@@ -413,3 +406,21 @@
         </div>
     </div>
 </template>
+
+<script>
+    import headerComponent from '../ui/header.vue';
+
+    export default {
+        components: {
+            headerComponent
+        },
+        data: function () {
+            return {
+                value: ''
+            }
+        },
+        created: function () {
+            this.value = 'Special Offers';
+        }
+    }
+</script>

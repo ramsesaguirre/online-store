@@ -7,14 +7,7 @@
         <div class="terms">
             <div class="container">
                 
-                <div class="spec ">
-                <h3>Terms and Conditions</h3>
-            <div class="ser-t">
-                <b></b>
-                <span><i></i></span>
-                <b class="line"></b>
-            </div>
-        </div>
+                <headerComponent :name="title" />
                 <div class="ter-wthree">
                     <h6><span>1.</span>Important Points</h6>
                     <ol start="1">
@@ -61,18 +54,22 @@
 
 <script>
     import breadcrumbData from '../components/ui/breadcrumb.vue';
+    import headerComponent from '../components/ui/header.vue';
 
     export default {
         components: {
-            breadcrumbData
+            breadcrumbData,
+            headerComponent
         },
         data: function () {
             return {
-                value: ''
+                value: '',
+                title: ''
             }
         },
         created: function () {
             this.value = 'Terms';
+            this.title = 'Terms and Conditions';
         }
     }
 </script>

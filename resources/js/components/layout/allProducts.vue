@@ -3,14 +3,7 @@
         <!--content-->
         <div class="content-top offer-w3agile">
 	        <div class="container ">
-		        <div class="spec ">
-			        <h3>Special Offers</h3>
-					<div class="ser-t">
-					    <b></b>
-					    <span><i></i></span>
-					    <b class="line"></b>
-				    </div>
-		        </div>
+		        <headerComponent :name="value" />
 						<div class=" con-w3l wthree-of">
 							<div class="col-md-3 pro-1">
 								<div class="col-m">								
@@ -390,3 +383,21 @@
 				</div>
     </div>
 </template>
+
+<script>
+    import headerComponent from '../ui/header.vue';
+
+    export default {
+        components: {
+            headerComponent
+        },
+        data: function () {
+            return {
+                value: ''
+            }
+        },
+        created: function () {
+            this.value = 'Special Offers';
+        }
+    }
+</script>

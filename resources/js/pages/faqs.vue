@@ -5,14 +5,7 @@
         <div class="faq-w3 main-grid-border">
             <div class="container">
                 
-                <div class="spec ">
-                <h3>Faqs</h3>
-                    <div class="ser-t">
-                        <b></b>
-                        <span><i></i></span>
-                        <b class="line"></b>
-                    </div>
-                </div>
+                <headerComponent :name="value" />
                     <div class="panel-group" id="accordion">
                     <!-- First Panel -->
                         <div class="panel panel-default">
@@ -170,10 +163,12 @@
 
 <script>
     import breadcrumbData from '../components/ui/breadcrumb.vue';
+    import headerComponent from '../components/ui/header.vue';
 
     export default {
         components: {
-            breadcrumbData
+            breadcrumbData,
+            headerComponent
         },
         data: function () {
             return {

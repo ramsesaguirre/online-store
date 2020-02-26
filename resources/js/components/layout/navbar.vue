@@ -2,7 +2,7 @@
     <div class="header">
         <div class="container">
 
-            <div class="logo bounce animated">
+            <div class="logo rubberBand animated">
                 <h1 ><a href="#"><b>T<br>H<br>E</b>Big Store<span>The Best Supermarket</span></a></h1>
             </div>
             <div class="head-t">
