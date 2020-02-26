@@ -1,6 +1,7 @@
 <template>
     <div data-vide-bg="video/video" style="position: relative;">
-        <div style="position: absolute; z-index: -1; top: 0px; left: 0px; bottom: 0px; right: 0px; overflow: hidden; background-size: cover; background-repeat: no-repeat; background-position: 50% 50%; background-image: url(&quot;http://localhost/online-store/public/assets/video/video.gif&quot;);"><video autoplay="" loop="" muted="" style="margin: auto; position: absolute; z-index: -1; top: 50%; left: 50%; transform: translate(-50%, -50%); visibility: visible; width: 1032px; height: auto;"><source src="video/video.mp4" type="video/mp4"><source src="video/video.webm" type="video/webm"><source src="video/video.ogv" type="video/ogg"></video></div>
+        <div style="position: absolute; z-index: -1; top: 0px; left: 0px; bottom: 0px; right: 0px; overflow: hidden; background-size: cover; background-repeat: no-repeat; background-position: 50% 50%;" :style="{ 'background-image':  'url(' + currentPath + ')' }">
+            <video autoplay="" loop="" muted="" style="margin: auto; position: absolute; z-index: -1; top: 50%; left: 50%; transform: translate(-50%, -50%); visibility: visible; width: 1032px; height: auto;"><source src="video/video.mp4" type="video/mp4"><source src="video/video.webm" type="video/webm"><source src="video/video.ogv" type="video/ogg"></video></div>
         <div class="container">
             
             <div class="banner-info">
@@ -16,3 +17,17 @@
         </div>
     </div>
 </template>
+
+<script>
+export default {
+    data: function () {
+            return {
+                currentPath: ''
+            }
+        },
+    mounted: function() {
+        this.currentPath = 'http://' + window.location.host + window.location.pathname + 'assets/video/video.gif';
+        console.log(this.currentPath);
+    }
+}
+</script>
