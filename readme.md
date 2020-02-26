@@ -33,7 +33,8 @@ Editar Usuario
 Base de Datos y Migraciones
 Se tienen que crear las migraciones usando laravel y las tablas tienen que tener los siguientes datos
 
-Usuarios
+
+**Usuarios
 
 id
 
@@ -60,6 +61,7 @@ description
 price
 
 
+
 Media
 
 id
@@ -67,6 +69,7 @@ id
 idProducto
 
 file
+
 
 
 
