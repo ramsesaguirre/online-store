@@ -1,13 +1,8 @@
 <template>
     <div>
         <!--banner-->
-<div class="banner-top">
-	<div class="container">
-		<h3 >Shipping</h3>
-		<h4><a href="index.html">Home</a><label>/</label>Shipping</h4>
-		<div class="clearfix"> </div>
-	</div>
-</div>
+		<breadcrumb-data :name="value" />
+
 <!-- faqs -->
 	<div class="faq-w3 ">
 		<div class="container">
@@ -131,3 +126,21 @@
 	<!-- // Terms of use -->
     </div>
 </template>
+
+<script>
+    import breadcrumbData from '../components/ui/breadcrumb.vue';
+
+    export default {
+        components: {
+            breadcrumbData
+        },
+        data: function () {
+            return {
+                value: ''
+            }
+        },
+        created: function () {
+            this.value = 'Shipping';
+        }
+    }
+</script>

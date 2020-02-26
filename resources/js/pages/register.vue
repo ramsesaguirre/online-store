@@ -1,13 +1,7 @@
 <template>
     <div>
-         <!--banner-->
-        <div class="banner-top">
-            <div class="container">
-                <h3 >Register</h3>
-                <h4><a href="index.html">Home</a><label>/</label>Register</h4>
-                <div class="clearfix"> </div>
-            </div>
-        </div>
+        <!--banner-->
+        <breadcrumb-data :name="value" />
 
         <!--login-->
         <div class="login">
@@ -38,8 +32,25 @@
                             <input type="submit" value="Submit">
                         </form>
                     </div>
-                    
                 </div>
             </div>
     </div>
 </template>
+
+<script>
+    import breadcrumbData from '../components/ui/breadcrumb.vue';
+
+    export default {
+        components: {
+            breadcrumbData
+        },
+        data: function () {
+            return {
+                value: ''
+            }
+        },
+        created: function () {
+            this.value = 'Register';
+        }
+    }
+</script>

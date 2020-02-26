@@ -1,13 +1,7 @@
 <template>
     <div>
-        <div class="banner-top">
-            <div class="container">
-                <h3 >Login</h3>
-                <h4><a href="index.html">Home</a><label>/</label>Login</h4>
-                <div class="clearfix"> </div>
-            </div>
-        </div>
-        <!--login-->
+        <!--banner-->
+		<breadcrumb-data :name="value" />
 
         <div class="login">
             <div class="main-agileits">
@@ -36,3 +30,21 @@
         </div>
     </div>
 </template>
+
+<script>
+    import breadcrumbData from '../components/ui/breadcrumb.vue';
+
+    export default {
+        components: {
+            breadcrumbData
+        },
+        data: function () {
+            return {
+                value: ''
+            }
+        },
+        created: function () {
+            this.value = 'Login';
+        }
+    }
+</script>

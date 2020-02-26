@@ -1,5 +1,5 @@
 <template>
-    <div style="padding-bottom: 6em;">        
+    <div style="padding-bottom: 5em;">        
         <div id="myCarousel" class="carousel slide" data-ride="carousel">
                 <!-- Indicators -->
                 <ol class="carousel-indicators">

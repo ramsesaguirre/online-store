@@ -1,6 +1,6 @@
 require('./bootstrap');
-
 window.Vue = require('vue');
+Vue.config.debug = true;
 
 import Vue from 'vue';
 import VueRouter from 'vue-router';
@@ -17,9 +17,11 @@ const router = new VueRouter({
     routes: Router
 });
 
-Vue.component('navbar', require('./components/layout/navbar.vue').default);
+Vue.component('nav-bar', require('./components/layout/navbar.vue').default);
+Vue.component('footer-page', require('./components/layout/footer.vue').default);
+
 
 const app = new Vue({
     el: '#app',
-    router: router
+    router: router,
 });
