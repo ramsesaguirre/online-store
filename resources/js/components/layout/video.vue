@@ -19,15 +19,15 @@
 </template>
 
 <script>
-export default {
-    data: function () {
-            return {
-                currentPath: ''
-            }
-        },
-    mounted: function() {
-        this.currentPath = 'http://' + window.location.host + window.location.pathname + 'assets/video/video.gif';
-        console.log(this.currentPath);
+    export default {
+        data: function () {
+                return {
+                    currentPath: ''
+                }
+            },
+        mounted: function() {
+            this.currentPath = window.location.protocol + '//' + window.location.host + window.location.pathname + 'assets/video/video.gif';
+            console.log(this.currentPath);
+        }
     }
-}
 </script>
