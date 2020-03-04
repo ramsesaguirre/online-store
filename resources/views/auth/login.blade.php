@@ -133,12 +133,15 @@
       <div class="form-item sign-up">
         <div class="table">
           <div class="table-cell">
-            <input name="email" placeholder="Email" type="text" autocomplete="off" />
-            <input name="name" placeholder="Usuario" type="text" autocomplete="off" />
-            <input name="password" placeholder="Contraseña" type="Password"autocomplete="off" />
-            <div class="btn">
+          <form method="POST" id="formRegister" action="{{ route('admin.register') }}">
+            @csrf
+            <input name="email" placeholder="email" type="text" autocomplete="email" />
+            <input name="password" placeholder="Contraseña" type="Password" autocomplete="new-password" />
+            <input id="password-confirm" type="password" name="password_confirmation" required autocomplete="new-password">
+            <div class="btn" onclick="registerForm();">
               Registrar
             </div>
+          </form>
           </div>
         </div>
       </div>

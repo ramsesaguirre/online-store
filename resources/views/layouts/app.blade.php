@@ -374,6 +374,15 @@
                 }, 1000);
         }
 
+        function registerForm() {
+            $( ".alert" ).hide();
+            setTimeout(
+                function() 
+                {
+                    $("#formRegister").submit();
+                }, 1000);
+        }
+
     </script>
 </body>
 </html>

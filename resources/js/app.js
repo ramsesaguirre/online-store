@@ -4,12 +4,12 @@ Vue.config.debug = true;
 
 import Vue from 'vue';
 import VueRouter from 'vue-router';
-import Vuex from 'vuex';
+//import Vuex from 'vuex';
 import Vuetify from 'vuetify';
 
 Vue.use(Vuetify);
 Vue.use(VueRouter);
-Vue.use(Vuex);
+//Vue.use(Vuex);
 
 import Router from './routes.js';
 
