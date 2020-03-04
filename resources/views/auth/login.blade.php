@@ -106,8 +106,8 @@
         <div class="form-item log-in">
         <div class="table">
           <div class="table-cell">
-            <input name="email" placeholder="email" type="email" autocomplete="off" require autofocus />
-            <input name="password" placeholder="Contraseña" type="Password" autocomplete="off" require />
+            <input name="email" placeholder="email" type="email" value="{{ old('email') }}" autocomplete="email" require autofocus />
+            <input name="password" placeholder="Contraseña" type="Password" autocomplete="current-password" require />
             
               @error('email')
               <div class="alert alert-warning" style="padding-left: 1em;">
@@ -123,7 +123,7 @@
                   </span>
               </div>
               @enderror
-            
+              
             <div class="btn" onclick="submitForm();">Ingresar</div>
           </div>
         </div>
