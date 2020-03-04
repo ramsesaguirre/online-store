@@ -15,6 +15,22 @@
     return view('app');
 });*/
 
-Route::get('{any}', function () {
+/*Route::get('{any}', function () {
     return view('app');
-})->where('any', '.*');
+})->where('any', '.*');*/
+
+//Auth::routes();
+
+//Route::get('/home', 'HomeController@index')->name('home');
+
+Route::namespace('Admin')->prefix('admin')->as('admin.')->group(function() {
+    Auth::routes(['register' => false]);
+    Route::get('/home', 'HomeController@index')->name('home');
+ });
+
+ /* Rutas de control al sistema administrativo */
+/*Route::group(['prefix' => 'admin', 'namespace' => 'Admin', 'middleware' => 'auth'], function(){
+    Route::get('/home', 'HomeController@index')->name('dashboard');
+});*/
+
+

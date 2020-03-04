@@ -13,9 +13,6 @@
     export default {
         props: {
             name: String
-        },
-        created: function () {
-            console.log(this.name);
         }
     }
 </script>
