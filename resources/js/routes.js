@@ -8,7 +8,6 @@ import faqs from './pages/faqs.vue';
 import special from './pages/special.vue';
 
 export default [
-    { path: '', name: 'home', component: home },
     { path: '/', name: 'home', component: home },
     { path: '/login', name: 'login', component: login },
     { path: '/register', name: 'register', component: register },
