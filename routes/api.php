@@ -34,3 +34,8 @@ Route::get('/media/{id}/show', 'ProductsController@getShow')->name('api_media_sh
 Route::post('/media/new', 'ProductsController@getNew')->name('api_media_new');
 Route::post('/media/{id}/edit', 'ProductsController@getEdit')->name('api_media_edit');
 Route::post('/media/{id}/remove', 'ProductsController@getRemove')->name('api_media_remove');
+
+/**
+ * Rutas de Media
+ */
+Route::get('/order', 'OrdersController@create')->name('api_order_create');

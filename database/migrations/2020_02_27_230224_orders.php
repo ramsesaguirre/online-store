@@ -33,6 +33,7 @@
                 $blueprint->boolean('is_paid')->nullable();
                 $blueprint->boolean('is_delivery')->nullable();
                 $blueprint->boolean('is_active');
+                $blueprint->uuid('token');
                 $blueprint->timestamps();
             });
         }
