@@ -270,11 +270,15 @@
     color: #856404;
     background-color: #fff3cd;
     border-color: #ffeeba;
+    margin-left: 1em;
+    margin-right: 1em;
     }
 
     .alert {
+        
     position: relative;
     padding: .75rem 1.25rem;
+    padding-left: 1em;
     margin-bottom: 1rem;
     border: 1px solid 
     transparent;
@@ -362,7 +366,12 @@
         });
 
         function submitForm() {
-            $("#formLogin").submit();
+            $( ".alert" ).hide();
+            setTimeout(
+                function() 
+                {
+                    $("#formLogin").submit();
+                }, 1000);
         }
 
     </script>

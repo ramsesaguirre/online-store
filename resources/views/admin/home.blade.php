@@ -10,7 +10,7 @@
                             {{ session('status') }}
                         </div>
                     @endif
-
+                    usuario : {{ Auth::user()->email }}
                     You are logged in!
                 </div>
 
