@@ -18,14 +18,14 @@
 
             Schema::create('tbl_orders_details', function (Blueprint $blueprint) {
                 $blueprint->bigIncrements('id');
-                $blueprint->bigInteger('order')->unsigned();
-                $blueprint->foreign('order')
+                $blueprint->bigInteger('orders_id')->unsigned();
+                $blueprint->foreign('orders_id')
                     ->references('id')
                     ->on('tbl_orders')
                     ->onDelete('cascade')
                 ;
-                $blueprint->bigInteger('product')->unsigned();
-                $blueprint->foreign('product')
+                $blueprint->bigInteger('products_id')->unsigned();
+                $blueprint->foreign('products_id')
                     ->references('id')
                     ->on('tbl_products')
                     ->onDelete('cascade')

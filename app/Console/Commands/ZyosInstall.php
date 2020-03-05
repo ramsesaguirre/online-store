@@ -2,10 +2,12 @@
 
     namespace App\Console\Commands;
 
+    use App\Products;
+    use App\User;
     use Doctrine\DBAL\DriverManager;
+    use Faker\Factory;
     use Illuminate\Console\Command;
-    use Illuminate\Support\Facades\DB;
-    use Illuminate\Support\Facades\Schema;
+    use Illuminate\Support\Str;
 
     /**
      * Class ZyosInstall
@@ -73,6 +75,8 @@
             $this->call('migrate');
             $this->output->newLine();
             $this->output->text(sprintf('[3] <info>Migraciones en la base de datos</info> <comment>%s</comment> <info>ejecutada</info>', $database));
+            $this->getLoadFixtures($env);
+            $this->output->text(sprintf('[4] <info>Fixtures en la base de datos</info> <comment>%s</comment> <info>ejecutada en modo %s</info>', $database, $env));
             $this->output->newLine();
 
             $this->output->success('Proceso Terminado');
@@ -94,5 +98,47 @@
             ];
 
             return DriverManager::getConnection($params);
+        }
+
+        /**
+         * @param string|null $env
+         */
+        private function getLoadFixtures(?string $env) {
+
+            if($env == 'dev'):
+                $this->getFixtureDev();
+            else:
+
+            endif;
+        }
+
+        /**
+         * Faker
+         */
+        private function getFixtureDev() {
+
+            $faker = Factory::create('es_ES');
+
+            /**
+             * Usuario
+             */
+            $entity = new User();
+            $entity->name = $faker->name;
+            $entity->email = 'TEST@TEST.COM';
+            $entity->password = bcrypt(123);
+            $entity->save();
+
+            /**
+             * Productos
+             */
+            for ($i = 1; $i <= 5; $i++):
+                $entity = new Products();
+                $entity->name = $faker->company;
+                $entity->slug = Str::slug($entity->name);
+                $entity->description = $faker->text(400);
+                $entity->price = $i * 100;
+                $entity->is_active = true;
+                $entity->save();
+            endfor;
         }
     }

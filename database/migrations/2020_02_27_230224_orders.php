@@ -23,13 +23,7 @@
                     ->references('id')
                     ->on('users')
                     ->onDelete('cascade');
-                $blueprint->bigInteger('product')->unsigned();
-                $blueprint->foreign('product')
-                    ->references('id')
-                    ->on('tbl_products')
-                    ->onDelete('cascade')
-                ;
-                $blueprint->float('total')->nullable();
+                $blueprint->text('total')->nullable();
                 $blueprint->boolean('is_paid')->nullable();
                 $blueprint->boolean('is_delivery')->nullable();
                 $blueprint->boolean('is_active');

@@ -26,7 +26,6 @@
          */
         protected $fillable = [
             'user',
-            'product',
             'total',
             'is_paid',
             'is_delivery'
@@ -39,5 +38,9 @@
          */
         public function details() {
             return $this->belongsTo(OrderDetails::class);
+        }
+
+        public function detail() {
+            return $this->hasOne(OrderDetails::class);
         }
     }

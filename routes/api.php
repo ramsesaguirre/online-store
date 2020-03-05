@@ -38,4 +38,4 @@ Route::post('/media/{id}/remove', 'ProductsController@getRemove')->name('api_med
 /**
  * Rutas de Media
  */
-Route::get('/order', 'OrdersController@create')->name('api_order_create');
+Route::post('/order/create', 'OrdersController@create')->name('api_order_create');

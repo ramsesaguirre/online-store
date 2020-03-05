@@ -38,6 +38,6 @@
          * @return \Illuminate\Database\Eloquent\Relations\BelongsTo
          */
         public function orders() {
-            return $this->belongsTo(Orders::class);
+            return $this->belongsTo(Orders::class, 'detail');
         }
     }
