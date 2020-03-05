@@ -49,5 +49,16 @@ export default [{
     {
         path: '*',
         redirect: '/'
+    },
+    {
+        path: '/admin',
+        component: () =>
+            import ('./admin/views/dashboard/Index.vue'),
+        children: [{
+            name: 'Dashboard',
+            path: '/',
+            component: () =>
+                import ('./admin/views/dashboard/Dashboard.vue'),
+        }, ]
     }
 ]
