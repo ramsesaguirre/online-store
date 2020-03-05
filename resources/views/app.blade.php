@@ -905,6 +905,6 @@
 				</div>
 
         </div>
-    <script type="application/javascript" src="{{ asset('js/app.js') }}"></script>
+    <script type="application/javascript" src="{{ asset('js/js/app.js') }}"></script>
     </body>
 </html>
