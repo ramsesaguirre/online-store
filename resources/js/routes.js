@@ -55,10 +55,47 @@ export default [{
         component: () =>
             import ('./admin/views/dashboard/Index.vue'),
         children: [{
-            name: 'Dashboard',
-            path: '/',
-            component: () =>
-                import ('./admin/views/dashboard/Dashboard.vue'),
-        }, ]
+                name: 'Dashboard',
+                path: '/home',
+                component: () =>
+                    import ('./admin/views/dashboard/Dashboard.vue'),
+            },
+            {
+                name: 'User Profile',
+                path: '/pages/user',
+                component: () =>
+                    import ('./admin/views/dashboard/pages/UserProfile'),
+            },
+            {
+                name: 'Notifications',
+                path: '/components/notifications',
+                component: () =>
+                    import ('./admin/views/dashboard/component/Notifications'),
+            },
+            {
+                name: 'Icons',
+                path: '/components/icons',
+                component: () =>
+                    import ('./admin/views/dashboard/component/Icons'),
+            },
+            {
+                name: 'Typography',
+                path: '/components/typography',
+                component: () =>
+                    import ('./admin/views/dashboard/component/Typography'),
+            },
+            {
+                name: 'Regular Tables',
+                path: '/tables/regular-tables',
+                component: () =>
+                    import ('./admin/views/dashboard/tables/RegularTables'),
+            },
+            {
+                name: 'Google Maps',
+                path: '/maps/google-maps',
+                component: () =>
+                    import ('./admin/views/dashboard/maps/GoogleMaps'),
+            },
+        ]
     }
 ]

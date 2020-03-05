@@ -25,7 +25,7 @@
       nav
     >
       <v-list-item>
-        <v-list-item-avatar
+        <!--<v-list-item-avatar
           class="align-self-center"
           color="white"
           contain
@@ -34,14 +34,14 @@
             src="https://demos.creative-tim.com/vuetify-material-dashboard/favicon.ico"
             max-height="30"
           />
-        </v-list-item-avatar>
+        </v-list-item-avatar>-->
 
-        <v-list-item-content>
+        <!--<v-list-item-content>
           <v-list-item-title
             class="display-1"
             v-text="profile.title"
           />
-        </v-list-item-content>
+        </v-list-item-content>-->
       </v-list-item>
     </v-list>
 
@@ -76,15 +76,6 @@
       <div />
     </v-list>
 
-    <template v-slot:append>
-      <base-item
-        :item="{
-          title: $t('upgrade'),
-          icon: 'mdi-package-up',
-          to: '/upgrade',
-        }"
-      />
-    </template>
   </v-navigation-drawer>
 </template>
 
@@ -109,7 +100,7 @@
         {
           icon: 'mdi-view-dashboard',
           title: 'dashboard',
-          to: '/',
+          to: '/home',
         },
         {
           icon: 'mdi-account',

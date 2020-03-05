@@ -22,6 +22,8 @@ Vue.use(VueRouter);
 import Router from './routes.js';
 
 const router = new VueRouter({
+    mode: 'hash',
+    base: process.env.BASE_URL,
     routes: Router
 });
 

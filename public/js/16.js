@@ -280,7 +280,10 @@ var render = function() {
       _vm._v(" "),
       _c(
         "v-btn",
-        { staticClass: "ml-2", attrs: { "min-width": "0", text: "", to: "/" } },
+        {
+          staticClass: "ml-2",
+          attrs: { "min-width": "0", text: "", to: "/home" }
+        },
         [_c("v-icon", [_vm._v("mdi-view-dashboard")])],
         1
       ),
