@@ -8,6 +8,7 @@
     use Faker\Factory;
     use Illuminate\Console\Command;
     use Illuminate\Support\Str;
+    use Ramsey\Uuid\Uuid;
 
     /**
      * Class ZyosInstall
@@ -135,6 +136,7 @@
                 $entity = new Products();
                 $entity->name = $faker->company;
                 $entity->slug = Str::slug($entity->name);
+                $entity->token = $faker->uuid;
                 $entity->description = $faker->text(400);
                 $entity->price = $i * 100;
                 $entity->is_active = true;

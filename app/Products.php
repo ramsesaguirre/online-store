@@ -29,7 +29,8 @@
             'slug',
             'description',
             'price',
-            'is_active'
+            'is_active',
+            'token'
         ];
 
         /**

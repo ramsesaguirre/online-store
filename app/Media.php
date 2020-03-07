@@ -25,7 +25,7 @@
          * @var array
          */
         protected $fillable = [
-            'product',
+            'products_id',
             'file'
         ];
 

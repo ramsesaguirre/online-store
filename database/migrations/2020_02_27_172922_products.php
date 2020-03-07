@@ -21,6 +21,7 @@
                 $blueprint->bigIncrements('id');
                 $blueprint->string('name', 190);
                 $blueprint->string('slug', 190);
+                $blueprint->uuid('token');
                 $blueprint->text('description');
                 $blueprint->string('price');
                 $blueprint->boolean('is_active');
