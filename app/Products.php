@@ -39,6 +39,6 @@
          * @return \Illuminate\Database\Eloquent\Relations\HasOne
          */
         public function media() {
-            return $this->hasOne(Media::class);
+            return $this->hasOne(Media::class, 'products_id');
         }
     }

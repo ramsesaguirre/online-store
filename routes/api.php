@@ -53,4 +53,5 @@ Route::delete('/admin/products/{id}/remove', 'Api\AdminProductsController@setRem
 /**
  * Rutas de Productos Cliente
  */
-Route::get('/products', 'Api\ClientProductsController@getList')->name('api_client_products_list');
+Route::get('/products/list', 'Api\ClientProductsController@getList')->name('api_client_products_list');
+Route::get('/products/{token}/show', 'Api\ClientProductsController@getShow')->name('api_client_products_show');

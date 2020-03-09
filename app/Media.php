@@ -29,6 +29,13 @@
             'file'
         ];
 
+        protected $hidden = [
+            'id',
+            'products_id',
+            'created_at',
+            'updated_at'
+        ];
+
         /**
          * Many to one
          *
