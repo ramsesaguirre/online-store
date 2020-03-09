@@ -78,6 +78,8 @@
             $this->output->text(sprintf('[3] <info>Migraciones en la base de datos</info> <comment>%s</comment> <info>ejecutada</info>', $database));
             $this->getLoadFixtures($env);
             $this->output->text(sprintf('[4] <info>Fixtures en la base de datos</info> <comment>%s</comment> <info>ejecutada en modo %s</info>', $database, $env));
+            $this->call('storage:link');
+            $this->output->text(sprintf('[4] <info>Link Directorio Publico creado en modo %s</info>', $database, $env));
             $this->output->newLine();
 
             $this->output->success('Proceso Terminado');
